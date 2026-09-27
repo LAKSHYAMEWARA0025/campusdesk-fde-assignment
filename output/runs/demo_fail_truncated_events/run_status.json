@@ -1,0 +1,19 @@
+{
+  "run_id": "demo_fail_truncated_events",
+  "started_at": "2026-09-27T18:42:02",
+  "simulate": "truncated_events",
+  "stages": {
+    "retrieve": {
+      "ok": true,
+      "files": 29,
+      "secs": 5.9
+    },
+    "validate": {
+      "ok": false,
+      "gate": "FAIL",
+      "secs": 0.0
+    }
+  },
+  "finished_at": "2026-09-27T18:42:08",
+  "exit_code": 1
+}

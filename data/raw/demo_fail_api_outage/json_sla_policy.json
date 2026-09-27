@@ -1,0 +1,18 @@
+{
+  "policy_name": "Student Helpdesk SLA v1 (draft, not formally signed off)",
+  "resolution_targets_hours": {
+    "High": 24,
+    "Medium": 72,
+    "Low": 120
+  },
+  "clock": "calendar hours from ticket creation to FINAL resolution",
+  "pause_states": [
+    "Waiting on Student"
+  ],
+  "excluded_final_states": [
+    "Cancelled",
+    "Closed - No Response"
+  ],
+  "default_priority_if_missing": "Medium",
+  "owner": "Dean of Student Affairs (sponsor) / Helpdesk Manager (operational owner)"
+}

@@ -1,0 +1,4 @@
+segment,tickets,sla_pct,median_escalated_after_h
+not escalated,580,89.3,
+escalated before breach,357,43.7,65.2
+escalated AFTER SLA already breached,132,0.8,85.5

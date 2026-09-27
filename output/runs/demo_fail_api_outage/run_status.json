@@ -1,0 +1,9 @@
+{
+  "run_id": "demo_fail_api_outage",
+  "started_at": "2026-09-27T18:41:55",
+  "simulate": "api_outage",
+  "stages": {},
+  "error": "API retries exhausted for http://127.0.0.1:8765/api/v1/interactions?page=1&page_size=200",
+  "finished_at": "2026-09-27T18:42:01",
+  "exit_code": 2
+}

@@ -1,0 +1,6 @@
+definition,sla_compliance_pct
+"A. Chosen: final resolution, net of waiting-on-student, missing priority = Medium",63.1
+B. Gross calendar hours (no pause for waiting-on-student),61.7
+C. First resolution instead of final (ignores reopens),65.9
+D. Missing priority treated as High (24h),57.5
+E. Also count still-open tickets already past deadline as breaches,60.9

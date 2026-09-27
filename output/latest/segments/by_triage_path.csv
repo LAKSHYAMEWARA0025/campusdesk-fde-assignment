@@ -1,0 +1,3 @@
+segment,tickets,sla_pct,median_triage_h,reassigned_pct
+auto-routed,680,64.6,0.1,12.5
+manual triage queue,389,60.7,13.2,12.3

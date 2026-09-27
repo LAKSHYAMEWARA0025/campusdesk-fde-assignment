@@ -1,0 +1,4 @@
+segment,target_h,tickets,sla_pct,median_net_h,median_first_resp_h
+High,24,139,20.9,57.9,19.3
+Medium,72,682,63.6,52.7,18.2
+Low,120,248,85.5,51.3,16.3

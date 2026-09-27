@@ -1,0 +1,234 @@
+[
+  {
+    "file": "sql_tickets.csv",
+    "source_type": "SQL",
+    "origin": "helpdesk.db :: SELECT * FROM tickets",
+    "rows": 1254,
+    "sha256": "f0632dd6228e1957",
+    "retrieved_at": "2026-09-27T18:42:02"
+  },
+  {
+    "file": "sql_students.csv",
+    "source_type": "SQL",
+    "origin": "helpdesk.db :: SELECT student_id, program, year, hostel_block FROM students",
+    "rows": 1800,
+    "sha256": "b4752fe418906632",
+    "retrieved_at": "2026-09-27T18:42:02"
+  },
+  {
+    "file": "sql_agents.csv",
+    "source_type": "SQL",
+    "origin": "helpdesk.db :: SELECT agent_id, department, role, active FROM agents",
+    "rows": 15,
+    "sha256": "acf5b132aa55ddb8",
+    "retrieved_at": "2026-09-27T18:42:02"
+  },
+  {
+    "file": "csv_ticket_events.csv",
+    "source_type": "CSV",
+    "origin": "ticketing tool audit-log export",
+    "rows": 3924,
+    "sha256": "27b81af5a4176fef",
+    "retrieved_at": "2026-09-27T18:42:02"
+  },
+  {
+    "file": "json_csat_survey_export.json",
+    "source_type": "JSON",
+    "origin": "csat_survey_export.json",
+    "rows": 424,
+    "sha256": "da4c99849f3408c4",
+    "retrieved_at": "2026-09-27T18:42:02"
+  },
+  {
+    "file": "json_sla_policy.json",
+    "source_type": "JSON",
+    "origin": "sla_policy.json",
+    "rows": 1,
+    "sha256": "6776a6817637486c",
+    "retrieved_at": "2026-09-27T18:42:02"
+  },
+  {
+    "file": "api_interactions_page_001.json",
+    "source_type": "API",
+    "origin": "GET /api/v1/interactions?page=1",
+    "rows": 200,
+    "sha256": "d63f63d622c1921b",
+    "retrieved_at": "2026-09-27T18:42:08"
+  },
+  {
+    "file": "api_interactions_page_002.json",
+    "source_type": "API",
+    "origin": "GET /api/v1/interactions?page=2",
+    "rows": 200,
+    "sha256": "f00c3024d812378b",
+    "retrieved_at": "2026-09-27T18:42:08"
+  },
+  {
+    "file": "api_interactions_page_003.json",
+    "source_type": "API",
+    "origin": "GET /api/v1/interactions?page=3",
+    "rows": 200,
+    "sha256": "09c695006d9af2f8",
+    "retrieved_at": "2026-09-27T18:42:08"
+  },
+  {
+    "file": "api_interactions_page_004.json",
+    "source_type": "API",
+    "origin": "GET /api/v1/interactions?page=4",
+    "rows": 200,
+    "sha256": "606a36a2a566f004",
+    "retrieved_at": "2026-09-27T18:42:08"
+  },
+  {
+    "file": "api_interactions_page_005.json",
+    "source_type": "API",
+    "origin": "GET /api/v1/interactions?page=5",
+    "rows": 200,
+    "sha256": "20afccf9277ae51c",
+    "retrieved_at": "2026-09-27T18:42:08"
+  },
+  {
+    "file": "api_interactions_page_006.json",
+    "source_type": "API",
+    "origin": "GET /api/v1/interactions?page=6",
+    "rows": 200,
+    "sha256": "3355300bc94d0008",
+    "retrieved_at": "2026-09-27T18:42:08"
+  },
+  {
+    "file": "api_interactions_page_007.json",
+    "source_type": "API",
+    "origin": "GET /api/v1/interactions?page=7",
+    "rows": 200,
+    "sha256": "699310272007c375",
+    "retrieved_at": "2026-09-27T18:42:08"
+  },
+  {
+    "file": "api_interactions_page_008.json",
+    "source_type": "API",
+    "origin": "GET /api/v1/interactions?page=8",
+    "rows": 200,
+    "sha256": "1071324a60bcacec",
+    "retrieved_at": "2026-09-27T18:42:08"
+  },
+  {
+    "file": "api_interactions_page_009.json",
+    "source_type": "API",
+    "origin": "GET /api/v1/interactions?page=9",
+    "rows": 200,
+    "sha256": "21a5c2e1012a66fb",
+    "retrieved_at": "2026-09-27T18:42:08"
+  },
+  {
+    "file": "api_interactions_page_010.json",
+    "source_type": "API",
+    "origin": "GET /api/v1/interactions?page=10",
+    "rows": 200,
+    "sha256": "46bb2d0604378341",
+    "retrieved_at": "2026-09-27T18:42:08"
+  },
+  {
+    "file": "api_interactions_page_011.json",
+    "source_type": "API",
+    "origin": "GET /api/v1/interactions?page=11",
+    "rows": 200,
+    "sha256": "b6a144c45fe7af78",
+    "retrieved_at": "2026-09-27T18:42:08"
+  },
+  {
+    "file": "api_interactions_page_012.json",
+    "source_type": "API",
+    "origin": "GET /api/v1/interactions?page=12",
+    "rows": 200,
+    "sha256": "dfee001047c982ff",
+    "retrieved_at": "2026-09-27T18:42:08"
+  },
+  {
+    "file": "api_interactions_page_013.json",
+    "source_type": "API",
+    "origin": "GET /api/v1/interactions?page=13",
+    "rows": 200,
+    "sha256": "e3b288e4a0c7f8f8",
+    "retrieved_at": "2026-09-27T18:42:08"
+  },
+  {
+    "file": "api_interactions_page_014.json",
+    "source_type": "API",
+    "origin": "GET /api/v1/interactions?page=14",
+    "rows": 200,
+    "sha256": "4337ff11422cd98a",
+    "retrieved_at": "2026-09-27T18:42:08"
+  },
+  {
+    "file": "api_interactions_page_015.json",
+    "source_type": "API",
+    "origin": "GET /api/v1/interactions?page=15",
+    "rows": 200,
+    "sha256": "ad8d904de064f953",
+    "retrieved_at": "2026-09-27T18:42:08"
+  },
+  {
+    "file": "api_interactions_page_016.json",
+    "source_type": "API",
+    "origin": "GET /api/v1/interactions?page=16",
+    "rows": 200,
+    "sha256": "896a107a53b38274",
+    "retrieved_at": "2026-09-27T18:42:08"
+  },
+  {
+    "file": "api_interactions_page_017.json",
+    "source_type": "API",
+    "origin": "GET /api/v1/interactions?page=17",
+    "rows": 200,
+    "sha256": "589b05bb2d89a8ec",
+    "retrieved_at": "2026-09-27T18:42:08"
+  },
+  {
+    "file": "api_interactions_page_018.json",
+    "source_type": "API",
+    "origin": "GET /api/v1/interactions?page=18",
+    "rows": 200,
+    "sha256": "457a936d35f77099",
+    "retrieved_at": "2026-09-27T18:42:08"
+  },
+  {
+    "file": "api_interactions_page_019.json",
+    "source_type": "API",
+    "origin": "GET /api/v1/interactions?page=19",
+    "rows": 200,
+    "sha256": "810739a1082e9274",
+    "retrieved_at": "2026-09-27T18:42:08"
+  },
+  {
+    "file": "api_interactions_page_020.json",
+    "source_type": "API",
+    "origin": "GET /api/v1/interactions?page=20",
+    "rows": 200,
+    "sha256": "6fd22bb5a0dbea0f",
+    "retrieved_at": "2026-09-27T18:42:08"
+  },
+  {
+    "file": "api_interactions_page_021.json",
+    "source_type": "API",
+    "origin": "GET /api/v1/interactions?page=21",
+    "rows": 200,
+    "sha256": "de29882032630809",
+    "retrieved_at": "2026-09-27T18:42:08"
+  },
+  {
+    "file": "api_interactions_page_022.json",
+    "source_type": "API",
+    "origin": "GET /api/v1/interactions?page=22",
+    "rows": 200,
+    "sha256": "74fc7577f2c19d63",
+    "retrieved_at": "2026-09-27T18:42:08"
+  },
+  {
+    "file": "api_interactions_page_023.json",
+    "source_type": "API",
+    "origin": "GET /api/v1/interactions?page=23",
+    "rows": 150,
+    "sha256": "eee24cc4acdecabb",
+    "retrieved_at": "2026-09-27T18:42:08"
+  }
+]

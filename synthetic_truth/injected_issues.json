@@ -1,0 +1,11 @@
+{
+  "priority_missing": 142,
+  "exact_duplicate_rows": 24,
+  "double_submissions_cancelled": 22,
+  "duplicate_events": 77,
+  "orphan_events": 40,
+  "clock_skewed_created_events": 8,
+  "csat_out_of_range": 9,
+  "csat_duplicates": 15,
+  "csat_missing_ref": 6
+}

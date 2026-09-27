@@ -1,0 +1,6 @@
+segment,tickets
+IN KPI: resolved in period,1069
+still open at export,103
+closed - student never replied,28
+cancelled / duplicate submission,22
+chronology violation (clock skew),8

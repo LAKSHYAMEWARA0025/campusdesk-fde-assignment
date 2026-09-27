@@ -1,0 +1,1255 @@
+ticket_id,student_id,channel,category,priority,subject,created_at,status,current_department,resolved_at,last_updated_at
+TKT-100001,STU25730,email,Hostel & Maintenance,,Fan not working,27/07/2026 13:44,CLOSED,Hostel & Maintenance,2026-07-29 19:21:15,2026-07-29 19:21:15
+TKT-100002,STU25714,portal,Fees & Finance,Low,Hall ticket not generated,2026-07-27 13:09:59,Closed,Academics & Exams,2026-08-05 09:00:00,2026-08-05 09:00:00
+TKT-100003,STU25581,portal,HOSTEL ,Medium,Fan not working,2026-07-27 12:44:32,Closed,Hostel & Maintenance,2026-07-30 13:55:49,2026-07-30 13:55:49
+TKT-100004,STU25454,portal,Fees & Finance,Low,Installment plan request,2026-07-27 09:44:02,Closed,Fees & Finance,2026-07-31 09:00:00,2026-07-31 09:00:00
+TKT-100005,STU24648,portal,Library,Medium,Printer quota issue,2026-07-27 23:45:01,closed,IT Support,2026-07-31 10:32:19,2026-07-31 10:32:19
+TKT-100006,STU24556,portal,Other,Medium,Attendance shortage query,2026-07-27 09:27:37,Closed,Academics & Exams,2026-07-29 13:31:10,2026-07-29 13:31:10
+TKT-100007,STU25485,portal,Finance,Low,Refund of caution deposit,2026-07-27 11:24:12,closed,Fees & Finance,2026-08-03 16:14:12,2026-08-03 16:14:12
+TKT-100008,STU24865,portal,IT Support,Medium,VPN access request,2026-07-27 17:08:27,Closed,IT Support,2026-07-28 09:25:44,2026-07-28 09:25:44
+TKT-100009,STU24148,email,IT Support,High,Laptop not connecting to campus network,27/07/2026 17:10,CLOSED,IT Support,2026-07-29 10:09:10,2026-07-29 10:09:10
+TKT-100010,STU24883,portal,Hostel & Maintenance,Medium,Pest issue in room,2026-07-27 22:12:34,Closed,Hostel & Maintenance,2026-07-29 18:51:48,2026-07-29 18:51:48
+TKT-100011,STU24816,email,IT Support,,Cannot log in to LMS,2026-07-27 15:25:25,Closed,IT Support,2026-07-29 11:02:19,2026-07-29 11:02:19
+TKT-100012,STU25315,portal,IT Support,Medium,VPN access request,2026-07-27 20:58:36,Closed,IT Support,2026-07-29 12:05:21,2026-07-31 09:12:49
+TKT-100013,STU25575,portal,Other,Low,Fan not working,2026-07-27 18:38:29,Closed,Hostel & Maintenance,2026-07-29 09:49:42,2026-07-29 09:49:42
+TKT-100014,STU24380,portal,Fees & Finance,High,Refund of caution deposit,2026-07-27 19:09:07,CLOSED,Fees & Finance,2026-07-30 13:02:41,2026-07-30 13:02:41
+TKT-100015,STU24768,portal,Hostel & Maintenance,Medium,Water leakage in bathroom,2026-07-27 13:31:50,Closed,Hostel & Maintenance,,2026-07-28 13:02:14
+TKT-100016,STU24106,portal,IT Support,Low,VPN access request,2026-07-27 18:00:17,Closed,IT Support,2026-07-28 15:21:13,2026-07-28 15:21:13
+TKT-100017,STU25360,portal,Library,Medium,Late fee charged wrongly,2026-07-27 15:19:58,Closed,Fees & Finance,,2026-07-29 13:23:33
+TKT-100018,STU25154,walk_in,IT Support,Medium,Email account locked,2026-07-27 17:45:53,Closed,IT Support,2026-07-28 13:18:56,2026-07-28 13:18:56
+TKT-100019,STU24383,portal,IT Support,Low,VPN access request,2026-07-27 22:40:02,Closed,IT Support,2026-07-29 08:16:29,2026-07-29 08:16:29
+TKT-100020,STU25743,portal,Hostel & Maintenance,Medium,Fan not working,2026-07-27 21:49:28,Closed,Hostel & Maintenance,2026-07-28 16:26:11,2026-07-28 16:26:11
+TKT-100021,STU24486,walk_in,IT Support,Low,Cannot log in to LMS,2026-07-27 15:21:43,Closed,IT Support,2026-07-28 10:25:53,2026-07-28 10:25:53
+TKT-100022,STU25124,email,IT Support,,Wi-Fi not working in room,27/07/2026 17:27,closed,IT Support,2026-07-29 12:16:05,2026-07-29 12:16:05
+TKT-100023,STU24329,portal,Fees & Finance,High,Fee receipt not generated,2026-07-27 20:31:22,Closed,Fees & Finance,,2026-07-31 09:00:00
+TKT-100024,STU24822,portal,fees & finance,Medium,Refund of caution deposit,2026-07-27 15:31:47,Closed,Fees & Finance,2026-07-30 10:45:59,2026-07-30 10:45:59
+TKT-100025,STU25322,portal,Other,High,E-resource access issue,2026-07-27 14:39:06,Closed,Library,2026-07-28 13:00:33,2026-07-28 13:00:33
+TKT-100026,STU24179,portal,Fees & Finance,Low,Late fee charged wrongly,2026-07-27 17:41:44,closed,Fees & Finance,2026-07-30 13:53:37,2026-07-30 13:53:37
+TKT-100027,STU24621,portal,Hostel,Medium,Pest issue in room,2026-07-27 19:42:42,closed,Hostel & Maintenance,2026-07-31 08:00:00,2026-07-31 08:00:00
+TKT-100028,STU24292,portal,Fees & Finance,Low,Wi-Fi not working in room,2026-07-27 08:12:49,Closed,IT Support,2026-07-30 08:00:00,2026-07-30 08:00:00
+TKT-100029,STU24550,portal,library,Low,Pest issue in room,2026-07-27 18:49:18,Closed,Hostel & Maintenance,2026-07-31 08:00:00,2026-07-31 08:00:00
+TKT-100030,STU24815,portal,Hostel & Maintenance,Medium,Fan not working,2026-07-28 12:14:27,Closed,Hostel & Maintenance,2026-07-31 10:05:53,2026-07-31 10:05:53
+TKT-100031,STU24624,portal,library,Medium,E-resource access issue,2026-07-28 08:32:44,Closed,Library,2026-07-28 12:24:23,2026-07-28 12:24:23
+TKT-100032,STU24016,portal,Hostel & Maintenance,Medium,No hot water,2026-07-28 12:37:40,Closed,Hostel & Maintenance,2026-07-29 15:35:57,2026-07-29 15:35:57
+TKT-100033,STU25200,portal,Academics & Exams,High,Hall ticket not generated,2026-07-28 20:57:03,Closed,Academics & Exams,2026-08-03 09:00:00,2026-08-03 09:00:00
+TKT-100034,STU24981,portal,Academics & Exams,Low,Re-evaluation request,2026-07-28 22:34:27,Closed,Academics & Exams,2026-08-04 09:00:00,2026-08-04 09:00:00
+TKT-100035,STU25582,portal,hostel maintenance,High,Mess food complaint,2026-07-28 23:46:31,Closed - No Response,Hostel & Maintenance,,2026-08-03 09:49:02
+TKT-100036,STU25628,portal,Fees & Finance,Medium,Fee receipt not generated,2026-07-28 19:15:06,Closed,Fees & Finance,2026-07-31 11:38:36,2026-07-31 11:38:36
+TKT-100037,STU25642,portal,Hostel & Maintenance,Low,AC not cooling,2026-07-28 15:42:37,Closed,Hostel & Maintenance,2026-07-29 10:35:14,2026-07-29 10:35:14
+TKT-100038,STU25563,email,IT Support,Medium,Cannot log in to LMS,2026-07-28 18:11:41,Closed,IT Support,2026-07-30 10:55:25,2026-07-30 10:55:25
+TKT-100039,STU24516,portal,Library ,Medium,Library fine dispute,2026-07-28 13:52:58,closed,Library,2026-07-29 17:04:04,2026-07-29 17:04:04
+TKT-100040,STU24820,portal,Fees & Finance,High,Refund of caution deposit,2026-07-28 08:36:30,Closed,Fees & Finance,2026-07-31 09:00:00,2026-07-31 09:00:00
+TKT-100041,STU24248,portal,HOSTEL ,Medium,Fan not working,2026-07-28 10:52:10,Closed,Hostel & Maintenance,2026-07-30 10:20:07,2026-07-30 10:20:07
+TKT-100042,STU24932,email,Library,Medium,E-resource access issue,2026-07-28 08:05:16,CLOSED,Library,2026-07-29 17:49:39,2026-07-29 17:49:39
+TKT-100043,STU24161,portal,Hostel & Maintenance,Medium,Fan not working,2026-07-28 23:23:25,closed,Hostel & Maintenance,2026-07-31 11:55:35,2026-07-31 11:55:35
+TKT-100044,STU25685,portal,Other,High,Laptop not connecting to campus network,2026-07-28 20:12:08,Closed,IT Support,2026-07-30 11:15:02,2026-07-30 11:15:02
+TKT-100045,STU24217,portal,Hostel & Maintenance,Medium,No hot water,2026-07-28 18:24:20,Closed,Hostel & Maintenance,2026-07-29 19:21:22,2026-07-29 19:21:22
+TKT-100046,STU25689,portal,Other,Low,No hot water,2026-07-28 14:09:18,Closed,Hostel & Maintenance,2026-07-31 12:50:09,2026-07-31 12:50:09
+TKT-100047,STU24271,email,Hostel & Maintenance,Medium,Water leakage in bathroom,28/07/2026 22:29,Closed,Hostel & Maintenance,2026-08-07 18:01:35,2026-08-07 18:01:35
+TKT-100048,STU25239,portal,Finance,Low,Fee receipt not generated,2026-07-28 10:39:39,Closed,Fees & Finance,2026-08-03 09:00:00,2026-08-03 09:00:00
+TKT-100049,STU24938,email,IT Support,,VPN access request,2026-07-28 12:16:02,Closed,IT Support,2026-07-28 18:56:23,2026-07-28 18:56:23
+TKT-100050,STU24540,portal,Academics & Exams,Medium,Wrong marks uploaded,2026-07-28 11:14:22,Closed,Academics & Exams,2026-07-31 09:43:41,2026-07-31 09:43:41
+TKT-100051,STU24078,portal,Hostel,Medium,Fan not working,2026-07-28 21:11:05,Closed,Hostel & Maintenance,2026-07-30 17:26:12,2026-07-30 17:26:12
+TKT-100052,STU24203,portal,Hostel & Maintenance,Medium,Room lock broken,2026-07-28 22:57:06,Closed,Hostel & Maintenance,2026-08-03 08:00:00,2026-08-03 08:00:00
+TKT-100053,STU24874,email,Library,Medium,Fee receipt not generated,28/07/2026 11:49,Closed,Fees & Finance,2026-08-06 12:53:49,2026-08-06 12:53:49
+TKT-100054,STU25013,portal,Library,Medium,Book renewal failed,2026-07-29 18:12:31,Closed,Library,2026-07-30 16:08:26,2026-07-30 16:08:26
+TKT-100055,STU24533,portal,IT Support,Medium,VPN access request,2026-07-29 08:54:01,Closed,IT Support,2026-07-29 18:37:37,2026-07-29 18:37:37
+TKT-100056,STU25373,portal,Hostel & Maintenance,Low,No hot water,2026-07-29 12:52:51,Closed,Hostel & Maintenance,2026-08-04 08:00:00,2026-08-04 08:00:00
+TKT-100057,STU24227,email,IT Support,,Email account locked,2026-07-29 15:50:05,Closed,IT Support,2026-08-01 15:40:18,2026-08-01 15:40:18
+TKT-100058,STU24700,walk_in,Fees & Finance,Low,Fee receipt not generated,2026-07-29 14:59:52,Closed,Fees & Finance,2026-08-04 09:00:00,2026-08-04 09:00:00
+TKT-100059,STU25765,email,Exam Cell,High,Hall ticket not generated,29/07/2026 12:15,Closed,Academics & Exams,2026-08-04 16:04:58,2026-08-04 16:04:58
+TKT-100060,STU24342,portal,Hostel & Maintenance,Medium,Pest issue in room,2026-07-29 08:54:13,Closed,Hostel & Maintenance,2026-08-03 15:46:53,2026-08-07 11:42:34
+TKT-100061,STU24983,portal,Academics & Exams,Medium,Hall ticket not generated,2026-07-29 20:01:41,Closed,Academics & Exams,2026-08-04 09:00:00,2026-08-04 09:00:00
+TKT-100062,STU24561,portal,IT Support,Low,VPN access request,2026-07-29 10:20:28,Closed,IT Support,2026-07-30 13:33:41,2026-07-30 13:33:41
+TKT-100063,STU25390,portal,IT Support,Medium,Laptop not connecting to campus network,2026-07-29 13:51:33,Closed - No Response,IT Support,,2026-08-02 13:47:08
+TKT-100064,STU25555,email,IT Support,Medium,Printer quota issue,2026-07-29 20:56:14,Closed,IT Support,2026-07-31 14:53:33,2026-07-31 14:53:33
+TKT-100065,STU25755,portal,IT Support,Medium,Email account locked,2026-07-29 07:00:42,Closed,IT Support,2026-07-29 12:15:44,2026-07-29 12:15:44
+TKT-100066,STU24009,portal,Hostel & Maintenance,Medium,AC not cooling,2026-07-29 17:30:31,Closed,Hostel & Maintenance,2026-08-03 13:28:09,2026-08-03 13:28:09
+TKT-100067,STU24783,email,Academics,,Attendance shortage query,2026-07-29 14:57:35,Closed,Academics & Exams,2026-08-04 09:00:00,2026-08-04 09:00:00
+TKT-100068,STU24074,portal,library,Medium,Book renewal failed,2026-07-29 11:17:37,Closed,Library,2026-07-31 09:52:39,2026-07-31 09:52:39
+TKT-100069,STU24787,portal,Fees & Finance,Low,Fee receipt not generated,2026-07-29 07:29:15,CLOSED,Fees & Finance,2026-08-03 12:34:01,2026-08-04 14:30:07
+TKT-100070,STU24999,portal,Library,Medium,Installment plan request,2026-07-29 15:46:27,Closed,Fees & Finance,2026-08-04 09:00:00,2026-08-04 09:00:00
+TKT-100071,STU24305,portal,Fees & Finance,Medium,Refund of caution deposit,2026-07-29 13:24:04,Closed,Fees & Finance,2026-08-04 09:00:00,2026-08-04 09:00:00
+TKT-100072,STU25789,portal,Library,Low,E-resource access issue,2026-07-29 19:45:31,CLOSED,Library,2026-07-30 16:57:54,2026-07-30 16:57:54
+TKT-100073,STU24839,portal,hostel maintenance,Low,Pest issue in room,2026-07-29 07:10:46,Closed,Hostel & Maintenance,2026-07-30 09:26:44,2026-07-30 09:26:44
+TKT-100074,STU25444,portal,Fees & Finance,Medium,Scholarship amount not credited,2026-07-29 23:53:53,Closed,Fees & Finance,2026-08-03 13:40:38,2026-08-03 13:40:38
+TKT-100075,STU24109,portal,Hostel & Maintenance,Medium,No hot water,2026-07-30 15:20:18,Closed,Hostel & Maintenance,2026-08-01 14:14:09,2026-08-01 14:14:09
+TKT-100076,STU25325,portal,Library,Low,Late fee charged wrongly,2026-07-30 09:58:03,Closed,Fees & Finance,2026-08-10 09:00:00,2026-08-10 09:00:00
+TKT-100077,STU25371,email,hostel maintenance,Medium,Mess food complaint,30/07/2026 18:48,Closed,Hostel & Maintenance,2026-08-01 17:38:16,2026-08-01 17:38:16
+TKT-100078,STU24350,email,IT Support,,Email account locked,2026-07-30 12:35:02,Closed,IT Support,2026-07-31 13:45:16,2026-07-31 13:45:16
+TKT-100079,STU25229,portal,Hostel & Maintenance,Low,Mess food complaint,2026-07-30 14:30:32,Closed,Hostel & Maintenance,2026-07-31 14:27:01,2026-08-01 15:28:42
+TKT-100080,STU24806,portal,IT support ,Medium,Printer quota issue,2026-07-30 21:43:17,Closed,IT Support,2026-07-31 14:02:34,2026-07-31 14:02:34
+TKT-100081,STU24339,portal,Other,Low,Mess food complaint,2026-07-30 11:50:57,Closed - No Response,Hostel & Maintenance,,2026-08-06 12:35:36
+TKT-100082,STU24612,portal,Fees & Finance,Low,Fee receipt not generated,2026-07-30 19:09:50,Closed,Fees & Finance,2026-08-04 09:00:00,2026-08-04 09:00:00
+TKT-100083,STU25329,portal,IT support ,Medium,Wi-Fi not working in room,2026-07-30 01:44:23,Closed,IT Support,2026-07-30 09:37:19,2026-07-30 09:37:19
+TKT-100084,STU24551,portal,Hostel & Maintenance,Medium,AC not cooling,2026-07-30 09:12:31,closed,Hostel & Maintenance,2026-08-07 15:45:10,2026-08-07 15:45:10
+TKT-100085,STU25329,portal,Hostel & Maintenance,Medium,Pest issue in room,2026-07-30 20:53:53,Closed,Hostel & Maintenance,2026-08-01 16:26:46,2026-08-01 16:26:46
+TKT-100086,STU25443,portal,IT,Low,Pest issue in room,2026-07-30 15:14:47,CLOSED,Hostel & Maintenance,2026-08-03 14:04:53,2026-08-03 14:04:53
+TKT-100087,STU24139,portal,Fees,Medium,Fee receipt not generated,2026-07-30 20:29:46,Closed,Fees & Finance,2026-08-04 09:00:00,2026-08-04 09:00:00
+TKT-100088,STU24898,email,Library,Medium,Book renewal failed,30/07/2026 12:20,Closed,Library,2026-07-31 16:20:40,2026-07-31 16:20:40
+TKT-100089,STU24534,portal,Library ,Medium,Book renewal failed,2026-07-30 20:13:17,Closed,Library,2026-07-31 17:36:26,2026-07-31 17:36:26
+TKT-100090,STU25796,email,Fees & Finance,High,Fee receipt not generated,2026-07-30 10:36:25,Closed,Fees & Finance,2026-08-07 16:27:59,2026-08-07 16:27:59
+TKT-100091,STU24118,portal,Academics & Exams,Low,Printer quota issue,2026-07-30 17:51:50,Closed,IT Support,2026-08-03 08:54:03,2026-08-03 08:54:03
+TKT-100092,STU25058,walk_in,IT Support,Medium,Email account locked,2026-07-31 13:19:20,Closed,IT Support,2026-07-31 17:50:26,2026-07-31 17:50:26
+TKT-100093,STU24382,portal,Academics & Exams,Medium,Re-evaluation request,2026-07-31 17:58:36,Closed,Academics & Exams,2026-08-10 09:00:00,2026-08-10 09:00:00
+TKT-100094,STU24237,email,Hostel & Maintenance,Medium,Fan not working,31/07/2026 16:42,Closed,Hostel & Maintenance,2026-08-06 10:17:02,2026-08-06 10:17:02
+TKT-100095,STU25644,portal,IT Support,Medium,Cannot log in to LMS,2026-07-31 07:45:33,Closed,IT Support,2026-08-01 12:20:07,2026-08-01 12:20:07
+TKT-100096,STU24463,walk_in,IT Support,Low,Laptop not connecting to campus network,2026-07-31 09:54:43,Closed,IT Support,2026-08-01 10:22:25,2026-08-01 10:22:25
+TKT-100097,STU24226,email,Academics & Exams,,Attendance shortage query,31/07/2026 17:01,Closed,Academics & Exams,2026-08-04 09:00:00,2026-08-04 09:00:00
+TKT-100098,STU24224,portal,Library,Medium,Cannot log in to LMS,2026-07-31 14:39:40,CLOSED,IT Support,2026-08-03 12:13:29,2026-08-03 12:13:29
+TKT-100099,STU24698,portal,Hostel & Maintenance,Medium,Fan not working,2026-07-31 08:43:21,Closed,Hostel & Maintenance,2026-08-01 09:10:46,2026-08-01 09:10:46
+TKT-100100,STU25280,email,IT Support,,Cannot log in to LMS,31/07/2026 18:16,Closed,IT Support,2026-08-03 12:30:22,2026-08-03 12:30:22
+TKT-100101,STU24788,portal,Hostel & Maintenance,Low,Water leakage in bathroom,2026-07-31 13:46:24,Closed - No Response,Hostel & Maintenance,,2026-08-04 08:48:18
+TKT-100102,STU24826,email,Academics & Exams,Medium,Attendance shortage query,2026-07-31 10:13:44,Closed,Academics & Exams,2026-08-04 09:00:00,2026-08-06 10:57:06
+TKT-100103,STU24254,portal,IT Support,Medium,VPN access request,2026-07-31 14:19:12,Closed,IT Support,2026-08-01 09:13:29,2026-08-01 09:13:29
+TKT-100104,STU24506,portal,IT Support,Medium,Fan not working,2026-07-31 09:52:00,Closed,Hostel & Maintenance,2026-08-03 13:11:07,2026-08-03 13:11:07
+TKT-100105,STU25018,email,Fees & Finance,High,Scholarship amount not credited,2026-07-31 22:17:32,closed,Fees & Finance,2026-08-04 09:00:00,2026-08-06 12:28:42
+TKT-100106,STU24021,email,Hostel & Maintenance,Medium,Fan not working,2026-07-31 14:39:15,CLOSED,Hostel & Maintenance,2026-08-03 13:32:42,2026-08-03 13:32:42
+TKT-100107,STU24927,portal,HOSTEL ,Medium,Mess food complaint,2026-07-31 18:34:11,Closed,Hostel & Maintenance,2026-08-05 16:56:08,2026-08-05 16:56:08
+TKT-100108,STU24092,portal,Hostel & Maintenance,High,AC not cooling,2026-07-31 19:57:41,Closed,Hostel & Maintenance,2026-08-04 08:00:00,2026-08-04 08:00:00
+TKT-100109,STU25406,portal,Hostel,High,Fan not working,2026-07-31 22:28:33,Closed,Hostel & Maintenance,2026-08-05 08:00:00,2026-08-05 08:00:00
+TKT-100110,STU25525,portal,Library,Medium,E-resource access issue,2026-07-31 22:06:06,closed,Library,2026-08-03 10:05:39,2026-08-03 10:05:39
+TKT-100111,STU24560,email,Academics & Exams,Low,Exam clash,2026-07-31 14:02:22,Closed,Academics & Exams,2026-08-04 09:00:00,2026-08-04 09:00:00
+TKT-100112,STU24177,email,fees & finance,,Refund of caution deposit,2026-07-31 19:36:20,Closed,Fees & Finance,2026-08-04 09:00:00,2026-08-05 15:30:45
+TKT-100113,STU25312,walk_in,Hostel & Maintenance,Medium,Water leakage in bathroom,2026-07-31 09:42:00,Closed,Hostel & Maintenance,2026-08-01 15:17:20,2026-08-01 15:17:20
+TKT-100114,STU24595,portal,Academics & Exams,Medium,Exam clash,2026-07-31 12:22:58,Closed,Academics & Exams,2026-08-05 09:28:23,2026-08-05 09:28:23
+TKT-100115,STU25581,portal,Fees & Finance,Medium,Pest issue in room,2026-07-31 10:47:56,Closed,Hostel & Maintenance,2026-08-08 09:03:59,2026-08-08 09:03:59
+TKT-100116,STU25723,email,Hostel & Maintenance,Medium,Mess food complaint,2026-07-31 10:01:39,Closed,Hostel & Maintenance,2026-08-03 14:01:58,2026-08-03 14:01:58
+TKT-100117,STU24790,email,IT Support,Medium,Email account locked,2026-07-31 13:54:07,Closed,IT Support,2026-08-01 17:57:06,2026-08-01 17:57:06
+TKT-100118,STU24988,email,academics & exams,Medium,Exam clash,31/07/2026 14:39,Closed,Academics & Exams,2026-08-03 13:49:16,2026-08-03 13:49:16
+TKT-100119,STU24849,portal,Hostel & Maintenance,Medium,Scholarship amount not credited,2026-07-31 11:40:16,CLOSED,Fees & Finance,2026-08-06 09:00:00,2026-08-06 09:00:00
+TKT-100120,STU24976,email,Hostel & Maintenance,Medium,Fan not working,2026-07-31 14:51:10,closed,Hostel & Maintenance,2026-08-05 10:09:28,2026-08-05 10:09:28
+TKT-100121,STU24424,walk_in,Fees & Finance,Medium,Refund of caution deposit,2026-08-01 12:14:00,Closed,Fees & Finance,2026-08-04 12:42:44,2026-08-04 12:42:44
+TKT-100122,STU24633,portal,Fees & Finance,Medium,Fee receipt not generated,2026-08-01 09:24:41,Closed,Fees & Finance,2026-08-06 09:00:00,2026-08-06 09:00:00
+TKT-100123,STU24609,portal,it support,Low,Email account locked,2026-08-01 11:43:47,Closed,IT Support,2026-08-01 17:10:40,2026-08-01 17:10:40
+TKT-100124,STU25491,email,Hostel & Maintenance,High,Pest issue in room,01/08/2026 06:54,Closed,Hostel & Maintenance,,2026-08-03 09:24:12
+TKT-100125,STU25137,portal,Hostel & Maintenance,Medium,AC not cooling,2026-08-01 08:02:39,Closed,Hostel & Maintenance,2026-08-03 15:23:57,2026-08-03 15:23:57
+TKT-100126,STU24007,walk_in,Fees & Finance,Medium,Late fee charged wrongly,2026-08-01 12:21:21,Closed,Fees & Finance,2026-08-06 09:00:00,2026-08-06 09:00:00
+TKT-100127,STU24205,portal,Hostel & Maintenance,Medium,Pest issue in room,2026-08-01 10:57:17,Closed,Hostel & Maintenance,2026-08-04 14:31:24,2026-08-04 14:31:24
+TKT-100128,STU24973,portal,hostel maintenance,Medium,Scholarship amount not credited,2026-08-01 10:43:21,Closed,Fees & Finance,2026-08-12 09:00:00,2026-08-12 09:00:00
+TKT-100129,STU25596,email,Academics,Low,Course registration error,2026-08-01 06:14:46,Closed,Academics & Exams,2026-08-05 09:00:00,2026-08-05 09:00:00
+TKT-100130,STU24079,email,IT Support,,Laptop not connecting to campus network,01/08/2026 21:54,Closed,IT Support,,2026-08-03 13:23:58
+TKT-100131,STU25767,portal,IT,Low,VPN access request,2026-08-01 12:34:37,Closed,IT Support,2026-08-03 10:54:12,2026-08-03 10:54:12
+TKT-100132,STU25782,portal,Hostel & Maintenance,High,Fan not working,2026-08-01 00:24:42,Closed,Hostel & Maintenance,2026-08-04 16:31:24,2026-08-04 16:31:24
+TKT-100133,STU24782,email,Hostel & Maintenance,Low,Mess food complaint,01/08/2026 17:09,CLOSED,Hostel & Maintenance,2026-08-05 08:00:00,2026-08-05 08:00:00
+TKT-100134,STU25336,portal,IT,High,Cannot log in to LMS,2026-08-01 10:09:41,Closed,IT Support,2026-08-03 08:48:27,2026-08-03 08:48:27
+TKT-100135,STU24808,portal,IT Support,Medium,Printer quota issue,2026-08-01 08:00:51,Closed,IT Support,2026-08-01 10:16:31,2026-08-03 09:05:14
+TKT-100136,STU25419,portal,hostel maintenance,Medium,Mess food complaint,2026-08-01 09:55:44,Closed,Hostel & Maintenance,2026-08-01 19:20:11,2026-08-01 19:20:11
+TKT-100137,STU25342,email,Academics & Exams,Medium,Course registration error,2026-08-02 17:55:54,Closed,Academics & Exams,2026-08-05 11:39:56,2026-08-05 11:39:56
+TKT-100138,STU24652,portal,Academics & Exams,Medium,Attendance shortage query,2026-08-02 11:25:58,Closed,Academics & Exams,2026-08-05 10:38:46,2026-08-05 10:38:46
+TKT-100139,STU25426,portal,Library,Medium,Printer quota issue,2026-08-02 15:11:13,CLOSED,IT Support,2026-08-04 19:42:33,2026-08-04 19:42:33
+TKT-100140,STU24429,portal,Academics & Exams,Medium,Attendance shortage query,2026-08-02 07:12:32,Closed,Academics & Exams,2026-08-13 15:45:14,2026-08-13 15:45:14
+TKT-100141,STU24188,email,Fees & Finance,,Scholarship amount not credited,02/08/2026 13:08,Closed,Fees & Finance,2026-08-06 09:00:00,2026-08-06 09:00:00
+TKT-100142,STU24838,email,HOSTEL ,,Course registration error,2026-08-02 11:03:32,Closed,Academics & Exams,2026-08-05 10:24:49,2026-08-05 10:24:49
+TKT-100143,STU24801,email,IT Support,,Printer quota issue,2026-08-02 08:31:31,closed,IT Support,2026-08-03 18:45:00,2026-08-03 18:45:00
+TKT-100144,STU24368,email,HOSTEL ,,AC not cooling,2026-08-02 11:39:22,Closed,Hostel & Maintenance,2026-08-05 15:58:23,2026-08-05 15:58:23
+TKT-100145,STU24069,portal,Fees & Finance,Medium,Late fee charged wrongly,2026-08-02 14:19:44,Closed,Fees & Finance,2026-08-10 09:00:00,2026-08-10 09:00:00
+TKT-100146,STU25016,email,IT Support,,Email account locked,2026-08-02 22:29:52,Closed,IT Support,2026-08-03 18:11:39,2026-08-03 18:11:39
+TKT-100147,STU24396,portal,Fees & Finance,Medium,Fee receipt not generated,2026-08-02 09:48:05,Closed,Fees & Finance,2026-08-06 15:12:14,2026-08-06 15:12:14
+TKT-100148,STU24549,email,Hostel & Maintenance,,Mess food complaint,02/08/2026 19:44,Closed,Hostel & Maintenance,2026-08-04 15:23:48,2026-08-04 15:23:48
+TKT-100149,STU24325,portal,Other,Medium,Fee receipt not generated,2026-08-02 10:06:53,Closed,Fees & Finance,2026-08-07 09:00:00,2026-08-07 09:00:00
+TKT-100150,STU24579,email,Hostel & Maintenance,Low,Mess food complaint,02/08/2026 15:36,Closed,Hostel & Maintenance,2026-08-04 15:14:56,2026-08-04 15:14:56
+TKT-100151,STU25655,portal,IT Support,Medium,Mess food complaint,2026-08-02 22:49:55,Closed - No Response,Hostel & Maintenance,,2026-08-09 12:53:55
+TKT-100152,STU25482,portal,IT Support,Low,Cannot log in to LMS,2026-08-03 22:20:30,Closed,IT Support,2026-08-05 08:48:07,2026-08-05 08:48:07
+TKT-100153,STU24831,email,Hostel & Maintenance,Medium,Water leakage in bathroom,2026-08-03 15:45:21,Closed,Hostel & Maintenance,2026-08-07 14:44:54,2026-08-07 14:44:54
+TKT-100154,STU25673,portal,Library,Low,E-resource access issue,2026-08-03 19:01:41,Closed,Library,2026-08-05 14:12:03,2026-08-05 14:12:03
+TKT-100155,STU25464,portal,Academics & Exams,Medium,Course registration error,2026-08-03 01:55:01,Closed,Academics & Exams,2026-08-05 12:11:09,2026-08-05 12:11:09
+TKT-100156,STU24936,walk_in,Hostel & Maintenance,Medium,Mess food complaint,2026-08-03 09:40:28,closed,Hostel & Maintenance,2026-08-04 17:03:59,2026-08-04 17:03:59
+TKT-100157,STU25088,portal,IT Support,High,Email account locked,2026-08-03 18:38:13,Closed,IT Support,2026-08-05 12:11:01,2026-08-05 12:11:01
+TKT-100158,STU25555,portal,Academics & Exams,Medium,Re-evaluation request,2026-08-03 19:15:34,Closed,Academics & Exams,2026-08-18 09:00:00,2026-08-18 09:00:00
+TKT-100159,STU24430,portal,Hostel & Maintenance,Low,Mess food complaint,2026-08-03 16:06:21,Closed,Hostel & Maintenance,2026-08-05 10:13:00,2026-08-08 15:31:24
+TKT-100160,STU25442,email,IT Support,Medium,VPN access request,03/08/2026 17:21,Closed,IT Support,2026-08-05 11:49:18,2026-08-05 11:49:18
+TKT-100161,STU25503,portal,hostel maintenance,High,Fee receipt not generated,2026-08-03 16:07:11,Closed,Fees & Finance,2026-08-07 09:00:00,2026-08-07 09:00:00
+TKT-100162,STU24711,portal,Hostel & Maintenance,Medium,AC not cooling,2026-08-03 08:11:19,Closed,Hostel & Maintenance,2026-08-06 08:00:00,2026-08-10 17:05:09
+TKT-100163,STU24470,portal,IT Support,Low,Laptop not connecting to campus network,2026-08-03 16:14:14,Closed,IT Support,2026-08-04 15:15:45,2026-08-04 15:15:45
+TKT-100164,STU24995,portal,IT support ,Low,Printer quota issue,2026-08-03 19:10:18,CLOSED,IT Support,2026-08-04 15:28:57,2026-08-05 10:00:28
+TKT-100165,STU24619,portal,Hostel,Medium,Mess food complaint,2026-08-03 15:29:12,Closed,Hostel & Maintenance,2026-08-04 17:45:18,2026-08-05 15:37:12
+TKT-100166,STU25511,email,library,Low,AC not cooling,03/08/2026 07:07,Closed,Hostel & Maintenance,2026-08-04 16:18:30,2026-08-04 16:18:30
+TKT-100167,STU24419,email,IT support ,Medium,VPN access request,03/08/2026 19:59,closed,IT Support,2026-08-05 09:37:52,2026-08-05 09:37:52
+TKT-100168,STU24411,portal,IT Support,Medium,Email account locked,2026-08-03 20:19:08,Closed,IT Support,2026-08-04 13:02:03,2026-08-04 13:02:03
+TKT-100169,STU24284,portal,IT Support,Low,Laptop not connecting to campus network,2026-08-03 23:23:06,Closed,IT Support,2026-08-04 16:03:35,2026-08-04 16:03:35
+TKT-100170,STU24060,email,Hostel & Maintenance,,Water leakage in bathroom,2026-08-04 16:04:39,Closed,Hostel & Maintenance,2026-08-05 17:17:37,2026-08-05 17:17:37
+TKT-100171,STU24906,portal,IT Support,Low,VPN access request,2026-08-04 10:51:57,Closed,IT Support,2026-08-04 18:58:49,2026-08-04 18:58:49
+TKT-100172,STU24720,portal,Library,Low,E-resource access issue,2026-08-04 16:00:57,Closed,Library,2026-08-05 10:01:17,2026-08-05 10:01:17
+TKT-100173,STU24148,portal,IT Support,High,Email account locked,2026-08-04 10:47:43,Closed,IT Support,,2026-08-06 13:19:24
+TKT-100174,STU25682,email,Academics & Exams,Low,Re-evaluation request,2026-08-04 19:34:01,Closed,Academics & Exams,2026-08-07 09:16:38,2026-08-07 09:16:38
+TKT-100175,STU25488,portal,IT Support,Medium,Cannot log in to LMS,2026-08-04 22:57:15,Closed,IT Support,2026-08-05 14:09:59,2026-08-05 14:09:59
+TKT-100176,STU25169,portal,Other,Medium,Fee receipt not generated,2026-08-04 20:51:17,Closed,Fees & Finance,2026-08-11 16:13:23,2026-08-11 16:13:23
+TKT-100177,STU24976,email,Fees & Finance,Medium,Fee receipt not generated,04/08/2026 07:17,Closed,Fees & Finance,2026-08-07 09:00:00,2026-08-07 09:00:00
+TKT-100178,STU25242,email,Hostel & Maintenance,Medium,Mess food complaint,04/08/2026 11:23,Closed,Hostel & Maintenance,2026-08-05 19:53:48,2026-08-05 19:53:48
+TKT-100179,STU25339,portal,Hostel & Maintenance,Medium,Mess food complaint,2026-08-04 01:04:20,Closed,Hostel & Maintenance,2026-08-07 08:00:00,2026-08-07 08:00:00
+TKT-100180,STU24857,email,IT Support,Low,Email account locked,2026-08-04 09:08:07,Closed,IT Support,2026-08-05 10:13:34,2026-08-05 10:13:34
+TKT-100181,STU24797,email,Fees & Finance,High,Fee receipt not generated,04/08/2026 14:41,Closed,Fees & Finance,2026-08-14 09:00:00,2026-08-14 09:00:00
+TKT-100182,STU24000,portal,Fees & Finance,Low,Late fee charged wrongly,2026-08-04 20:29:35,Closed,Fees & Finance,2026-08-07 09:21:03,2026-08-07 09:21:03
+TKT-100183,STU24788,email,Fees & Finance,,Late fee charged wrongly,04/08/2026 07:01,Closed,Fees & Finance,2026-08-13 09:00:00,2026-08-13 09:00:00
+TKT-100184,STU24651,portal,IT support ,Medium,Laptop not connecting to campus network,2026-08-04 12:17:02,Closed,IT Support,2026-08-04 16:06:30,2026-08-04 16:06:30
+TKT-100185,STU25355,email,Academics & Exams,,Attendance shortage query,04/08/2026 19:36,Closed,Academics & Exams,2026-08-10 09:00:00,2026-08-10 09:00:00
+TKT-100186,STU25020,email,Academics & Exams,,Exam clash,2026-08-04 18:33:07,Closed,Academics & Exams,2026-08-10 09:00:00,2026-08-10 09:00:00
+TKT-100187,STU24386,email,Hostel & Maintenance,,No hot water,04/08/2026 12:20,Closed,Hostel & Maintenance,2026-08-07 11:29:12,2026-08-07 11:29:12
+TKT-100188,STU24115,walk_in,Fees & Finance,Low,Fee receipt not generated,2026-08-04 16:48:51,Closed,Fees & Finance,2026-08-10 09:00:00,2026-08-10 09:00:00
+TKT-100189,STU24921,email,IT Support,Medium,VPN access request,04/08/2026 11:20,Closed,IT Support,2026-08-04 14:30:29,2026-08-04 14:30:29
+TKT-100190,STU24410,portal,IT support ,Medium,Laptop not connecting to campus network,2026-08-04 21:27:44,Closed,IT Support,2026-08-05 16:35:27,2026-08-05 16:35:27
+TKT-100191,STU25428,portal,IT Support,Low,Laptop not connecting to campus network,2026-08-04 10:22:40,Closed,IT Support,2026-08-05 13:40:19,2026-08-05 13:40:19
+TKT-100192,STU24697,email,Fees & Finance,,Scholarship amount not credited,2026-08-04 18:59:07,Closed,Fees & Finance,2026-08-10 09:00:00,2026-08-10 09:00:00
+TKT-100193,STU25792,walk_in,Fees & Finance,Medium,Refund of caution deposit,2026-08-04 13:15:14,Closed,Fees & Finance,2026-08-10 09:00:00,2026-08-10 09:00:00
+TKT-100194,STU24388,email,Academics & Exams,,Course registration error,04/08/2026 13:08,Closed,Academics & Exams,2026-08-05 13:31:36,2026-08-05 13:31:36
+TKT-100195,STU25163,email,Hostel & Maintenance,Medium,AC not cooling,2026-08-04 07:45:15,Closed,Hostel & Maintenance,2026-08-05 10:54:10,2026-08-05 10:54:10
+TKT-100196,STU24161,portal,library,Medium,Book renewal failed,2026-08-04 13:21:36,Closed,Library,2026-08-05 11:22:03,2026-08-05 11:22:03
+TKT-100197,STU25533,portal,Hostel & Maintenance,Low,No hot water,2026-08-04 21:06:37,Closed,Hostel & Maintenance,2026-08-06 11:31:43,2026-08-06 11:31:43
+TKT-100198,STU25142,email,HOSTEL ,Medium,Fan not working,2026-08-04 13:02:10,Closed,Hostel & Maintenance,2026-08-10 13:23:51,2026-08-10 13:23:51
+TKT-100199,STU24359,portal,Fees & Finance,Medium,Late fee charged wrongly,2026-08-04 21:33:20,Closed,Fees & Finance,2026-08-12 09:00:00,2026-08-12 09:00:00
+TKT-100200,STU25611,portal,IT,Medium,VPN access request,2026-08-05 16:15:02,Closed,IT Support,,2026-08-06 13:40:05
+TKT-100201,STU25793,email,Hostel,Medium,Room lock broken,2026-08-05 16:00:34,Closed,Hostel & Maintenance,2026-08-08 09:08:27,2026-08-08 09:08:27
+TKT-100202,STU24093,email,Library,Low,Refund of caution deposit,05/08/2026 19:01,Closed,Fees & Finance,2026-08-17 09:00:00,2026-08-17 09:00:00
+TKT-100203,STU24252,portal,Fees & Finance,Medium,Late fee charged wrongly,2026-08-05 17:05:11,Closed,Fees & Finance,2026-08-11 09:00:00,2026-08-11 09:00:00
+TKT-100204,STU24351,portal,IT Support,Medium,Printer quota issue,2026-08-05 16:57:46,Closed,IT Support,2026-08-07 08:33:50,2026-08-07 08:33:50
+TKT-100205,STU24798,walk_in,Hostel & Maintenance,Medium,Room lock broken,2026-08-05 15:50:33,Closed,Hostel & Maintenance,2026-08-07 19:28:13,2026-08-07 19:28:13
+TKT-100206,STU24406,email,IT support ,Low,Wi-Fi not working in room,05/08/2026 09:35,Closed,IT Support,2026-08-06 17:11:08,2026-08-06 17:11:08
+TKT-100207,STU24838,portal,IT,Low,Cannot log in to LMS,2026-08-05 09:52:09,Closed,IT Support,2026-08-05 12:53:07,2026-08-05 12:53:07
+TKT-100208,STU24241,email,IT Support,,Printer quota issue,2026-08-05 16:36:44,Closed,IT Support,2026-08-06 17:41:06,2026-08-06 17:41:06
+TKT-100209,STU25417,email,Fees & Finance,Medium,Late fee charged wrongly,05/08/2026 10:57,Closed,Fees & Finance,2026-08-10 09:45:47,2026-08-10 09:45:47
+TKT-100210,STU24785,portal,Other,Medium,Wi-Fi not working in room,2026-08-05 07:49:30,Closed,IT Support,2026-08-05 13:39:38,2026-08-05 13:39:38
+TKT-100211,STU25433,portal,Hostel & Maintenance,Low,Scholarship amount not credited,2026-08-05 20:04:17,Closed,Fees & Finance,2026-08-17 09:00:00,2026-08-17 09:00:00
+TKT-100212,STU25344,email,Fees & Finance,,Late fee charged wrongly,2026-08-05 09:26:32,Closed,Fees & Finance,2026-08-10 09:00:00,2026-08-10 09:00:00
+TKT-100213,STU24805,email,Exam Cell,,Attendance shortage query,05/08/2026 11:30,Closed,Academics & Exams,2026-08-10 09:46:55,2026-08-10 09:46:55
+TKT-100214,STU25545,portal,Hostel & Maintenance,Low,No hot water,2026-08-05 10:31:34,Closed - No Response,Hostel & Maintenance,,2026-08-09 18:45:51
+TKT-100215,STU25049,email,IT Support,Low,Cannot log in to LMS,2026-08-05 16:55:43,Closed,IT Support,2026-08-06 14:59:19,2026-08-06 14:59:19
+TKT-100216,STU24819,portal,Academics & Exams,Medium,Exam clash,2026-08-06 21:44:59,closed,Academics & Exams,2026-08-10 09:41:44,2026-08-10 09:41:44
+TKT-100217,STU24170,portal,Hostel,Low,E-resource access issue,2026-08-06 18:16:57,Closed,Library,2026-08-10 13:48:30,2026-08-10 13:48:30
+TKT-100218,STU24133,portal,IT Support,Medium,Laptop not connecting to campus network,2026-08-06 20:43:51,Closed,IT Support,2026-08-07 18:03:08,2026-08-07 18:03:08
+TKT-100219,STU24843,portal,Academics,Low,Pest issue in room,2026-08-06 22:11:00,Closed,Hostel & Maintenance,2026-08-12 08:00:00,2026-08-17 16:32:21
+TKT-100220,STU24071,portal,Academics & Exams,Low,Course registration error,2026-08-06 17:59:53,Closed,Academics & Exams,2026-08-10 09:47:23,2026-08-10 09:47:23
+TKT-100221,STU24382,portal,Hostel & Maintenance,Medium,Water leakage in bathroom,2026-08-06 18:53:55,Closed,Hostel & Maintenance,2026-08-11 08:00:00,2026-08-11 08:00:00
+TKT-100222,STU24367,portal,IT Support,Medium,Late fee charged wrongly,2026-08-06 11:07:31,Closed,Fees & Finance,2026-08-07 11:01:54,2026-08-07 11:01:54
+TKT-100223,STU25300,email,it support,Medium,VPN access request,06/08/2026 17:03,CLOSED,IT Support,2026-08-07 13:14:43,2026-08-08 09:57:49
+TKT-100224,STU24319,portal,IT Support,Medium,Water leakage in bathroom,2026-08-06 20:03:56,Closed,Hostel & Maintenance,2026-08-11 14:16:14,2026-08-11 14:16:14
+TKT-100225,STU24654,portal,IT,Medium,Cannot log in to LMS,2026-08-06 22:27:35,Closed,IT Support,2026-08-08 11:39:21,2026-08-08 11:39:21
+TKT-100226,STU24606,portal,HOSTEL ,Medium,Pest issue in room,2026-08-06 16:12:20,Closed,Hostel & Maintenance,2026-08-10 12:08:05,2026-08-10 12:08:05
+TKT-100227,STU25244,portal,IT Support,Medium,Email account locked,2026-08-06 10:16:21,CLOSED,IT Support,2026-08-07 16:22:05,2026-08-07 16:22:05
+TKT-100228,STU25350,email,Fees & Finance,Medium,Scholarship amount not credited,2026-08-06 15:20:56,Closed,Fees & Finance,2026-08-07 16:24:59,2026-08-07 16:24:59
+TKT-100229,STU24579,email,Fees & Finance,Medium,Late fee charged wrongly,06/08/2026 20:22,Closed,Fees & Finance,,2026-08-07 14:44:38
+TKT-100230,STU24436,email,Library ,,Library fine dispute,06/08/2026 07:19,Closed,Library,2026-08-06 13:09:29,2026-08-06 13:09:29
+TKT-100231,STU25393,email,IT Support,Medium,Cannot log in to LMS,06/08/2026 11:07,Closed,IT Support,2026-08-06 19:52:58,2026-08-06 19:52:58
+TKT-100232,STU24399,portal,Academics & Exams,Medium,Exam clash,2026-08-06 00:54:34,Closed,Academics & Exams,2026-08-12 09:00:00,2026-08-12 09:00:00
+TKT-100233,STU25650,email,HOSTEL ,High,Pest issue in room,06/08/2026 09:52,Closed,Hostel & Maintenance,2026-08-10 12:23:33,2026-08-10 12:23:33
+TKT-100234,STU24399,portal,Fees & Finance,High,Fee receipt not generated,2026-08-06 14:42:02,Closed,Fees & Finance,2026-08-10 11:44:54,2026-08-10 11:44:54
+TKT-100235,STU24694,email,Fees,Medium,Cannot log in to LMS,2026-08-06 16:33:47,Closed,IT Support,2026-08-13 08:00:00,2026-08-13 08:00:00
+TKT-100236,STU25630,portal,Fees & Finance,High,Installment plan request,2026-08-06 13:09:57,Closed,Fees & Finance,2026-08-13 09:00:00,2026-08-13 09:00:00
+TKT-100237,STU24626,portal,Hostel & Maintenance,Medium,Mess food complaint,2026-08-06 10:41:44,Closed,Hostel & Maintenance,2026-08-08 14:51:10,2026-08-08 14:51:10
+TKT-100238,STU25262,portal,IT Support,High,Laptop not connecting to campus network,2026-08-06 20:42:18,CLOSED,IT Support,2026-08-07 17:54:15,2026-08-07 17:54:15
+TKT-100239,STU24642,portal,Hostel & Maintenance,Medium,Fan not working,2026-08-06 22:29:51,Closed,Hostel & Maintenance,2026-08-11 08:00:00,2026-08-11 08:00:00
+TKT-100240,STU24293,portal,IT Support,Low,Laptop not connecting to campus network,2026-08-06 04:19:07,CLOSED,IT Support,2026-08-08 09:26:21,2026-08-10 14:17:13
+TKT-100241,STU25419,portal,IT Support,Medium,VPN access request,2026-08-06 14:47:53,Closed,IT Support,2026-08-07 14:25:12,2026-08-07 14:25:12
+TKT-100242,STU24746,portal,Academics & Exams,Medium,Course registration error,2026-08-06 21:20:27,closed,Academics & Exams,2026-08-11 09:00:00,2026-08-11 09:00:00
+TKT-100243,STU24024,portal,Hostel & Maintenance,Low,Water leakage in bathroom,2026-08-06 09:37:18,closed,Hostel & Maintenance,2026-08-10 13:20:38,2026-08-10 13:20:38
+TKT-100244,STU25336,portal,Other,Medium,Cannot log in to LMS,2026-08-06 15:05:02,Closed,IT Support,2026-08-07 18:59:12,2026-08-07 18:59:12
+TKT-100245,STU24613,email,IT Support,Medium,Cannot log in to LMS,07/08/2026 11:53,Closed,IT Support,2026-08-08 16:48:57,2026-08-08 16:48:57
+TKT-100246,STU24028,email,Hostel,,Mess food complaint,07/08/2026 23:21,Closed,Hostel & Maintenance,2026-08-12 08:00:00,2026-08-12 08:00:00
+TKT-100247,STU24134,email,fees & finance,Medium,Installment plan request,2026-08-07 19:35:13,Closed,Fees & Finance,2026-08-17 16:53:48,2026-08-17 16:53:48
+TKT-100248,STU25054,portal,Fees & Finance,Low,Late fee charged wrongly,2026-08-07 11:12:34,Closed,Fees & Finance,2026-08-11 09:00:00,2026-08-11 09:00:00
+TKT-100249,STU24363,email,Hostel & Maintenance,Medium,Pest issue in room,07/08/2026 13:36,Closed,Hostel & Maintenance,,2026-08-21 10:59:15
+TKT-100250,STU25764,portal,IT Support,High,Printer quota issue,2026-08-07 14:03:59,Closed,IT Support,2026-08-08 15:35:02,2026-08-10 12:56:32
+TKT-100251,STU24232,email,Fees & Finance,High,Installment plan request,2026-08-07 19:14:03,CLOSED,Fees & Finance,2026-08-17 09:00:00,2026-08-17 09:00:00
+TKT-100252,STU25673,portal,Hostel & Maintenance,Low,Room lock broken,2026-08-07 07:09:07,Closed,Hostel & Maintenance,2026-08-11 08:00:00,2026-08-11 08:00:00
+TKT-100253,STU25647,portal,Finance,Medium,Scholarship amount not credited,2026-08-07 16:28:17,Closed,Fees & Finance,2026-08-10 13:57:01,2026-08-10 13:57:01
+TKT-100254,STU24895,portal,Academics & Exams,High,Wrong marks uploaded,2026-08-07 15:41:02,Closed,Academics & Exams,2026-08-11 11:28:12,2026-08-11 11:28:12
+TKT-100255,STU25356,email,IT Support,,Cannot log in to LMS,07/08/2026 06:16,Closed,IT Support,2026-08-07 11:12:29,2026-08-07 11:12:29
+TKT-100256,STU24249,portal,Library,Medium,Mess food complaint,2026-08-07 13:53:04,Closed,Hostel & Maintenance,2026-08-12 08:00:00,2026-08-12 08:00:00
+TKT-100257,STU25444,portal,academics & exams,Low,Exam clash,2026-08-07 09:21:01,Closed,Academics & Exams,2026-08-12 09:00:00,2026-08-12 09:00:00
+TKT-100258,STU25479,email,Hostel & Maintenance,,No hot water,2026-08-07 17:09:06,Closed,Hostel & Maintenance,2026-08-11 14:01:22,2026-08-11 14:01:22
+TKT-100259,STU24058,portal,Academics & Exams,Low,Re-evaluation request,2026-08-07 21:11:12,CLOSED,Academics & Exams,2026-08-11 09:00:00,2026-08-11 09:00:00
+TKT-100260,STU24139,portal,Hostel & Maintenance,Low,Room lock broken,2026-08-07 15:55:30,Closed,Hostel & Maintenance,2026-08-11 08:00:00,2026-08-11 08:00:00
+TKT-100261,STU24580,portal,Hostel & Maintenance,Low,Water leakage in bathroom,2026-08-07 14:51:13,Closed,Hostel & Maintenance,2026-08-13 08:00:00,2026-08-13 08:00:00
+TKT-100262,STU25170,portal,Hostel & Maintenance,Medium,Mess food complaint,2026-08-07 19:43:54,Closed,Hostel & Maintenance,2026-08-10 11:33:49,2026-08-10 11:33:49
+TKT-100263,STU24495,email,library,,Library fine dispute,2026-08-07 16:26:04,Closed,Library,2026-08-10 11:50:11,2026-08-10 11:50:11
+TKT-100264,STU24700,portal,Hostel & Maintenance,Medium,No hot water,2026-08-07 20:31:08,Closed,Hostel & Maintenance,2026-08-08 19:48:27,2026-08-08 19:48:27
+TKT-100265,STU24683,portal,Other,Medium,Printer quota issue,2026-08-07 11:45:52,CLOSED,IT Support,2026-08-08 16:49:55,2026-08-08 16:49:55
+TKT-100266,STU24513,email,Fees & Finance,,Course registration error,07/08/2026 14:27,Closed,Academics & Exams,2026-08-17 09:00:00,2026-08-17 09:00:00
+TKT-100267,STU25196,portal,IT Support,Low,Cannot log in to LMS,2026-08-07 10:25:16,Closed,IT Support,2026-08-08 09:10:48,2026-08-10 16:27:46
+TKT-100268,STU24879,email,IT,Low,VPN access request,07/08/2026 22:59,Closed,IT Support,2026-08-11 08:00:00,2026-08-11 08:00:00
+TKT-100269,STU24843,portal,Fees & Finance,Low,Scholarship amount not credited,2026-08-07 21:36:11,CLOSED,Fees & Finance,2026-08-11 09:00:00,2026-08-13 12:03:30
+TKT-100270,STU24791,walk_in,IT Support,Low,VPN access request,2026-08-07 09:38:04,Closed,IT Support,,2026-08-07 16:15:25
+TKT-100271,STU25746,portal,Hostel & Maintenance,Low,Room lock broken,2026-08-07 16:01:17,Closed,Hostel & Maintenance,2026-08-10 12:33:01,2026-08-10 12:33:01
+TKT-100272,STU24076,email,Hostel & Maintenance,High,Room lock broken,07/08/2026 15:23,Closed,Hostel & Maintenance,2026-08-12 19:43:48,2026-08-12 19:43:48
+TKT-100273,STU25291,email,Fees,Low,Late fee charged wrongly,2026-08-07 14:14:25,Closed,Fees & Finance,2026-08-17 09:00:00,2026-08-17 09:00:00
+TKT-100274,STU25778,portal,IT Support,Medium,Wi-Fi not working in room,2026-08-07 23:16:14,Closed,IT Support,2026-08-08 17:10:18,2026-08-08 17:10:18
+TKT-100275,STU25220,email,IT support ,Medium,Printer quota issue,08/08/2026 08:43,Closed,IT Support,2026-08-10 11:26:31,2026-08-10 11:26:31
+TKT-100276,STU24849,email,academics & exams,Medium,Course registration error,2026-08-08 07:41:47,CLOSED,Academics & Exams,2026-08-10 10:25:04,2026-08-11 14:29:25
+TKT-100277,STU25176,email,IT,,VPN access request,2026-08-08 21:48:21,Closed,IT Support,2026-08-12 14:12:16,2026-08-12 14:12:16
+TKT-100278,STU24723,portal,IT Support,Low,Cannot log in to LMS,2026-08-08 14:30:21,CLOSED,IT Support,2026-08-10 09:19:02,2026-08-10 09:19:02
+TKT-100279,STU25060,portal,IT support ,Medium,VPN access request,2026-08-08 13:25:36,Closed,IT Support,2026-08-10 12:04:22,2026-08-10 12:04:22
+TKT-100280,STU25784,email,IT Support,Low,Cannot log in to LMS,2026-08-08 18:31:35,Closed,IT Support,2026-08-10 17:55:07,2026-08-11 15:54:51
+TKT-100281,STU24964,email,Hostel & Maintenance,Medium,Mess food complaint,2026-08-08 12:02:53,Closed,Hostel & Maintenance,2026-08-12 08:00:00,2026-08-12 08:00:00
+TKT-100282,STU25057,portal,Hostel & Maintenance,Medium,AC not cooling,2026-08-08 20:17:15,Closed,Hostel & Maintenance,2026-08-13 08:00:00,2026-08-13 08:00:00
+TKT-100283,STU25745,portal,Library,Medium,E-resource access issue,2026-08-08 10:04:15,Closed,Library,2026-08-08 12:56:20,2026-08-08 12:56:20
+TKT-100284,STU25247,email,IT Support,Medium,Cannot log in to LMS,2026-08-08 13:34:45,Closed,IT Support,2026-08-10 12:14:23,2026-08-10 12:14:23
+TKT-100285,STU24917,email,Fees,Low,Refund of caution deposit,08/08/2026 12:52,Closed,Fees & Finance,2026-08-13 09:00:00,2026-08-14 15:22:46
+TKT-100286,STU25243,portal,IT Support,Medium,Water leakage in bathroom,2026-08-08 14:35:25,closed,Hostel & Maintenance,2026-08-14 16:44:00,2026-08-14 16:44:00
+TKT-100287,STU24171,email,Hostel & Maintenance,,Cannot log in to LMS,08/08/2026 09:33,Closed,IT Support,2026-08-10 16:53:10,2026-08-10 16:53:10
+TKT-100288,STU25130,email,Fees & Finance,,Installment plan request,08/08/2026 19:39,Closed,Fees & Finance,2026-08-13 09:31:09,2026-08-13 09:31:09
+TKT-100289,STU25254,portal,Hostel & Maintenance,Medium,No hot water,2026-08-08 20:34:31,Closed,Hostel & Maintenance,2026-08-12 08:00:00,2026-08-12 08:00:00
+TKT-100290,STU24520,portal,IT Support,Medium,VPN access request,2026-08-08 17:53:10,Closed,IT Support,2026-08-12 10:14:26,2026-08-12 10:14:26
+TKT-100291,STU25690,portal,Finance,Low,Late fee charged wrongly,2026-08-08 18:38:12,CLOSED,Fees & Finance,2026-08-17 09:00:00,2026-08-17 09:00:00
+TKT-100292,STU25373,portal,Hostel & Maintenance,Medium,Water leakage in bathroom,2026-08-08 11:52:21,Closed,Hostel & Maintenance,2026-08-11 10:13:52,2026-08-11 10:13:52
+TKT-100293,STU25529,portal,IT Support,High,Printer quota issue,2026-08-08 22:52:02,Closed,IT Support,2026-08-11 08:46:02,2026-08-11 08:46:02
+TKT-100294,STU24571,portal,Library,Medium,Library fine dispute,2026-08-08 11:21:57,Closed,Library,2026-08-12 09:00:00,2026-08-12 09:00:00
+TKT-100295,STU24220,portal,Hostel & Maintenance,Low,Pest issue in room,2026-08-08 11:50:38,Closed,Hostel & Maintenance,2026-08-10 17:57:29,2026-08-10 17:57:29
+TKT-100296,STU24454,portal,Fees & Finance,Medium,Refund of caution deposit,2026-08-08 15:59:13,Closed,Fees & Finance,2026-08-13 09:00:00,2026-08-13 09:00:00
+TKT-100297,STU24318,portal,IT Support,Low,Printer quota issue,2026-08-08 15:11:28,Closed,IT Support,2026-08-10 10:37:11,2026-08-10 10:37:11
+TKT-100298,STU24022,email,IT Support,Medium,Laptop not connecting to campus network,08/08/2026 12:08,Closed,IT Support,2026-08-10 13:32:55,2026-08-10 13:32:55
+TKT-100299,STU25601,email,Library,,Late fee charged wrongly,08/08/2026 13:27,CLOSED,Fees & Finance,2026-08-12 09:00:00,2026-08-12 09:00:00
+TKT-100300,STU25787,portal,Academics & Exams,Medium,Course registration error,2026-08-09 19:47:37,Closed,Academics & Exams,2026-08-13 09:00:00,2026-08-13 09:00:00
+TKT-100301,STU25225,email,Fees & Finance,Medium,Late fee charged wrongly,09/08/2026 09:06,Closed,Fees & Finance,2026-08-12 09:00:00,2026-08-12 09:00:00
+TKT-100302,STU24135,email,Hostel & Maintenance,,Room lock broken,2026-08-09 11:25:41,Closed,Hostel & Maintenance,2026-08-13 18:59:45,2026-08-13 18:59:45
+TKT-100303,STU24121,email,Academics & Exams,Low,Exam clash,09/08/2026 07:22,Closed,Academics & Exams,2026-08-11 10:29:26,2026-08-11 10:29:26
+TKT-100304,STU25174,portal,IT support ,Medium,Laptop not connecting to campus network,2026-08-09 17:50:21,Closed,IT Support,2026-08-10 10:10:55,2026-08-10 10:10:55
+TKT-100305,STU24769,portal,Academics & Exams,Medium,VPN access request,2026-08-09 23:23:55,Closed,IT Support,,2026-08-11 18:07:18
+TKT-100306,STU24903,portal,Hostel & Maintenance,High,Pest issue in room,2026-08-09 19:25:31,Closed,Hostel & Maintenance,2026-08-13 08:00:00,2026-08-13 08:00:00
+TKT-100307,STU25293,portal,Hostel & Maintenance,Medium,AC not cooling,2026-08-09 12:47:41,Closed,Hostel & Maintenance,2026-08-11 12:32:08,2026-08-11 12:32:08
+TKT-100308,STU24938,portal,Academics & Exams,Medium,Wrong marks uploaded,2026-08-09 18:39:55,Closed,Academics & Exams,2026-08-10 15:26:26,2026-08-10 15:26:26
+TKT-100309,STU24731,email,Academics & Exams,High,Hall ticket not generated,2026-08-09 23:42:19,Closed,Academics & Exams,2026-08-11 16:06:14,2026-08-11 16:06:14
+TKT-100310,STU24305,portal,IT support ,Medium,Laptop not connecting to campus network,2026-08-09 22:20:36,Closed,IT Support,2026-08-11 12:24:04,2026-08-11 12:24:04
+TKT-100311,STU24867,portal,Academics,Medium,Course registration error,2026-08-09 18:46:05,Closed - No Response,Academics & Exams,,2026-08-14 09:15:47
+TKT-100312,STU24739,portal,IT Support,Medium,VPN access request,2026-08-09 10:59:54,Closed,IT Support,2026-08-11 08:14:20,2026-08-11 08:14:20
+TKT-100313,STU24606,portal,IT Support,Medium,Printer quota issue,2026-08-09 15:12:13,Closed,IT Support,2026-08-10 14:57:03,2026-08-10 14:57:03
+TKT-100314,STU25177,portal,Academics,Medium,Attendance shortage query,2026-08-09 12:46:20,Closed,Academics & Exams,2026-08-11 10:08:58,2026-08-11 10:08:58
+TKT-100315,STU24010,portal,Hostel & Maintenance,Medium,Pest issue in room,2026-08-09 19:01:25,Closed,Hostel & Maintenance,2026-08-13 17:59:02,2026-08-13 17:59:02
+TKT-100316,STU24895,portal,IT support ,Low,No hot water,2026-08-09 15:39:49,Closed,Hostel & Maintenance,2026-08-11 15:37:45,2026-08-11 15:37:45
+TKT-100317,STU24837,email,Hostel,Low,Fan not working,09/08/2026 20:50,Closed,Hostel & Maintenance,2026-08-12 08:09:51,2026-08-14 18:42:20
+TKT-100318,STU24622,portal,Hostel & Maintenance,High,AC not cooling,2026-08-09 12:27:43,Closed,Hostel & Maintenance,2026-08-11 08:28:10,2026-08-11 08:28:10
+TKT-100319,STU24678,email,Academics & Exams,Medium,Wrong marks uploaded,09/08/2026 20:32,Closed,Academics & Exams,2026-08-13 09:00:00,2026-08-13 09:00:00
+TKT-100320,STU25716,email,Hostel & Maintenance,Medium,Room lock broken,09/08/2026 09:42,Closed,Hostel & Maintenance,2026-08-13 08:00:00,2026-08-13 08:00:00
+TKT-100321,STU25022,portal,Hostel,Medium,AC not cooling,2026-08-09 05:37:13,Closed,Hostel & Maintenance,2026-08-15 08:00:00,2026-08-15 08:00:00
+TKT-100322,STU25314,email,Fees & Finance,Medium,Refund of caution deposit,10/08/2026 17:38,Closed,Fees & Finance,2026-08-13 13:51:40,2026-08-13 13:51:40
+TKT-100323,STU24423,email,Fees & Finance,,Late fee charged wrongly,10/08/2026 23:00,Closed,Fees & Finance,2026-08-13 10:48:03,2026-08-13 10:48:03
+TKT-100324,STU24351,portal,Hostel & Maintenance,Low,Water leakage in bathroom,2026-08-10 10:02:52,Closed,Hostel & Maintenance,2026-08-12 08:58:31,2026-08-12 08:58:31
+TKT-100325,STU25257,portal,IT Support,Medium,VPN access request,2026-08-10 10:22:03,Closed,IT Support,2026-08-10 19:28:27,2026-08-10 19:28:27
+TKT-100326,STU24934,portal,academics & exams,Medium,Re-evaluation request,2026-08-10 23:53:00,Closed,Academics & Exams,2026-08-12 13:25:31,2026-08-14 09:48:24
+TKT-100327,STU25307,walk_in,hostel maintenance,Medium,Mess food complaint,2026-08-10 16:48:49,closed,Hostel & Maintenance,2026-08-14 08:00:00,2026-08-15 19:20:25
+TKT-100328,STU25000,email,IT support ,Low,Room lock broken,10/08/2026 16:23,Closed,Hostel & Maintenance,2026-08-17 13:55:08,2026-08-17 13:55:08
+TKT-100329,STU24677,portal,Fees & Finance,Medium,Scholarship amount not credited,2026-08-10 23:16:29,Closed,Fees & Finance,2026-08-13 10:57:39,2026-08-13 10:57:39
+TKT-100330,STU24318,portal,Academics & Exams,Medium,Attendance shortage query,2026-08-10 18:05:07,Closed,Academics & Exams,2026-08-11 12:36:28,2026-08-11 12:36:28
+TKT-100331,STU25727,portal,Library,High,E-resource access issue,2026-08-10 19:10:43,Closed,Library,2026-08-11 13:51:08,2026-08-11 13:51:08
+TKT-100332,STU25327,portal,IT Support,Medium,Printer quota issue,2026-08-10 10:25:10,closed,IT Support,2026-08-10 15:39:39,2026-08-10 15:39:39
+TKT-100333,STU25567,email,Academics & Exams,Medium,Hall ticket not generated,2026-08-10 08:56:55,Closed,Academics & Exams,2026-08-13 09:00:00,2026-08-13 09:00:00
+TKT-100334,STU24344,portal,HOSTEL ,Medium,Mess food complaint,2026-08-10 23:02:54,Closed,Hostel & Maintenance,2026-08-12 11:03:12,2026-08-12 11:03:12
+TKT-100335,STU24902,portal,Academics & Exams,Medium,Wrong marks uploaded,2026-08-10 10:26:24,Closed,Academics & Exams,2026-08-13 13:11:05,2026-08-14 13:51:21
+TKT-100336,STU24320,portal,Hostel & Maintenance,High,Water leakage in bathroom,2026-08-10 12:45:54,Closed,Hostel & Maintenance,2026-08-13 11:16:55,2026-08-13 11:16:55
+TKT-100337,STU24565,portal,Other,Low,Printer quota issue,2026-08-10 13:44:16,Closed,IT Support,2026-08-12 14:09:18,2026-08-12 14:09:18
+TKT-100338,STU25302,portal,IT Support,Medium,Printer quota issue,2026-08-10 14:47:14,Closed,IT Support,2026-08-11 19:41:46,2026-08-11 19:41:46
+TKT-100339,STU25031,portal,Fees,Medium,Installment plan request,2026-08-10 14:23:11,Closed,Fees & Finance,2026-08-14 09:00:00,2026-08-14 09:00:00
+TKT-100340,STU25195,email,hostel maintenance,Low,Re-evaluation request,10/08/2026 15:43,Closed,Academics & Exams,2026-08-13 13:41:17,2026-08-13 13:41:17
+TKT-100341,STU24474,email,Hostel & Maintenance,High,Laptop not connecting to campus network,10/08/2026 07:01,Closed,IT Support,2026-08-11 15:46:00,2026-08-11 15:46:00
+TKT-100342,STU24774,walk_in,Academics & Exams,Medium,Attendance shortage query,2026-08-10 13:13:18,Closed,Academics & Exams,2026-08-11 15:24:51,2026-08-11 15:24:51
+TKT-100343,STU24575,email,Hostel & Maintenance,Low,Re-evaluation request,10/08/2026 11:37,Closed,Academics & Exams,2026-08-13 11:48:13,2026-08-17 11:51:56
+TKT-100344,STU24145,portal,IT Support,High,Laptop not connecting to campus network,2026-08-10 18:31:03,Closed,IT Support,2026-08-11 13:52:39,2026-08-11 13:52:39
+TKT-100345,STU24837,portal,it support,Low,VPN access request,2026-08-10 21:21:40,Closed,IT Support,2026-08-11 13:01:21,2026-08-11 13:01:21
+TKT-100346,STU25436,portal,IT Support,Low,Laptop not connecting to campus network,2026-08-11 09:40:52,Closed,IT Support,2026-08-11 18:30:05,2026-08-11 18:30:05
+TKT-100347,STU24100,portal,IT Support,Medium,Wi-Fi not working in room,2026-08-11 10:23:43,Closed,IT Support,2026-08-12 10:45:01,2026-08-12 10:45:01
+TKT-100348,STU25066,portal,academics & exams,Low,Wi-Fi not working in room,2026-08-11 11:02:36,Closed,IT Support,2026-08-12 12:39:12,2026-08-13 10:46:55
+TKT-100349,STU24694,portal,Finance,Medium,Scholarship amount not credited,2026-08-11 21:20:36,Closed,Fees & Finance,2026-08-31 09:00:00,2026-08-31 09:00:00
+TKT-100350,STU25035,portal,IT,High,Printer quota issue,2026-08-11 17:09:18,Closed,IT Support,2026-08-13 12:21:57,2026-08-13 12:21:57
+TKT-100351,STU25084,email,IT Support,Medium,Pest issue in room,11/08/2026 20:30,Closed,Hostel & Maintenance,2026-08-21 08:00:00,2026-08-21 08:00:00
+TKT-100352,STU24371,portal,Hostel & Maintenance,Medium,AC not cooling,2026-08-11 19:14:59,Closed,Hostel & Maintenance,2026-08-13 14:18:17,2026-08-13 14:18:17
+TKT-100353,STU25191,email,Academics & Exams,Low,No hot water,11/08/2026 13:53,Closed,Hostel & Maintenance,,2026-08-15 08:00:00
+TKT-100354,STU25414,portal,Library,Medium,E-resource access issue,2026-08-11 17:13:53,Closed - No Response,Library,,2026-08-15 14:37:54
+TKT-100355,STU24740,portal,Hostel,Low,No hot water,2026-08-11 16:51:31,Closed,Hostel & Maintenance,2026-08-14 15:08:37,2026-08-17 11:58:57
+TKT-100356,STU24752,portal,it support,Medium,Printer quota issue,2026-08-11 11:41:15,Closed,IT Support,2026-08-12 16:29:48,2026-08-12 16:29:48
+TKT-100357,STU25513,portal,fees & finance,Low,Late fee charged wrongly,2026-08-11 14:28:51,Closed - No Response,Fees & Finance,,2026-08-15 14:24:29
+TKT-100358,STU25301,portal,Hostel & Maintenance,Medium,Room lock broken,2026-08-11 11:35:24,Closed,Hostel & Maintenance,2026-08-14 12:39:03,2026-08-14 12:39:03
+TKT-100359,STU25464,email,IT Support,,Email account locked,11/08/2026 15:30,Closed,IT Support,2026-08-11 18:52:56,2026-08-11 18:52:56
+TKT-100360,STU25376,portal,IT Support,Low,Email account locked,2026-08-11 12:42:32,Closed,IT Support,2026-08-12 14:38:27,2026-08-12 14:38:27
+TKT-100361,STU25316,walk_in,Hostel & Maintenance,Medium,AC not cooling,2026-08-11 13:58:37,CLOSED,Hostel & Maintenance,2026-08-12 18:16:35,2026-08-12 18:16:35
+TKT-100362,STU25516,email,Hostel,,Room lock broken,2026-08-11 12:04:23,closed,Hostel & Maintenance,2026-08-13 11:33:02,2026-08-13 11:33:02
+TKT-100363,STU25039,portal,IT,Medium,Printer quota issue,2026-08-11 18:24:38,Closed,IT Support,2026-08-12 13:20:00,2026-08-12 13:20:00
+TKT-100364,STU24585,email,Hostel & Maintenance,,Mess food complaint,2026-08-11 13:30:33,closed,Hostel & Maintenance,2026-08-14 10:42:05,2026-08-14 10:42:05
+TKT-100365,STU25382,walk_in,IT Support,Medium,Cannot log in to LMS,2026-08-11 15:49:28,Closed,IT Support,2026-08-11 18:40:37,2026-08-11 18:40:37
+TKT-100366,STU24306,portal,Academics & Exams,Medium,Hall ticket not generated,2026-08-12 17:46:41,Closed,Academics & Exams,2026-08-17 13:48:17,2026-08-17 13:48:17
+TKT-100367,STU25020,portal,Academics & Exams,Medium,Printer quota issue,2026-08-12 09:21:39,Closed,IT Support,2026-08-14 16:30:48,2026-08-17 12:59:31
+TKT-100368,STU25172,portal,IT Support,Medium,VPN access request,2026-08-12 12:58:02,Closed,IT Support,2026-08-13 16:21:54,2026-08-13 16:21:54
+TKT-100369,STU25313,email,Academics,Medium,Attendance shortage query,2026-08-12 19:44:13,Closed,Academics & Exams,2026-08-14 11:30:03,2026-08-14 11:30:03
+TKT-100370,STU24483,portal,Fees,Medium,Scholarship amount not credited,2026-08-12 17:28:13,Closed,Fees & Finance,2026-08-19 09:00:00,2026-08-19 09:00:00
+TKT-100371,STU24714,portal,Other,Medium,Book renewal failed,2026-08-12 14:15:55,Closed,Library,2026-08-24 14:34:21,2026-08-27 10:01:41
+TKT-100372,STU24373,portal,fees & finance,High,Refund of caution deposit,2026-08-12 15:18:48,Closed,Fees & Finance,2026-08-18 09:00:00,2026-08-18 09:00:00
+TKT-100373,STU24214,portal,Hostel & Maintenance,Medium,Fan not working,2026-08-12 09:23:44,Closed,Hostel & Maintenance,2026-08-14 14:30:18,2026-08-14 14:30:18
+TKT-100374,STU24206,email,hostel maintenance,Low,No hot water,2026-08-12 20:20:00,Closed,Hostel & Maintenance,2026-08-17 10:05:47,2026-08-17 10:05:47
+TKT-100375,STU25319,portal,HOSTEL ,Medium,AC not cooling,2026-08-12 20:46:17,closed,Hostel & Maintenance,2026-08-19 08:00:00,2026-08-19 08:00:00
+TKT-100376,STU25396,portal,Fees & Finance,Medium,Library fine dispute,2026-08-12 11:03:44,Closed,Library,2026-08-15 11:19:49,2026-08-15 11:19:49
+TKT-100377,STU25642,portal,Academics & Exams,Medium,Wrong marks uploaded,2026-08-12 07:13:13,Closed,Academics & Exams,2026-08-17 09:00:00,2026-08-17 09:00:00
+TKT-100378,STU24973,email,IT Support,Medium,Laptop not connecting to campus network,12/08/2026 17:43,Closed,IT Support,2026-08-15 16:05:07,2026-08-15 16:05:07
+TKT-100379,STU24033,email,Library,Low,Email account locked,12/08/2026 19:24,Closed,IT Support,2026-08-15 19:24:02,2026-08-15 19:24:02
+TKT-100380,STU25312,portal,IT Support,High,Email account locked,2026-08-12 21:30:10,Closed,IT Support,2026-08-13 15:55:55,2026-08-13 15:55:55
+TKT-100381,STU24567,email,IT Support,,VPN access request,2026-08-12 11:38:20,Closed,IT Support,,2026-08-13 16:36:38
+TKT-100382,STU24676,portal,Academics & Exams,Medium,Room lock broken,2026-08-12 11:26:50,Closed,Hostel & Maintenance,2026-08-19 09:52:53,2026-08-19 09:52:53
+TKT-100383,STU25292,email,IT Support,Medium,Email account locked,12/08/2026 20:50,Closed,IT Support,2026-08-13 12:56:56,2026-08-13 12:56:56
+TKT-100384,STU25312,portal,Fees & Finance,Medium,Late fee charged wrongly,2026-08-12 21:46:02,Closed,Fees & Finance,2026-08-20 09:00:00,2026-08-20 09:00:00
+TKT-100385,STU25743,portal,Academics & Exams,Medium,Course registration error,2026-08-12 13:25:23,Closed,Academics & Exams,2026-08-14 12:24:19,2026-08-14 12:24:19
+TKT-100386,STU25020,portal,Library,High,Library fine dispute,2026-08-13 09:06:38,Closed,Library,2026-08-13 14:50:46,2026-08-13 14:50:46
+TKT-100387,STU25584,portal,IT Support,High,VPN access request,2026-08-13 10:01:22,Closed,IT Support,2026-08-13 15:33:43,2026-08-13 15:33:43
+TKT-100388,STU25237,portal,Academics & Exams,Medium,Exam clash,2026-08-13 00:33:00,Closed,Academics & Exams,2026-08-24 09:00:00,2026-08-24 09:00:00
+TKT-100389,STU25723,portal,Academics & Exams,Low,Hall ticket not generated,2026-08-13 12:30:44,Closed,Academics & Exams,2026-08-19 09:00:00,2026-08-19 09:00:00
+TKT-100390,STU24077,email,Fees & Finance,,Fee receipt not generated,13/08/2026 15:07,Closed,Fees & Finance,2026-08-17 10:43:00,2026-08-17 10:43:00
+TKT-100391,STU25799,portal,IT,Medium,Email account locked,2026-08-13 07:26:57,closed,IT Support,2026-08-13 18:36:45,2026-08-13 18:36:45
+TKT-100392,STU25538,portal,IT Support,Low,Printer quota issue,2026-08-13 21:44:42,CLOSED,IT Support,2026-08-14 13:29:16,2026-08-14 13:29:16
+TKT-100393,STU24209,portal,Hostel & Maintenance,High,Mess food complaint,2026-08-13 10:17:50,Closed,Hostel & Maintenance,2026-08-15 15:10:51,2026-08-15 15:10:51
+TKT-100394,STU24391,portal,IT support ,Low,Cannot log in to LMS,2026-08-13 11:30:38,Closed,IT Support,2026-08-13 15:50:50,2026-08-13 15:50:50
+TKT-100395,STU24339,email,Hostel & Maintenance,,Water leakage in bathroom,2026-08-13 20:26:00,Closed,Hostel & Maintenance,2026-08-15 17:45:24,2026-08-15 17:45:24
+TKT-100396,STU24970,email,Hostel & Maintenance,,Pest issue in room,2026-08-13 10:32:53,Closed,Hostel & Maintenance,2026-08-15 13:52:11,2026-08-15 13:52:11
+TKT-100397,STU25334,email,Fees & Finance,,Fee receipt not generated,13/08/2026 15:33,Closed,Fees & Finance,2026-08-17 10:56:12,2026-08-17 10:56:12
+TKT-100398,STU25045,email,Hostel & Maintenance,,Pest issue in room,13/08/2026 18:04,Closed,Hostel & Maintenance,2026-08-15 13:14:22,2026-08-15 13:14:22
+TKT-100399,STU25442,portal,IT Support,Medium,Scholarship amount not credited,2026-08-13 21:53:40,Closed,Fees & Finance,2026-08-18 13:22:15,2026-08-18 13:22:15
+TKT-100400,STU24710,email,Library,,Book renewal failed,13/08/2026 17:28,Closed,Library,2026-08-14 14:40:49,2026-08-14 14:40:49
+TKT-100401,STU25123,portal,IT support ,Low,Cannot log in to LMS,2026-08-13 10:12:00,Closed,IT Support,2026-08-13 16:38:18,2026-08-13 16:38:18
+TKT-100402,STU24381,portal,IT Support,Medium,Printer quota issue,2026-08-13 21:24:15,Closed,IT Support,2026-08-15 08:27:52,2026-08-17 10:20:49
+TKT-100403,STU25368,email,Fees & Finance,,Refund of caution deposit,13/08/2026 20:27,CLOSED,Fees & Finance,2026-08-20 09:00:00,2026-08-20 09:00:00
+TKT-100404,STU25247,email,IT Support,,Printer quota issue,13/08/2026 11:53,Closed,IT Support,2026-08-14 15:02:24,2026-08-14 15:02:24
+TKT-100405,STU24329,portal,Hostel & Maintenance,Low,Room lock broken,2026-08-13 07:01:19,Closed,Hostel & Maintenance,2026-08-18 19:14:59,2026-08-20 12:52:06
+TKT-100406,STU25354,portal,IT Support,Low,Printer quota issue,2026-08-13 18:55:16,Closed,IT Support,,2026-08-14 15:54:36
+TKT-100407,STU24462,portal,IT Support,Low,Wi-Fi not working in room,2026-08-13 22:23:08,Closed,IT Support,2026-08-14 10:01:31,2026-08-14 10:01:31
+TKT-100408,STU25472,portal,Academics & Exams,Medium,Course registration error,2026-08-13 12:40:07,Closed,Academics & Exams,2026-08-18 09:00:00,2026-08-18 09:00:00
+TKT-100409,STU25559,portal,Hostel & Maintenance,Medium,Mess food complaint,2026-08-13 08:50:08,Closed,Hostel & Maintenance,2026-08-17 12:02:54,2026-08-19 13:46:45
+TKT-100410,STU24111,email,Academics & Exams,Medium,Wrong marks uploaded,2026-08-13 23:54:11,Closed,Academics & Exams,2026-08-18 09:00:00,2026-08-18 09:00:00
+TKT-100411,STU25062,email,Fees & Finance,Medium,Fan not working,13/08/2026 20:37,Closed,Hostel & Maintenance,2026-08-17 10:11:38,2026-08-17 10:11:38
+TKT-100412,STU25069,portal,IT Support,Medium,Printer quota issue,2026-08-13 19:20:27,Closed,IT Support,2026-08-14 16:18:58,2026-08-14 16:18:58
+TKT-100413,STU24187,portal,Hostel & Maintenance,Low,Email account locked,2026-08-13 11:06:19,Closed,IT Support,2026-08-14 18:35:07,2026-08-14 18:35:07
+TKT-100414,STU25534,email,Library,Medium,E-resource access issue,13/08/2026 12:51,Closed,Library,2026-08-15 11:40:53,2026-08-15 11:40:53
+TKT-100415,STU24838,portal,Fees & Finance,Low,Refund of caution deposit,2026-08-14 07:35:39,Closed,Fees & Finance,2026-08-17 10:15:07,2026-08-18 12:33:28
+TKT-100416,STU24957,portal,Academics & Exams,High,Exam clash,2026-08-14 16:17:41,Closed,Academics & Exams,2026-08-19 09:00:00,2026-08-19 09:00:00
+TKT-100417,STU25040,portal,Library,Low,E-resource access issue,2026-08-14 10:59:15,Closed,Library,2026-08-14 14:40:57,2026-08-14 14:40:57
+TKT-100418,STU25719,portal,IT Support,Low,VPN access request,2026-08-14 16:45:45,Closed,IT Support,2026-08-15 15:48:51,2026-08-15 15:48:51
+TKT-100419,STU24911,portal,Academics & Exams,Medium,Course registration error,2026-08-14 21:15:11,Closed,Academics & Exams,2026-08-25 09:00:00,2026-08-25 09:00:00
+TKT-100420,STU24411,portal,IT Support,Medium,Wi-Fi not working in room,2026-08-14 00:55:34,Closed,IT Support,2026-08-14 13:55:07,2026-08-14 13:55:07
+TKT-100421,STU25615,portal,IT support ,Medium,Laptop not connecting to campus network,2026-08-14 14:57:56,Closed,IT Support,2026-08-15 08:43:05,2026-08-15 08:43:05
+TKT-100422,STU25509,portal,Library,Medium,E-resource access issue,2026-08-14 18:58:05,Closed,Library,2026-08-15 14:19:40,2026-08-15 14:19:40
+TKT-100423,STU25466,email,Academics & Exams,Medium,Room lock broken,14/08/2026 22:01,Closed,Hostel & Maintenance,2026-08-20 11:18:06,2026-08-20 11:18:06
+TKT-100424,STU24939,portal,HOSTEL ,Medium,Mess food complaint,2026-08-14 16:01:39,Closed,Hostel & Maintenance,2026-08-17 13:20:48,2026-08-17 13:20:48
+TKT-100425,STU24561,email,IT Support,,VPN access request,2026-08-14 23:57:30,Closed,IT Support,2026-08-15 16:53:29,2026-08-15 16:53:29
+TKT-100426,STU24696,portal,IT,Medium,Email account locked,2026-08-14 11:35:38,Closed,IT Support,2026-08-14 15:06:42,2026-08-17 11:10:20
+TKT-100427,STU25735,email,IT Support,Medium,AC not cooling,14/08/2026 15:36,Closed,Hostel & Maintenance,2026-08-20 09:13:23,2026-08-20 09:13:23
+TKT-100428,STU24711,email,Exam Cell,Medium,Wrong marks uploaded,14/08/2026 20:54,Closed,Academics & Exams,2026-08-17 10:35:47,2026-08-17 10:35:47
+TKT-100429,STU24250,portal,Library,Medium,Wi-Fi not working in room,2026-08-14 14:34:29,Closed,IT Support,2026-08-18 12:33:48,2026-08-19 14:11:07
+TKT-100430,STU25173,walk_in,hostel maintenance,Low,Water leakage in bathroom,2026-08-14 12:31:30,Closed,Hostel & Maintenance,2026-08-18 08:00:00,2026-08-18 08:00:00
+TKT-100431,STU24164,portal,Library,Medium,Library fine dispute,2026-08-14 15:41:56,Closed,Library,2026-08-15 17:35:15,2026-08-15 17:35:15
+TKT-100432,STU24883,portal,Academics & Exams,Medium,Re-evaluation request,2026-08-14 12:00:57,Closed,Academics & Exams,2026-08-18 14:50:15,2026-08-18 14:50:15
+TKT-100433,STU24224,portal,Academics & Exams,Low,Wrong marks uploaded,2026-08-14 08:59:25,Closed,Academics & Exams,2026-08-18 15:49:16,2026-08-18 15:49:16
+TKT-100434,STU25319,portal,Other,Medium,Book renewal failed,2026-08-14 14:36:50,Closed,Library,2026-08-15 17:42:06,2026-08-15 17:42:06
+TKT-100435,STU24824,portal,IT Support,Low,VPN access request,2026-08-14 22:13:46,Closed,IT Support,2026-08-17 08:12:12,2026-08-17 08:12:12
+TKT-100436,STU24381,portal,library,Low,Printer quota issue,2026-08-14 18:18:40,Closed,IT Support,2026-08-17 18:55:03,2026-08-17 18:55:03
+TKT-100437,STU24176,portal,fees & finance,Medium,Late fee charged wrongly,2026-08-14 17:04:14,Closed,Fees & Finance,2026-08-24 09:00:00,2026-08-24 09:00:00
+TKT-100438,STU25352,email,library,Medium,E-resource access issue,2026-08-15 14:22:17,closed,Library,2026-08-19 09:00:00,2026-08-19 09:00:00
+TKT-100439,STU24807,email,Hostel,Medium,Fan not working,15/08/2026 09:41,Closed,Hostel & Maintenance,2026-08-15 12:51:01,2026-08-18 11:34:15
+TKT-100440,STU25272,portal,Hostel & Maintenance,Medium,VPN access request,2026-08-15 12:00:16,CLOSED,IT Support,2026-08-17 15:10:27,2026-08-17 15:10:27
+TKT-100441,STU24803,email,Hostel & Maintenance,,Email account locked,15/08/2026 16:26,Closed,IT Support,2026-08-17 15:14:27,2026-08-17 15:14:27
+TKT-100442,STU24323,email,HOSTEL ,,Re-evaluation request,15/08/2026 20:57,Closed,Academics & Exams,2026-08-24 09:00:00,2026-08-24 09:00:00
+TKT-100443,STU25178,email,HOSTEL ,,Room lock broken,2026-08-15 14:27:04,closed,Hostel & Maintenance,2026-08-19 08:00:00,2026-08-19 08:00:00
+TKT-100444,STU25480,email,IT Support,Medium,Hall ticket not generated,2026-08-15 18:19:27,Closed,Academics & Exams,2026-08-24 09:00:00,2026-08-24 09:00:00
+TKT-100445,STU25018,portal,Fees & Finance,Low,Email account locked,2026-08-15 13:36:58,CLOSED,IT Support,2026-08-18 14:27:33,2026-08-18 14:27:33
+TKT-100446,STU25767,email,Fees & Finance,Medium,Installment plan request,2026-08-15 11:41:19,closed,Fees & Finance,2026-08-24 16:17:56,2026-08-31 11:44:39
+TKT-100447,STU25498,email,Academics,,Course registration error,2026-08-15 14:00:11,Closed,Academics & Exams,2026-08-17 13:52:16,2026-08-17 13:52:16
+TKT-100448,STU24947,portal,Hostel & Maintenance,Medium,Room lock broken,2026-08-15 21:28:08,Closed,Hostel & Maintenance,2026-08-17 17:49:10,2026-08-17 17:49:10
+TKT-100449,STU24675,email,IT Support,Medium,VPN access request,2026-08-15 14:57:55,Closed,IT Support,2026-08-17 14:52:38,2026-08-17 14:52:38
+TKT-100450,STU25552,portal,IT Support,High,Email account locked,2026-08-15 11:03:37,Closed,IT Support,2026-08-15 15:22:56,2026-08-15 15:22:56
+TKT-100451,STU24807,portal,IT Support,Low,Room lock broken,2026-08-15 13:07:25,Closed,Hostel & Maintenance,2026-08-24 08:00:00,2026-08-24 08:00:00
+TKT-100452,STU25069,portal,Hostel & Maintenance,Medium,Fan not working,2026-08-15 08:51:21,Closed,Hostel & Maintenance,2026-08-18 08:00:00,2026-08-18 08:00:00
+TKT-100453,STU24253,portal,Academics & Exams,Medium,Course registration error,2026-08-15 18:13:55,Closed,Academics & Exams,2026-08-20 09:00:00,2026-08-20 09:00:00
+TKT-100454,STU24047,portal,Other,Medium,Refund of caution deposit,2026-08-15 09:22:48,Closed,Fees & Finance,2026-08-20 09:00:00,2026-08-20 09:00:00
+TKT-100455,STU25335,walk_in,Academics & Exams,High,Wrong marks uploaded,2026-08-15 16:00:43,Closed,Academics & Exams,2026-08-18 10:06:46,2026-08-18 10:06:46
+TKT-100456,STU24293,portal,Other,Medium,Cannot log in to LMS,2026-08-15 12:34:55,Closed,IT Support,2026-08-15 17:01:37,2026-08-15 17:01:37
+TKT-100457,STU25042,portal,Exam Cell,High,Re-evaluation request,2026-08-16 17:24:10,Closed,Academics & Exams,,2026-08-20 09:00:00
+TKT-100458,STU25089,email,Hostel & Maintenance,,Email account locked,16/08/2026 17:45,Closed,IT Support,,2026-08-20 08:00:00
+TKT-100459,STU25136,email,Library ,,Book renewal failed,16/08/2026 12:38,Closed,Library,2026-08-19 10:10:40,2026-08-19 10:10:40
+TKT-100460,STU25112,email,Academics & Exams,Medium,Course registration error,16/08/2026 08:01,Closed,Academics & Exams,2026-08-19 09:00:00,2026-08-19 09:00:00
+TKT-100461,STU25060,portal,IT Support,Medium,Email account locked,2026-08-16 11:01:22,closed,IT Support,2026-08-17 15:17:22,2026-08-17 15:17:22
+TKT-100462,STU24092,portal,Academics & Exams,High,Exam clash,2026-08-16 21:26:58,Closed,Academics & Exams,2026-08-17 13:06:57,2026-08-17 13:06:57
+TKT-100463,STU24536,portal,Library,Medium,Wi-Fi not working in room,2026-08-16 21:39:44,Closed,IT Support,2026-08-18 19:06:37,2026-08-18 19:06:37
+TKT-100464,STU25291,email,Academics & Exams,,Attendance shortage query,16/08/2026 10:48,Closed,Academics & Exams,2026-08-19 13:58:21,2026-08-19 13:58:21
+TKT-100465,STU25370,portal,Hostel & Maintenance,Medium,Water leakage in bathroom,2026-08-16 21:38:59,CLOSED,Hostel & Maintenance,2026-08-21 08:00:00,2026-08-21 08:00:00
+TKT-100466,STU24900,portal,IT Support,Medium,VPN access request,2026-08-17 14:35:57,closed,IT Support,2026-08-19 12:09:52,2026-08-19 12:09:52
+TKT-100467,STU25445,email,IT Support,Medium,VPN access request,2026-08-17 20:27:54,CLOSED,IT Support,2026-08-19 12:23:34,2026-08-19 12:23:34
+TKT-100468,STU24585,portal,Academics & Exams,Medium,Fee receipt not generated,2026-08-17 12:46:25,Closed,Fees & Finance,2026-08-20 12:31:03,2026-08-20 12:31:03
+TKT-100469,STU24704,email,IT,,Cannot log in to LMS,17/08/2026 18:11,Closed,IT Support,2026-08-19 14:09:31,2026-08-19 14:09:31
+TKT-100470,STU24065,portal,Academics & Exams,Medium,Hall ticket not generated,2026-08-17 14:25:57,Closed,Academics & Exams,2026-08-21 09:34:41,2026-08-21 09:34:41
+TKT-100471,STU25720,email,IT Support,Medium,Cannot log in to LMS,17/08/2026 10:21,Closed,IT Support,2026-08-18 12:02:50,2026-08-18 12:02:50
+TKT-100472,STU24121,email,Hostel & Maintenance,Low,Mess food complaint,17/08/2026 19:30,Closed,Hostel & Maintenance,,2026-08-20 10:29:37
+TKT-100473,STU24595,portal,Fees & Finance,High,Refund of caution deposit,2026-08-17 08:29:40,Closed,Fees & Finance,2026-08-21 09:00:00,2026-08-24 12:42:01
+TKT-100474,STU25553,portal,Exam Cell,Low,Attendance shortage query,2026-08-17 13:46:33,Closed,Academics & Exams,2026-08-19 13:37:59,2026-08-19 13:37:59
+TKT-100475,STU25782,email,Academics & Exams,Medium,AC not cooling,17/08/2026 11:23,Closed,Hostel & Maintenance,2026-08-19 16:23:39,2026-08-19 16:23:39
+TKT-100476,STU25140,portal,Other,Low,Email account locked,2026-08-17 00:36:30,Closed,IT Support,2026-08-17 18:13:31,2026-08-17 18:13:31
+TKT-100477,STU25003,portal,Fees & Finance,Low,Scholarship amount not credited,2026-08-17 09:45:46,closed,Fees & Finance,2026-08-18 11:40:07,2026-08-18 11:40:07
+TKT-100478,STU25241,portal,HOSTEL ,Medium,AC not cooling,2026-08-17 13:51:13,Closed,Hostel & Maintenance,2026-08-22 08:00:00,2026-08-22 08:00:00
+TKT-100479,STU24175,email,Hostel,Medium,AC not cooling,2026-08-17 20:38:28,Closed,Hostel & Maintenance,2026-08-21 08:00:00,2026-08-21 08:00:00
+TKT-100480,STU24964,portal,IT support ,Medium,Attendance shortage query,2026-08-17 15:14:51,Closed,Academics & Exams,2026-08-25 09:00:00,2026-08-25 09:00:00
+TKT-100481,STU24602,email,Hostel & Maintenance,,Water leakage in bathroom,17/08/2026 18:38,CLOSED,Hostel & Maintenance,2026-08-20 11:11:59,2026-08-20 11:11:59
+TKT-100482,STU24589,portal,Academics & Exams,Medium,Hall ticket not generated,2026-08-18 14:00:50,Closed,Academics & Exams,2026-08-19 15:51:03,2026-08-19 15:51:03
+TKT-100483,STU25298,walk_in,IT Support,Medium,VPN access request,2026-08-18 14:20:52,Closed,IT Support,2026-08-18 18:38:07,2026-08-18 18:38:07
+TKT-100484,STU24290,portal,IT Support,Low,Printer quota issue,2026-08-18 13:18:51,Closed,IT Support,2026-08-21 11:29:54,2026-08-21 11:29:54
+TKT-100485,STU25162,email,Hostel & Maintenance,High,No hot water,18/08/2026 13:54,Closed,Hostel & Maintenance,2026-08-21 15:38:13,2026-08-21 15:38:13
+TKT-100486,STU24686,portal,IT Support,Medium,Attendance shortage query,2026-08-18 17:50:49,Closed,Academics & Exams,2026-08-24 12:03:18,2026-08-26 13:58:39
+TKT-100487,STU24849,portal,Academics & Exams,Medium,Exam clash,2026-08-18 18:54:36,Closed,Academics & Exams,2026-08-24 09:00:00,2026-08-24 09:00:00
+TKT-100488,STU24122,portal,Hostel,Low,Water leakage in bathroom,2026-08-18 10:23:16,Closed,Hostel & Maintenance,2026-08-19 16:14:14,2026-08-19 16:14:14
+TKT-100489,STU24795,portal,Library,Medium,Library fine dispute,2026-08-18 13:37:33,Closed,Library,2026-08-20 10:38:53,2026-08-24 10:08:17
+TKT-100490,STU25494,portal,IT Support,Medium,VPN access request,2026-08-18 13:21:21,Closed,IT Support,2026-08-18 18:38:58,2026-08-18 18:38:58
+TKT-100491,STU24614,portal,IT Support,Low,Laptop not connecting to campus network,2026-08-18 08:06:33,Closed,IT Support,2026-08-18 13:06:41,2026-08-18 13:06:41
+TKT-100492,STU24736,email,Hostel & Maintenance,Low,AC not cooling,2026-08-18 12:47:57,Closed,Hostel & Maintenance,2026-08-19 11:11:37,2026-08-19 11:11:37
+TKT-100493,STU24389,email,Academics & Exams,Medium,Course registration error,2026-08-18 20:30:18,Closed,Academics & Exams,2026-08-21 12:49:37,2026-08-25 12:40:11
+TKT-100494,STU24026,email,Fees & Finance,Low,Laptop not connecting to campus network,18/08/2026 16:37,Closed,IT Support,2026-08-21 12:42:30,2026-08-21 12:42:30
+TKT-100495,STU24911,portal,Hostel & Maintenance,Medium,Room lock broken,2026-08-18 12:53:12,Closed,Hostel & Maintenance,2026-08-21 10:47:40,2026-08-24 17:03:52
+TKT-100496,STU25209,walk_in,Hostel & Maintenance,Medium,No hot water,2026-08-18 09:31:43,Closed,Hostel & Maintenance,2026-08-21 08:00:00,2026-08-21 08:00:00
+TKT-100497,STU24137,portal,Hostel & Maintenance,Medium,Mess food complaint,2026-08-18 12:06:24,CLOSED,Hostel & Maintenance,2026-08-19 12:41:39,2026-08-19 12:41:39
+TKT-100498,STU24331,portal,IT Support,Medium,Laptop not connecting to campus network,2026-08-18 12:59:16,Closed,IT Support,2026-08-19 09:18:44,2026-08-19 09:18:44
+TKT-100499,STU24820,portal,Library,Medium,Library fine dispute,2026-08-18 10:50:59,Closed,Library,2026-08-18 13:39:59,2026-08-18 13:39:59
+TKT-100500,STU24590,email,it support,Medium,Wi-Fi not working in room,18/08/2026 12:59,Closed,IT Support,2026-08-20 13:36:10,2026-08-20 13:36:10
+TKT-100501,STU25155,walk_in,IT Support,High,Printer quota issue,2026-08-18 12:40:51,Closed,IT Support,2026-08-19 09:53:56,2026-08-19 09:53:56
+TKT-100502,STU24407,portal,Other,Medium,Installment plan request,2026-08-18 11:20:12,Closed,Fees & Finance,2026-08-21 10:35:12,2026-08-21 10:35:12
+TKT-100503,STU25665,portal,Academics & Exams,High,Wi-Fi not working in room,2026-08-18 21:15:34,Closed,IT Support,2026-08-21 12:54:50,2026-08-24 08:06:09
+TKT-100504,STU25126,email,Academics & Exams,Low,Wrong marks uploaded,2026-08-18 07:43:01,Closed,Academics & Exams,2026-08-20 10:38:43,2026-08-20 10:38:43
+TKT-100505,STU24980,portal,Hostel & Maintenance,Medium,No hot water,2026-08-18 11:24:54,Closed,Hostel & Maintenance,2026-08-21 08:23:59,2026-08-21 08:23:59
+TKT-100506,STU25170,portal,IT Support,Medium,Email account locked,2026-08-18 21:55:13,Closed,IT Support,2026-08-19 15:37:46,2026-08-19 15:37:46
+TKT-100507,STU25755,portal,IT Support,Low,Email account locked,2026-08-18 10:02:35,Closed,IT Support,2026-08-19 09:01:03,2026-08-19 09:01:03
+TKT-100508,STU25185,email,Library,Low,VPN access request,18/08/2026 12:07,Closed,IT Support,2026-08-22 08:26:53,2026-08-22 08:26:53
+TKT-100509,STU24567,portal,Hostel & Maintenance,Medium,No hot water,2026-08-19 09:10:33,Closed,Hostel & Maintenance,2026-08-21 14:39:51,2026-08-21 14:39:51
+TKT-100510,STU24976,email,it support,Low,Cannot log in to LMS,2026-08-19 09:35:31,Closed,IT Support,2026-08-22 08:00:00,2026-08-22 08:00:00
+TKT-100511,STU24613,portal,Library,Low,Library fine dispute,2026-08-19 11:22:12,Closed,Library,2026-08-21 09:15:39,2026-08-21 09:15:39
+TKT-100512,STU24203,portal,hostel maintenance,Low,AC not cooling,2026-08-19 11:39:45,Closed,Hostel & Maintenance,2026-08-25 08:00:00,2026-08-27 18:38:03
+TKT-100513,STU24704,portal,IT Support,Medium,Wi-Fi not working in room,2026-08-19 17:33:39,Closed,IT Support,2026-08-20 18:26:45,2026-08-20 18:26:45
+TKT-100514,STU24071,portal,IT support ,Low,Cannot log in to LMS,2026-08-19 22:01:47,Closed,IT Support,2026-08-20 19:23:49,2026-08-20 19:23:49
+TKT-100515,STU24589,portal,Library ,Low,Mess food complaint,2026-08-19 12:34:38,Closed,Hostel & Maintenance,2026-08-20 15:57:49,2026-08-22 16:28:05
+TKT-100516,STU25613,email,IT Support,Medium,Wi-Fi not working in room,2026-08-19 07:20:36,Closed,IT Support,2026-08-20 15:51:42,2026-08-20 15:51:42
+TKT-100517,STU24264,portal,Fees & Finance,Medium,Late fee charged wrongly,2026-08-19 20:48:03,Closed,Fees & Finance,2026-08-25 09:00:00,2026-08-27 13:10:37
+TKT-100518,STU24258,portal,IT support ,Low,Wi-Fi not working in room,2026-08-19 06:09:20,Closed,IT Support,2026-08-20 12:06:33,2026-08-20 12:06:33
+TKT-100519,STU24190,portal,Fees & Finance,High,Refund of caution deposit,2026-08-19 13:39:42,Closed,Fees & Finance,2026-08-25 09:00:00,2026-08-25 09:00:00
+TKT-100520,STU25054,email,Academics & Exams,High,Re-evaluation request,2026-08-19 15:49:53,Closed,Academics & Exams,2026-08-24 09:29:24,2026-08-27 12:16:42
+TKT-100521,STU24588,portal,Fees & Finance,High,Installment plan request,2026-08-19 20:59:28,Closed,Fees & Finance,2026-08-25 09:00:00,2026-08-25 09:00:00
+TKT-100522,STU24188,walk_in,it support,Medium,Wi-Fi not working in room,2026-08-19 10:40:09,Closed,IT Support,2026-08-20 09:49:47,2026-08-20 09:49:47
+TKT-100523,STU24211,portal,IT,Medium,Printer quota issue,2026-08-19 08:04:43,Closed,IT Support,2026-08-19 11:44:16,2026-08-20 09:54:08
+TKT-100524,STU24589,portal,Hostel & Maintenance,High,No hot water,2026-08-19 09:33:26,closed,Hostel & Maintenance,2026-08-21 09:04:27,2026-08-21 09:04:27
+TKT-100525,STU24851,walk_in,IT Support,Medium,VPN access request,2026-08-19 09:35:47,Closed,IT Support,2026-08-20 13:59:16,2026-08-20 13:59:16
+TKT-100526,STU24058,portal,Other,Medium,E-resource access issue,2026-08-20 10:01:01,CLOSED,Library,2026-08-25 09:00:00,2026-08-25 09:00:00
+TKT-100527,STU24272,email,Library,,Book renewal failed,2026-08-20 09:54:41,Closed,Library,2026-08-21 12:40:50,2026-08-21 12:40:50
+TKT-100528,STU24378,portal,Other,Medium,Scholarship amount not credited,2026-08-20 09:59:20,Closed,Fees & Finance,,2026-08-21 11:39:17
+TKT-100529,STU24119,email,IT Support,,Email account locked,2026-08-20 22:46:40,CLOSED,IT Support,2026-08-21 17:46:15,2026-08-22 09:22:32
+TKT-100530,STU25616,email,IT Support,,Wi-Fi not working in room,20/08/2026 17:25,Closed,IT Support,2026-08-21 15:41:05,2026-08-21 15:41:05
+TKT-100531,STU24724,portal,Fees & Finance,Medium,Refund of caution deposit,2026-08-20 17:04:00,Closed,Fees & Finance,2026-08-25 09:00:00,2026-08-25 09:00:00
+TKT-100532,STU24601,email,Hostel,,Fan not working,2026-08-20 16:37:58,Closed,Hostel & Maintenance,2026-08-21 18:18:55,2026-08-21 18:18:55
+TKT-100533,STU25372,walk_in,IT Support,High,Email account locked,2026-08-20 14:14:01,Closed,IT Support,2026-08-21 11:09:16,2026-08-21 11:09:16
+TKT-100534,STU25229,walk_in,Hostel & Maintenance,Medium,Mess food complaint,2026-08-20 16:37:28,Closed,Hostel & Maintenance,2026-08-22 15:18:09,2026-08-22 15:18:09
+TKT-100535,STU24209,email,Hostel & Maintenance,,Mess food complaint,2026-08-20 18:44:42,Closed,Hostel & Maintenance,2026-08-24 15:00:44,2026-08-24 15:00:44
+TKT-100536,STU24539,portal,Hostel & Maintenance,Low,AC not cooling,2026-08-20 11:17:18,Closed,Hostel & Maintenance,2026-08-24 13:38:25,2026-08-24 13:38:25
+TKT-100537,STU24811,portal,IT Support,Medium,Cannot log in to LMS,2026-08-20 11:29:29,Closed,IT Support,2026-08-20 17:48:02,2026-08-20 17:48:02
+TKT-100538,STU24585,portal,Academics & Exams,Medium,Course registration error,2026-08-20 17:02:51,Closed - No Response,Academics & Exams,,2026-08-24 14:27:06
+TKT-100539,STU25158,email,Hostel & Maintenance,Medium,AC not cooling,20/08/2026 14:00,Closed,Hostel & Maintenance,2026-08-24 15:28:26,2026-08-24 15:28:26
+TKT-100540,STU24221,portal,it support,High,Cannot log in to LMS,2026-08-20 21:10:48,Closed,IT Support,2026-08-21 13:32:08,2026-08-21 13:32:08
+TKT-100541,STU25696,email,Hostel & Maintenance,Low,Room lock broken,2026-08-20 12:11:40,Closed,Hostel & Maintenance,2026-08-22 09:18:10,2026-08-22 09:18:10
+TKT-100542,STU25561,portal,Fees & Finance,Low,Fan not working,2026-08-20 09:58:22,Closed - No Response,Hostel & Maintenance,,2026-08-28 15:55:55
+TKT-100543,STU25778,portal,it support,High,Cannot log in to LMS,2026-08-20 18:28:28,Closed,IT Support,2026-08-21 19:33:03,2026-08-21 19:33:03
+TKT-100544,STU24538,portal,IT Support,Medium,Laptop not connecting to campus network,2026-08-20 15:35:08,Closed,IT Support,2026-08-20 18:24:23,2026-08-20 18:24:23
+TKT-100545,STU25448,portal,IT support ,Medium,Email account locked,2026-08-21 18:55:30,Closed,IT Support,2026-08-24 12:05:43,2026-08-24 12:05:43
+TKT-100546,STU24946,portal,Library,Low,E-resource access issue,2026-08-21 10:39:35,Closed,Library,2026-08-22 17:36:40,2026-08-22 17:36:40
+TKT-100547,STU24905,portal,Exam Cell,Medium,Wrong marks uploaded,2026-08-21 08:33:23,closed,Academics & Exams,2026-08-27 09:00:00,2026-08-27 09:00:00
+TKT-100548,STU25779,portal,fees & finance,High,Installment plan request,2026-08-21 23:27:02,Closed,Fees & Finance,2026-08-31 09:00:00,2026-08-31 09:00:00
+TKT-100549,STU25445,email,IT Support,Medium,Wi-Fi not working in room,2026-08-21 11:57:24,Closed,IT Support,2026-08-22 13:19:12,2026-08-22 13:19:12
+TKT-100550,STU25750,email,Fees & Finance,Medium,Refund of caution deposit,2026-08-21 09:24:29,Closed,Fees & Finance,,2026-08-26 09:10:37
+TKT-100551,STU24663,portal,IT Support,Low,VPN access request,2026-08-21 19:53:44,Closed,IT Support,2026-08-24 11:50:22,2026-08-24 11:50:22
+TKT-100552,STU24982,portal,Hostel & Maintenance,Low,Room lock broken,2026-08-21 13:30:25,Closed,Hostel & Maintenance,2026-08-24 10:01:20,2026-08-25 18:45:40
+TKT-100553,STU24578,portal,Fees & Finance,High,Email account locked,2026-08-21 17:07:49,Closed,IT Support,2026-08-28 08:00:00,2026-08-28 08:00:00
+TKT-100554,STU25484,portal,IT Support,Medium,Printer quota issue,2026-08-21 15:09:29,Closed,IT Support,2026-08-22 12:50:46,2026-08-22 12:50:46
+TKT-100555,STU25541,walk_in,IT Support,Medium,VPN access request,2026-08-21 17:45:40,Closed,IT Support,2026-08-22 19:19:01,2026-08-22 19:19:01
+TKT-100556,STU25606,portal,Fees,Low,Fee receipt not generated,2026-08-21 21:36:25,Closed,Fees & Finance,2026-08-25 09:00:00,2026-08-25 09:00:00
+TKT-100557,STU25318,email,IT Support,,Laptop not connecting to campus network,21/08/2026 10:56,Closed - No Response,IT Support,,2026-08-24 14:29:30
+TKT-100558,STU25259,email,Academics & Exams,Medium,Re-evaluation request,21/08/2026 22:53,Closed,Academics & Exams,2026-08-27 09:10:21,2026-08-27 09:10:21
+TKT-100559,STU25241,email,Hostel & Maintenance,Medium,Room lock broken,2026-08-21 09:16:43,Closed,Hostel & Maintenance,2026-08-22 16:39:45,2026-08-22 16:39:45
+TKT-100560,STU24394,email,Hostel & Maintenance,,Pest issue in room,2026-08-21 16:12:14,Closed,Hostel & Maintenance,2026-08-22 13:41:17,2026-08-22 13:41:17
+TKT-100561,STU24498,portal,Hostel & Maintenance,Medium,Hall ticket not generated,2026-08-21 10:55:48,Closed,Academics & Exams,2026-08-26 09:00:00,2026-08-26 09:00:00
+TKT-100562,STU25078,portal,IT Support,Medium,Email account locked,2026-08-21 20:29:05,CLOSED,IT Support,2026-08-22 12:52:05,2026-08-22 12:52:05
+TKT-100563,STU24222,email,Hostel & Maintenance,Medium,Scholarship amount not credited,21/08/2026 21:00,Closed,Fees & Finance,2026-08-25 09:00:00,2026-08-26 16:43:23
+TKT-100564,STU24609,email,Hostel & Maintenance,Medium,Water leakage in bathroom,21/08/2026 23:19,Closed,Hostel & Maintenance,2026-08-22 19:42:44,2026-08-22 19:42:44
+TKT-100565,STU25747,portal,Library,High,Library fine dispute,2026-08-21 16:02:06,Closed,Library,2026-08-22 09:47:54,2026-08-22 09:47:54
+TKT-100566,STU24844,portal,Fees & Finance,Medium,Fee receipt not generated,2026-08-21 16:07:46,Closed - No Response,Fees & Finance,,2026-08-27 11:25:02
+TKT-100567,STU25145,walk_in,Hostel & Maintenance,Low,Fan not working,2026-08-21 09:39:48,Closed,Hostel & Maintenance,2026-08-22 13:07:57,2026-08-22 13:07:57
+TKT-100568,STU25184,email,IT Support,,Email account locked,2026-08-22 19:42:29,Closed,IT Support,2026-08-25 14:03:42,2026-08-25 14:03:42
+TKT-100569,STU24664,portal,Exam Cell,Low,Course registration error,2026-08-22 15:12:15,Closed,Academics & Exams,2026-08-26 09:00:00,2026-08-26 09:00:00
+TKT-100570,STU25113,portal,IT Support,Medium,VPN access request,2026-08-22 21:47:22,Closed,IT Support,2026-08-24 15:01:37,2026-08-24 15:01:37
+TKT-100571,STU25220,portal,Hostel & Maintenance,Medium,AC not cooling,2026-08-22 11:22:09,Closed,Hostel & Maintenance,2026-08-24 19:48:54,2026-08-24 19:48:54
+TKT-100572,STU25760,walk_in,Fees & Finance,Low,Installment plan request,2026-08-22 13:36:56,Closed,Fees & Finance,2026-09-03 09:00:00,2026-09-03 09:00:00
+TKT-100573,STU25112,portal,Hostel & Maintenance,Medium,AC not cooling,2026-08-22 17:49:55,Closed,Hostel & Maintenance,2026-08-26 08:00:00,2026-08-27 16:13:04
+TKT-100574,STU25502,portal,Hostel,Medium,Late fee charged wrongly,2026-08-22 09:53:54,Closed,Fees & Finance,2026-09-03 09:00:00,2026-09-03 09:00:00
+TKT-100575,STU25022,email,IT,High,VPN access request,22/08/2026 19:41,Closed,IT Support,2026-08-25 14:43:47,2026-08-25 14:43:47
+TKT-100576,STU25445,email,Library,High,E-resource access issue,2026-08-22 17:12:27,Closed,Library,2026-08-25 12:21:48,2026-08-25 12:21:48
+TKT-100577,STU25091,portal,library,Medium,Book renewal failed,2026-08-22 19:40:23,Closed,Library,2026-08-25 09:39:42,2026-08-25 09:39:42
+TKT-100578,STU24996,portal,IT Support,High,Laptop not connecting to campus network,2026-08-22 18:56:25,Closed,IT Support,2026-08-25 09:46:28,2026-08-25 09:46:28
+TKT-100579,STU25366,portal,Academics & Exams,Low,Attendance shortage query,2026-08-22 16:06:34,Closed,Academics & Exams,2026-08-25 11:30:16,2026-08-25 11:30:16
+TKT-100580,STU24825,portal,it support,Medium,Printer quota issue,2026-08-22 20:25:37,Closed,IT Support,2026-08-24 10:19:32,2026-08-24 10:19:32
+TKT-100581,STU24460,email,Library,,Book renewal failed,2026-08-23 18:46:03,Closed,Library,2026-08-25 17:05:31,2026-08-25 17:05:31
+TKT-100582,STU25314,email,Library,,Library fine dispute,23/08/2026 11:54,Closed,Library,2026-08-25 16:52:53,2026-08-25 16:52:53
+TKT-100583,STU24098,portal,Academics & Exams,Medium,Wrong marks uploaded,2026-08-23 20:33:30,Closed,Academics & Exams,2026-08-25 16:21:33,2026-08-25 16:21:33
+TKT-100584,STU25097,email,academics & exams,,Exam clash,2026-08-23 11:07:34,Closed,Academics & Exams,2026-08-27 14:04:18,2026-08-27 14:04:18
+TKT-100585,STU25022,email,IT support ,,Printer quota issue,2026-08-23 06:33:03,Closed,IT Support,,2026-08-25 11:58:15
+TKT-100586,STU25377,portal,Hostel & Maintenance,High,AC not cooling,2026-08-23 06:24:16,closed,Hostel & Maintenance,2026-08-25 13:23:00,2026-08-25 13:23:00
+TKT-100587,STU25464,email,academics & exams,High,Wrong marks uploaded,23/08/2026 17:47,Closed,Academics & Exams,2026-08-27 09:00:00,2026-08-27 09:00:00
+TKT-100588,STU24629,email,IT Support,,VPN access request,24/08/2026 08:31,Closed,IT Support,2026-08-25 11:01:19,2026-08-25 11:01:19
+TKT-100589,STU24169,portal,IT Support,Low,Mess food complaint,2026-08-24 12:02:58,Closed,Hostel & Maintenance,2026-08-28 19:38:09,2026-08-28 19:38:09
+TKT-100590,STU24438,email,academics & exams,High,Wi-Fi not working in room,2026-08-24 13:17:14,Closed,IT Support,2026-08-28 08:00:00,2026-08-28 08:00:00
+TKT-100591,STU24419,portal,Hostel & Maintenance,Medium,No hot water,2026-08-24 12:58:13,Closed,Hostel & Maintenance,2026-08-24 17:16:42,2026-08-24 17:16:42
+TKT-100592,STU25154,portal,IT Support,Medium,Cannot log in to LMS,2026-08-24 12:43:58,Closed,IT Support,2026-08-25 11:39:27,2026-08-25 11:39:27
+TKT-100593,STU25619,portal,library,Medium,Refund of caution deposit,2026-08-24 21:30:15,Closed,Fees & Finance,2026-09-02 09:00:00,2026-09-02 09:00:00
+TKT-100594,STU24101,email,Academics & Exams,Medium,Re-evaluation request,2026-08-24 19:23:11,Closed,Academics & Exams,2026-08-27 12:10:39,2026-08-27 12:10:39
+TKT-100595,STU24885,portal,Academics & Exams,Medium,Hall ticket not generated,2026-08-24 19:31:42,Closed,Academics & Exams,2026-08-31 09:00:00,2026-08-31 09:00:00
+TKT-100596,STU25612,email,IT Support,Low,Wi-Fi not working in room,2026-08-24 14:57:39,Closed,IT Support,2026-08-24 18:38:50,2026-08-25 14:24:35
+TKT-100597,STU24004,portal,Fees,Low,Installment plan request,2026-08-24 12:22:07,Closed,Fees & Finance,2026-08-27 13:22:43,2026-08-27 13:22:43
+TKT-100598,STU24232,portal,Library,Low,Wrong marks uploaded,2026-08-24 14:05:52,Closed,Academics & Exams,2026-09-07 09:00:00,2026-09-08 15:15:51
+TKT-100599,STU24504,portal,IT,Medium,VPN access request,2026-08-24 14:30:26,closed,IT Support,2026-08-27 08:25:38,2026-08-27 08:25:38
+TKT-100600,STU24803,portal,Hostel & Maintenance,Medium,Pest issue in room,2026-08-24 16:42:16,closed,Hostel & Maintenance,2026-08-27 11:50:24,2026-08-27 11:50:24
+TKT-100601,STU25561,portal,Academics & Exams,Medium,AC not cooling,2026-08-24 15:29:28,Closed,Hostel & Maintenance,2026-08-28 08:00:00,2026-08-28 08:00:00
+TKT-100602,STU25491,email,IT Support,,Water leakage in bathroom,2026-08-24 08:44:32,Closed,Hostel & Maintenance,2026-08-26 08:04:27,2026-08-26 08:04:27
+TKT-100603,STU25368,portal,Hostel & Maintenance,Medium,No hot water,2026-08-24 17:49:48,Closed,Hostel & Maintenance,2026-08-26 09:18:23,2026-08-26 09:18:23
+TKT-100604,STU25454,email,IT Support,,Printer quota issue,24/08/2026 11:34,Closed,IT Support,2026-08-25 10:00:02,2026-08-25 10:00:02
+TKT-100605,STU24521,email,Academics & Exams,Medium,Hall ticket not generated,2026-08-24 14:40:39,Closed,Academics & Exams,2026-08-25 11:36:47,2026-08-27 09:49:58
+TKT-100606,STU24959,email,Hostel & Maintenance,,No hot water,2026-08-24 09:36:55,Closed,Hostel & Maintenance,2026-08-25 14:19:08,2026-08-25 14:19:08
+TKT-100607,STU24945,portal,academics & exams,Medium,Re-evaluation request,2026-08-24 02:18:22,Closed,Academics & Exams,2026-08-26 09:06:26,2026-08-26 09:06:26
+TKT-100608,STU25701,walk_in,Academics & Exams,Medium,Attendance shortage query,2026-08-24 10:34:32,Closed,Academics & Exams,2026-08-25 14:00:12,2026-08-25 14:00:12
+TKT-100609,STU24618,email,IT Support,,Email account locked,25/08/2026 13:18,Closed,IT Support,2026-08-25 17:03:17,2026-08-25 17:03:17
+TKT-100610,STU25755,portal,hostel maintenance,Medium,Mess food complaint,2026-08-25 13:46:14,Closed,Hostel & Maintenance,2026-09-02 09:03:09,2026-09-02 09:03:09
+TKT-100611,STU24073,portal,IT Support,High,Laptop not connecting to campus network,2026-08-25 23:28:50,Closed,IT Support,2026-08-26 18:28:33,2026-08-26 18:28:33
+TKT-100612,STU25520,portal,Hostel & Maintenance,Medium,Mess food complaint,2026-08-25 09:41:28,Closed,Hostel & Maintenance,,2026-08-27 10:26:27
+TKT-100613,STU24524,email,IT Support,Low,Room lock broken,25/08/2026 11:06,Closed,Hostel & Maintenance,2026-09-01 08:00:00,2026-09-01 08:00:00
+TKT-100614,STU25581,email,IT Support,High,Cannot log in to LMS,25/08/2026 14:55,closed_no_response,IT Support,,2026-08-28 19:14:52
+TKT-100615,STU25115,portal,IT support ,Medium,VPN access request,2026-08-25 18:50:18,Closed,IT Support,2026-08-26 19:57:33,2026-08-26 19:57:33
+TKT-100616,STU25434,portal,Library ,Medium,E-resource access issue,2026-08-25 16:08:30,Closed - No Response,Library,,2026-08-29 09:52:23
+TKT-100617,STU25125,portal,Library,Medium,Mess food complaint,2026-08-25 06:53:03,Closed,Hostel & Maintenance,2026-09-04 08:00:00,2026-09-04 08:00:00
+TKT-100618,STU25262,portal,library,Medium,E-resource access issue,2026-08-25 10:28:20,Closed,Library,2026-08-26 13:37:35,2026-08-26 13:37:35
+TKT-100619,STU24740,email,Hostel,Medium,Pest issue in room,25/08/2026 22:09,Closed,Hostel & Maintenance,2026-08-29 08:00:00,2026-08-29 08:00:00
+TKT-100620,STU25084,portal,Other,Medium,Hall ticket not generated,2026-08-25 11:53:41,Closed,Academics & Exams,,2026-08-25 15:51:56
+TKT-100621,STU25151,portal,Other,Medium,Room lock broken,2026-08-25 11:09:58,Closed,Hostel & Maintenance,2026-08-28 13:58:51,2026-08-28 13:58:51
+TKT-100622,STU24575,email,Hostel,Medium,Water leakage in bathroom,2026-08-25 16:34:49,Closed,Hostel & Maintenance,2026-08-28 13:09:57,2026-08-28 13:09:57
+TKT-100623,STU25297,email,Hostel & Maintenance,Medium,Mess food complaint,2026-08-25 17:59:53,Closed,Hostel & Maintenance,,2026-08-28 12:18:35
+TKT-100624,STU25272,portal,Hostel & Maintenance,Medium,AC not cooling,2026-08-26 20:33:01,Closed,Hostel & Maintenance,2026-08-31 13:48:16,2026-08-31 13:48:16
+TKT-100625,STU24565,email,Finance,,Late fee charged wrongly,26/08/2026 16:04,Closed,Fees & Finance,2026-09-07 09:00:00,2026-09-07 09:00:00
+TKT-100626,STU25617,portal,Hostel & Maintenance,High,Exam clash,2026-08-26 19:32:42,Closed,Academics & Exams,2026-09-03 09:00:00,2026-09-03 09:00:00
+TKT-100627,STU25679,portal,Hostel & Maintenance,Low,Fan not working,2026-08-26 19:08:11,Closed,Hostel & Maintenance,2026-08-28 09:37:05,2026-08-28 09:37:05
+TKT-100628,STU25139,email,IT Support,,Email account locked,26/08/2026 12:03,Closed,IT Support,2026-08-28 09:26:21,2026-08-28 09:26:21
+TKT-100629,STU25608,portal,Academics & Exams,Medium,Attendance shortage query,2026-08-26 13:45:59,Closed,Academics & Exams,2026-08-31 10:23:14,2026-08-31 10:23:14
+TKT-100630,STU24504,email,IT Support,Medium,Cannot log in to LMS,26/08/2026 20:52,CLOSED,IT Support,2026-08-27 14:26:32,2026-08-27 14:26:32
+TKT-100631,STU24076,walk_in,Academics & Exams,Medium,Hall ticket not generated,2026-08-26 12:08:46,closed_no_response,Academics & Exams,,2026-08-31 11:31:14
+TKT-100632,STU24582,walk_in,IT Support,Medium,Printer quota issue,2026-08-26 11:06:41,Closed,IT Support,2026-08-26 17:59:59,2026-08-26 17:59:59
+TKT-100633,STU24345,portal,Academics & Exams,High,Attendance shortage query,2026-08-26 15:21:16,Closed,Academics & Exams,2026-08-31 13:04:12,2026-09-02 11:40:52
+TKT-100634,STU25666,portal,Fees & Finance,Medium,Fee receipt not generated,2026-08-26 21:32:27,CLOSED,Fees & Finance,2026-08-28 13:12:43,2026-08-28 13:12:43
+TKT-100635,STU25701,portal,Finance,Medium,Fee receipt not generated,2026-08-26 13:53:45,Closed,Fees & Finance,2026-08-28 16:05:43,2026-08-28 16:05:43
+TKT-100636,STU24981,email,Academics & Exams,Low,Exam clash,2026-08-26 14:40:35,Closed,Academics & Exams,2026-08-31 12:31:38,2026-08-31 12:31:38
+TKT-100637,STU25629,portal,Academics & Exams,Medium,VPN access request,2026-08-26 15:40:28,Closed,IT Support,2026-08-31 18:15:55,2026-09-01 11:53:42
+TKT-100638,STU24418,portal,IT support ,Low,Printer quota issue,2026-08-26 23:10:37,closed,IT Support,2026-08-28 18:52:07,2026-08-28 18:52:07
+TKT-100639,STU24557,email,academics & exams,High,Course registration error,2026-08-27 12:42:56,Closed,Academics & Exams,2026-09-01 09:00:00,2026-09-01 09:00:00
+TKT-100640,STU24511,portal,IT support ,High,VPN access request,2026-08-27 20:34:18,Closed,IT Support,2026-08-28 15:37:11,2026-08-28 15:37:11
+TKT-100641,STU25722,portal,IT support ,Medium,VPN access request,2026-08-27 20:21:16,Closed,IT Support,2026-08-28 14:49:17,2026-08-28 14:49:17
+TKT-100642,STU24956,portal,IT Support,Low,Wi-Fi not working in room,2026-08-27 06:11:43,Closed,IT Support,2026-08-27 15:50:43,2026-08-29 10:00:31
+TKT-100643,STU25587,portal,Library,Medium,E-resource access issue,2026-08-27 18:44:07,Closed,Library,2026-08-28 14:51:54,2026-08-28 14:51:54
+TKT-100644,STU25536,email,Academics & Exams,Medium,Exam clash,27/08/2026 18:34,Closed,Academics & Exams,2026-09-02 09:00:00,2026-09-02 09:00:00
+TKT-100645,STU24183,email,Hostel,,Pest issue in room,27/08/2026 12:26,Closed,Hostel & Maintenance,2026-08-29 17:12:57,2026-08-29 17:12:57
+TKT-100646,STU25627,portal,Finance,Medium,Refund of caution deposit,2026-08-27 18:46:44,closed,Fees & Finance,2026-09-02 09:00:00,2026-09-02 09:00:00
+TKT-100647,STU25687,email,Hostel & Maintenance,Medium,Water leakage in bathroom,27/08/2026 20:14,CLOSED,Hostel & Maintenance,2026-08-29 11:53:23,2026-08-29 11:53:23
+TKT-100648,STU24836,portal,hostel maintenance,Medium,Water leakage in bathroom,2026-08-27 17:58:48,Closed,Hostel & Maintenance,2026-08-31 12:51:53,2026-09-02 18:08:16
+TKT-100649,STU24052,portal,Fees & Finance,Medium,Fan not working,2026-08-27 16:11:48,CLOSED,Hostel & Maintenance,2026-09-05 08:00:00,2026-09-05 08:00:00
+TKT-100650,STU25784,portal,Hostel & Maintenance,Low,Water leakage in bathroom,2026-08-27 12:31:57,Closed,Hostel & Maintenance,2026-09-07 08:00:00,2026-09-07 08:00:00
+TKT-100651,STU25175,email,Hostel & Maintenance,High,Water leakage in bathroom,2026-08-27 07:18:41,Closed,Hostel & Maintenance,2026-08-29 19:51:02,2026-08-29 19:51:02
+TKT-100652,STU24117,email,Hostel & Maintenance,High,Mess food complaint,27/08/2026 10:56,Closed,Hostel & Maintenance,2026-08-29 12:54:12,2026-08-29 12:54:12
+TKT-100653,STU25713,portal,IT Support,Low,Laptop not connecting to campus network,2026-08-27 19:06:29,Closed,IT Support,2026-08-28 13:48:52,2026-08-28 13:48:52
+TKT-100654,STU25261,portal,Academics & Exams,Low,Re-evaluation request,2026-08-27 14:25:29,Closed,Academics & Exams,2026-08-31 12:51:04,2026-09-02 09:01:07
+TKT-100655,STU25562,portal,Library,Medium,Library fine dispute,2026-08-27 12:45:24,closed,Library,2026-08-28 10:01:40,2026-08-28 10:01:40
+TKT-100656,STU25499,portal,IT Support,Medium,Email account locked,2026-08-27 09:59:08,Closed,IT Support,2026-08-27 19:15:17,2026-08-27 19:15:17
+TKT-100657,STU24299,email,Academics & Exams,Medium,Wrong marks uploaded,27/08/2026 08:10,Closed,Academics & Exams,2026-09-01 09:00:00,2026-09-01 09:00:00
+TKT-100658,STU24374,email,IT Support,Medium,Email account locked,2026-08-27 18:43:56,Closed,IT Support,2026-08-29 10:43:41,2026-08-29 10:43:41
+TKT-100659,STU24010,portal,Academics & Exams,Medium,Course registration error,2026-08-27 17:56:05,Closed - No Response,Academics & Exams,,2026-09-03 16:16:22
+TKT-100660,STU24816,portal,IT support ,High,VPN access request,2026-08-27 12:46:56,closed,IT Support,2026-08-27 16:56:01,2026-08-27 16:56:01
+TKT-100661,STU24095,portal,Fees & Finance,Low,Scholarship amount not credited,2026-08-27 08:54:47,Closed,Fees & Finance,2026-09-07 13:45:04,2026-09-09 11:10:56
+TKT-100662,STU25699,email,Academics & Exams,Low,Hall ticket not generated,27/08/2026 19:35,Closed,Academics & Exams,2026-09-01 15:43:47,2026-09-01 15:43:47
+TKT-100663,STU25376,portal,Hostel & Maintenance,Medium,Fan not working,2026-08-27 20:13:04,Closed,Hostel & Maintenance,2026-08-31 09:28:33,2026-08-31 09:28:33
+TKT-100664,STU25444,portal,IT Support,Low,Wi-Fi not working in room,2026-08-27 21:05:50,Closed,IT Support,2026-08-29 11:35:35,2026-08-29 11:35:35
+TKT-100665,STU25053,portal,IT Support,Medium,Cannot log in to LMS,2026-08-28 17:53:56,Closed,IT Support,2026-08-31 15:30:39,2026-09-01 14:38:57
+TKT-100666,STU24111,email,Fees,,Late fee charged wrongly,2026-08-28 20:32:17,Closed,Fees & Finance,2026-09-03 09:00:00,2026-09-03 09:00:00
+TKT-100667,STU24877,portal,Academics & Exams,Medium,Wrong marks uploaded,2026-08-28 12:23:03,Closed,Academics & Exams,2026-09-03 09:22:12,2026-09-03 09:22:12
+TKT-100668,STU24763,portal,fees & finance,Medium,Scholarship amount not credited,2026-08-28 15:56:32,closed,Fees & Finance,2026-09-03 09:00:00,2026-09-03 09:00:00
+TKT-100669,STU24933,portal,IT Support,Medium,Cannot log in to LMS,2026-08-28 22:33:10,Closed,IT Support,2026-08-31 13:51:58,2026-08-31 13:51:58
+TKT-100670,STU24037,email,Hostel & Maintenance,High,Fan not working,2026-08-28 12:41:22,Closed,Hostel & Maintenance,2026-09-01 08:00:00,2026-09-02 15:13:22
+TKT-100671,STU24088,portal,fees & finance,Low,Late fee charged wrongly,2026-08-28 16:50:24,Closed,Fees & Finance,2026-08-31 12:49:23,2026-09-02 13:02:35
+TKT-100672,STU25408,portal,IT Support,Medium,Wi-Fi not working in room,2026-08-28 21:47:14,Closed,IT Support,2026-08-29 13:51:54,2026-08-29 13:51:54
+TKT-100673,STU24108,email,library,Low,Book renewal failed,28/08/2026 18:14,Closed,Library,2026-08-29 14:39:27,2026-08-31 12:05:04
+TKT-100674,STU24069,portal,Hostel & Maintenance,Medium,AC not cooling,2026-08-28 08:07:13,Closed,Hostel & Maintenance,2026-09-01 19:41:47,2026-09-01 19:41:47
+TKT-100675,STU25236,walk_in,Exam Cell,Medium,Attendance shortage query,2026-08-28 13:18:44,Closed,Academics & Exams,2026-09-01 09:00:00,2026-09-03 15:30:45
+TKT-100676,STU24352,portal,hostel maintenance,Medium,Printer quota issue,2026-08-28 09:42:26,Closed,IT Support,2026-08-29 17:15:26,2026-08-29 17:15:26
+TKT-100677,STU25785,portal,Hostel & Maintenance,Medium,Water leakage in bathroom,2026-08-28 11:36:32,Closed,Hostel & Maintenance,2026-08-31 17:41:55,2026-08-31 17:41:55
+TKT-100678,STU24360,email,IT Support,Medium,Printer quota issue,28/08/2026 12:30,Closed,IT Support,2026-08-29 18:04:48,2026-08-29 18:04:48
+TKT-100679,STU24624,portal,Academics & Exams,Medium,Wrong marks uploaded,2026-08-28 10:29:41,Closed,Academics & Exams,2026-08-31 12:56:59,2026-08-31 12:56:59
+TKT-100680,STU24998,email,Fees & Finance,Medium,Scholarship amount not credited,2026-08-28 15:26:31,Closed,Fees & Finance,2026-09-07 09:00:00,2026-09-07 09:00:00
+TKT-100681,STU25187,portal,Fees & Finance,Low,Scholarship amount not credited,2026-08-28 20:53:14,Closed,Fees & Finance,2026-09-01 15:13:07,2026-09-01 15:13:07
+TKT-100682,STU24265,portal,Academics & Exams,Medium,Re-evaluation request,2026-08-28 14:26:17,Closed,Academics & Exams,,2026-09-07 09:33:03
+TKT-100683,STU24113,email,IT Support,,VPN access request,2026-08-28 10:19:11,Closed,IT Support,2026-08-29 14:42:30,2026-08-29 14:42:30
+TKT-100684,STU25451,portal,HOSTEL ,High,Fan not working,2026-08-28 10:03:29,Closed,Hostel & Maintenance,2026-08-31 10:27:02,2026-08-31 10:27:02
+TKT-100685,STU25155,portal,Fees & Finance,Medium,Late fee charged wrongly,2026-08-29 17:16:59,Closed,Fees & Finance,2026-09-01 12:52:56,2026-09-01 12:52:56
+TKT-100686,STU24015,portal,Hostel & Maintenance,Low,Water leakage in bathroom,2026-08-29 20:50:44,Closed,Hostel & Maintenance,2026-09-02 08:00:00,2026-09-02 08:00:00
+TKT-100687,STU24934,portal,Exam Cell,Medium,Course registration error,2026-08-29 21:51:47,Closed,Academics & Exams,2026-09-03 09:00:00,2026-09-03 09:00:00
+TKT-100688,STU25157,email,Academics & Exams,,Hall ticket not generated,29/08/2026 10:22,Closed,Academics & Exams,2026-09-01 13:56:55,2026-09-01 13:56:55
+TKT-100689,STU24119,email,IT Support,,Laptop not connecting to campus network,2026-08-29 18:47:08,Closed,IT Support,2026-09-01 11:57:01,2026-09-01 11:57:01
+TKT-100690,STU24468,portal,IT Support,High,Laptop not connecting to campus network,2026-08-29 17:42:58,Closed,IT Support,2026-08-31 10:57:03,2026-08-31 10:57:03
+TKT-100691,STU25346,portal,Academics & Exams,High,Attendance shortage query,2026-08-29 19:20:52,Closed,Academics & Exams,2026-09-07 09:00:00,2026-09-07 09:00:00
+TKT-100692,STU24233,portal,IT Support,Low,Laptop not connecting to campus network,2026-08-29 10:51:00,Closed,IT Support,2026-08-31 12:57:37,2026-08-31 12:57:37
+TKT-100693,STU24540,portal,it support,Medium,Email account locked,2026-08-29 10:13:35,Closed,IT Support,,2026-08-29 17:12:33
+TKT-100694,STU24088,portal,IT Support,High,Laptop not connecting to campus network,2026-08-29 17:22:28,Closed,IT Support,,2026-08-31 10:57:05
+TKT-100695,STU25409,portal,Hostel & Maintenance,Medium,No hot water,2026-08-30 14:22:09,Closed,Hostel & Maintenance,2026-09-04 08:00:00,2026-09-07 09:40:10
+TKT-100696,STU24008,portal,IT,Medium,Wi-Fi not working in room,2026-08-30 19:18:44,Closed,IT Support,2026-09-01 09:44:53,2026-09-01 09:44:53
+TKT-100697,STU25468,email,Library,Medium,Library fine dispute,2026-08-30 16:17:36,Closed,Library,2026-09-01 09:08:30,2026-09-01 09:08:30
+TKT-100698,STU25548,portal,it support,High,Laptop not connecting to campus network,2026-08-30 14:26:41,Closed,IT Support,2026-08-31 11:41:10,2026-08-31 11:41:10
+TKT-100699,STU25271,email,IT Support,,Room lock broken,2026-08-30 19:49:32,Closed,Hostel & Maintenance,2026-09-03 08:00:00,2026-09-03 08:00:00
+TKT-100700,STU25247,email,Academics & Exams,Medium,Course registration error,30/08/2026 16:15,Closed,Academics & Exams,2026-09-01 12:31:22,2026-09-01 12:31:22
+TKT-100701,STU24923,portal,Library,Low,Book renewal failed,2026-08-30 11:36:04,CLOSED,Library,2026-08-31 12:00:05,2026-08-31 12:00:05
+TKT-100702,STU25257,portal,Library,Low,Book renewal failed,2026-08-30 08:22:06,Closed,Library,2026-09-02 09:00:00,2026-09-02 09:00:00
+TKT-100703,STU25550,portal,Academics,Low,Wrong marks uploaded,2026-08-30 09:40:34,CLOSED,Academics & Exams,2026-09-01 11:11:05,2026-09-01 11:11:05
+TKT-100704,STU25588,email,Hostel & Maintenance,Low,Cannot log in to LMS,30/08/2026 08:03,Closed,IT Support,2026-09-05 08:00:00,2026-09-05 08:00:00
+TKT-100705,STU25758,portal,Academics & Exams,Medium,Course registration error,2026-08-30 14:48:48,Closed,Academics & Exams,2026-09-01 12:00:13,2026-09-01 12:00:13
+TKT-100706,STU24445,email,Academics & Exams,Medium,Re-evaluation request,30/08/2026 15:37,Closed,Academics & Exams,,2026-09-02 10:44:17
+TKT-100707,STU25182,email,IT Support,High,Laptop not connecting to campus network,30/08/2026 19:32,Closed,IT Support,2026-09-02 15:33:14,2026-09-02 15:33:14
+TKT-100708,STU25796,email,IT Support,,Printer quota issue,2026-08-30 10:28:36,Closed,IT Support,2026-09-02 12:11:31,2026-09-02 12:11:31
+TKT-100709,STU25277,portal,Academics & Exams,Low,VPN access request,2026-08-30 23:14:24,Closed,IT Support,2026-09-01 19:06:05,2026-09-01 19:06:05
+TKT-100710,STU25334,portal,Library,Medium,Library fine dispute,2026-08-31 19:12:55,Closed,Library,2026-09-02 09:21:51,2026-09-02 09:21:51
+TKT-100711,STU24326,email,it support,,Wi-Fi not working in room,31/08/2026 11:09,Closed,IT Support,2026-08-31 15:51:55,2026-08-31 15:51:55
+TKT-100712,STU24505,portal,IT Support,High,Email account locked,2026-08-31 17:18:51,Closed,IT Support,2026-09-02 12:46:57,2026-09-02 12:46:57
+TKT-100713,STU24774,email,Hostel & Maintenance,Medium,Fee receipt not generated,31/08/2026 18:36,Closed,Fees & Finance,2026-09-07 09:00:00,2026-09-07 09:00:00
+TKT-100714,STU25610,portal,Academics & Exams,High,Re-evaluation request,2026-08-31 20:50:19,Closed,Academics & Exams,2026-09-01 16:12:27,2026-09-01 16:12:27
+TKT-100715,STU24511,portal,Hostel & Maintenance,Medium,Mess food complaint,2026-08-31 19:36:26,closed,Hostel & Maintenance,2026-09-01 13:07:53,2026-09-01 13:07:53
+TKT-100716,STU24288,walk_in,Fees & Finance,Medium,Installment plan request,2026-08-31 16:11:35,Closed,Fees & Finance,2026-09-02 12:27:29,2026-09-02 12:27:29
+TKT-100717,STU25271,portal,IT Support,Medium,Cannot log in to LMS,2026-08-31 07:16:59,Closed,IT Support,2026-09-01 09:02:00,2026-09-01 09:02:00
+TKT-100718,STU24681,portal,Academics & Exams,Medium,Re-evaluation request,2026-08-31 20:46:25,Closed,Academics & Exams,2026-09-02 10:58:36,2026-09-03 16:47:17
+TKT-100719,STU24779,portal,IT Support,Medium,Laptop not connecting to campus network,2026-08-31 17:46:04,Closed,IT Support,2026-09-02 19:36:47,2026-09-02 19:36:47
+TKT-100720,STU24648,email,Fees & Finance,,Refund of caution deposit,2026-08-31 15:25:36,closed,Fees & Finance,2026-09-07 09:00:00,2026-09-07 09:00:00
+TKT-100721,STU25446,portal,Other,Medium,Library fine dispute,2026-08-31 11:42:10,closed,Library,2026-09-03 13:32:02,2026-09-03 13:32:02
+TKT-100722,STU25028,portal,IT Support,Medium,Printer quota issue,2026-08-31 13:37:30,Closed,IT Support,2026-08-31 17:52:31,2026-08-31 17:52:31
+TKT-100723,STU24213,portal,Academics & Exams,Low,Exam clash,2026-08-31 20:48:29,Closed,Academics & Exams,2026-09-03 10:30:35,2026-09-03 10:30:35
+TKT-100724,STU25749,portal,IT Support,Medium,Cannot log in to LMS,2026-08-31 09:34:44,Closed,IT Support,2026-09-01 10:07:23,2026-09-01 10:07:23
+TKT-100725,STU24460,portal,Hostel & Maintenance,Medium,Water leakage in bathroom,2026-08-31 20:08:40,Closed,Hostel & Maintenance,2026-09-03 11:28:33,2026-09-03 11:28:33
+TKT-100726,STU24858,portal,Library,Low,E-resource access issue,2026-08-31 20:19:04,CLOSED,Library,2026-09-02 16:44:04,2026-09-02 16:44:04
+TKT-100727,STU24907,portal,HOSTEL ,Low,AC not cooling,2026-08-31 14:25:05,Closed,Hostel & Maintenance,2026-09-03 10:19:01,2026-09-05 19:31:36
+TKT-100728,STU25715,portal,Fees,Medium,Installment plan request,2026-08-31 11:41:30,Closed,Fees & Finance,2026-09-07 09:00:00,2026-09-07 09:00:00
+TKT-100729,STU25441,portal,Hostel & Maintenance,High,No hot water,2026-08-31 17:27:34,Closed,Hostel & Maintenance,2026-09-04 08:00:00,2026-09-04 08:00:00
+TKT-100730,STU24307,portal,IT Support,Low,Cannot log in to LMS,2026-08-31 16:40:13,Closed,IT Support,2026-08-31 17:18:27,2026-08-31 17:18:27
+TKT-100731,STU24529,portal,Academics & Exams,High,Course registration error,2026-08-31 16:56:52,Closed,Academics & Exams,2026-09-02 12:30:28,2026-09-02 12:30:28
+TKT-100732,STU25076,walk_in,IT Support,High,Wi-Fi not working in room,2026-08-31 12:51:00,closed,IT Support,2026-09-01 12:28:25,2026-09-01 12:28:25
+TKT-100733,STU24482,portal,Academics & Exams,High,Attendance shortage query,2026-08-31 17:38:59,Closed,Academics & Exams,2026-09-02 12:09:30,2026-09-03 13:08:23
+TKT-100734,STU25191,portal,IT support ,Medium,Laptop not connecting to campus network,2026-08-31 11:01:32,closed,IT Support,2026-08-31 17:58:51,2026-08-31 17:58:51
+TKT-100735,STU24959,portal,Other,Medium,AC not cooling,2026-08-31 18:29:44,CLOSED,Hostel & Maintenance,2026-09-05 08:00:00,2026-09-05 08:00:00
+TKT-100736,STU24080,walk_in,IT Support,Medium,Printer quota issue,2026-08-31 10:03:59,Closed,IT Support,2026-09-02 08:32:51,2026-09-02 08:32:51
+TKT-100737,STU25616,portal,IT Support,Medium,Email account locked,2026-08-31 16:45:29,Closed,IT Support,2026-09-01 13:29:00,2026-09-01 13:29:00
+TKT-100738,STU24984,email,IT Support,Medium,Cannot log in to LMS,2026-08-31 09:49:05,Closed,IT Support,2026-09-01 12:12:45,2026-09-01 12:12:45
+TKT-100739,STU25436,email,Library,High,Wi-Fi not working in room,31/08/2026 17:03,Closed,IT Support,2026-09-01 18:51:31,2026-09-01 18:51:31
+TKT-100740,STU24589,portal,IT Support,High,Refund of caution deposit,2026-09-01 08:54:21,Closed,Fees & Finance,2026-09-04 09:00:00,2026-09-04 09:00:00
+TKT-100741,STU25271,email,Library,,E-resource access issue,2026-09-01 18:51:03,Closed,Library,2026-09-03 12:20:18,2026-09-03 12:20:18
+TKT-100742,STU24163,portal,Fees & Finance,Low,Fee receipt not generated,2026-09-01 16:13:14,Closed,Fees & Finance,2026-09-03 13:42:32,2026-09-03 13:42:32
+TKT-100743,STU25470,portal,Library,Medium,E-resource access issue,2026-09-01 13:51:50,Closed,Library,2026-09-03 11:36:26,2026-09-03 11:36:26
+TKT-100744,STU24908,email,IT Support,,Printer quota issue,2026-09-01 17:08:56,Closed,IT Support,,2026-09-02 14:37:27
+TKT-100745,STU24979,portal,Fees & Finance,Medium,Fee receipt not generated,2026-09-01 08:20:04,Closed,Fees & Finance,2026-09-04 09:00:00,2026-09-04 09:00:00
+TKT-100746,STU25071,portal,Finance,Low,Scholarship amount not credited,2026-09-01 09:20:56,Closed - No Response,Fees & Finance,,2026-09-05 12:59:21
+TKT-100747,STU24441,portal,hostel maintenance,Medium,Pest issue in room,2026-09-01 21:42:37,Closed,Hostel & Maintenance,2026-09-04 14:46:44,2026-09-04 14:46:44
+TKT-100748,STU25650,portal,Hostel & Maintenance,Medium,Water leakage in bathroom,2026-09-01 09:06:37,Closed,Hostel & Maintenance,2026-09-07 15:07:24,2026-09-07 15:07:24
+TKT-100749,STU25462,portal,IT Support,Low,VPN access request,2026-09-01 11:03:43,Closed,IT Support,,2026-09-02 09:47:20
+TKT-100750,STU24660,portal,Academics & Exams,Medium,Exam clash,2026-09-01 11:39:53,Closed,Academics & Exams,2026-09-15 09:00:00,2026-09-15 09:00:00
+TKT-100751,STU24216,email,Fees & Finance,Medium,Fee receipt not generated,01/09/2026 21:37,Closed,Fees & Finance,2026-09-07 09:00:00,2026-09-07 09:00:00
+TKT-100752,STU25421,portal,Hostel & Maintenance,Low,Water leakage in bathroom,2026-09-01 16:03:53,Closed,Hostel & Maintenance,2026-09-03 12:04:55,2026-09-03 12:04:55
+TKT-100753,STU24801,portal,Academics & Exams,Low,Attendance shortage query,2026-09-01 10:45:06,Closed,Academics & Exams,2026-09-04 11:29:59,2026-09-04 11:29:59
+TKT-100754,STU24862,email,Academics & Exams,Medium,Hall ticket not generated,01/09/2026 22:47,Closed,Academics & Exams,2026-09-07 09:00:00,2026-09-07 09:00:00
+TKT-100755,STU24758,portal,IT Support,High,Wi-Fi not working in room,2026-09-01 18:57:43,CLOSED,IT Support,2026-09-05 08:00:00,2026-09-05 08:00:00
+TKT-100756,STU24976,email,Library,Low,Library fine dispute,2026-09-01 10:34:57,Closed,Library,2026-09-02 14:42:39,2026-09-03 17:57:27
+TKT-100757,STU25371,portal,Hostel & Maintenance,Medium,AC not cooling,2026-09-01 14:09:47,Closed,Hostel & Maintenance,2026-09-03 10:21:30,2026-09-05 19:00:15
+TKT-100758,STU25235,portal,Academics & Exams,Low,Wi-Fi not working in room,2026-09-01 18:39:39,Closed,IT Support,2026-09-03 18:49:25,2026-09-04 11:59:35
+TKT-100759,STU24474,portal,IT Support,High,VPN access request,2026-09-01 09:46:22,Closed - No Response,IT Support,,2026-09-04 11:01:07
+TKT-100760,STU25017,email,Academics & Exams,Medium,Fan not working,2026-09-01 16:06:29,closed,Hostel & Maintenance,2026-09-03 15:55:19,2026-09-03 15:55:19
+TKT-100761,STU24357,email,Library,Medium,Library fine dispute,01/09/2026 11:21,Closed - No Response,Library,,2026-09-06 10:28:28
+TKT-100762,STU24036,portal,Exam Cell,Low,Course registration error,2026-09-01 16:20:18,Closed,Academics & Exams,2026-09-04 14:04:36,2026-09-04 14:04:36
+TKT-100763,STU25791,walk_in,it support,Low,Wi-Fi not working in room,2026-09-01 12:01:27,Closed,IT Support,2026-09-01 19:24:28,2026-09-03 10:16:53
+TKT-100764,STU25414,portal,Finance,Low,Refund of caution deposit,2026-09-02 22:59:11,Closed,Fees & Finance,2026-09-09 09:00:00,2026-09-09 09:00:00
+TKT-100765,STU24095,portal,IT Support,Medium,Wi-Fi not working in room,2026-09-02 23:09:07,Closed,IT Support,2026-09-03 17:31:36,2026-09-03 17:31:36
+TKT-100766,STU24553,portal,Academics & Exams,Medium,Exam clash,2026-09-02 11:28:49,Closed,Academics & Exams,2026-09-08 15:16:57,2026-09-08 15:16:57
+TKT-100767,STU25193,email,Finance,Medium,Scholarship amount not credited,02/09/2026 23:40,Closed,Fees & Finance,2026-09-08 09:00:00,2026-09-08 09:00:00
+TKT-100768,STU24534,email,Hostel & Maintenance,Medium,Fan not working,2026-09-02 19:04:53,Closed,Hostel & Maintenance,2026-09-04 18:13:24,2026-09-04 18:13:24
+TKT-100769,STU24300,email,Hostel & Maintenance,,Fan not working,02/09/2026 18:47,Closed,Hostel & Maintenance,2026-09-03 16:10:28,2026-09-03 16:10:28
+TKT-100770,STU24388,portal,IT Support,Medium,Laptop not connecting to campus network,2026-09-02 16:06:57,Closed,IT Support,2026-09-03 15:46:21,2026-09-03 15:46:21
+TKT-100771,STU24999,email,academics & exams,,Exam clash,2026-09-02 14:54:50,Closed,Academics & Exams,2026-09-04 16:53:04,2026-09-04 16:53:04
+TKT-100772,STU25126,portal,Fees & Finance,Medium,Refund of caution deposit,2026-09-02 17:37:40,Closed,Fees & Finance,2026-09-09 09:00:00,2026-09-09 09:00:00
+TKT-100773,STU25792,portal,Hostel & Maintenance,Medium,Fan not working,2026-09-02 12:22:18,Closed,Hostel & Maintenance,2026-09-07 12:23:42,2026-09-07 12:23:42
+TKT-100774,STU25107,email,Fees & Finance,,Installment plan request,02/09/2026 12:58,Closed,Fees & Finance,2026-09-09 09:00:00,2026-09-09 09:00:00
+TKT-100775,STU24602,portal,Finance,Medium,Refund of caution deposit,2026-09-02 20:02:41,Closed,Fees & Finance,2026-09-04 16:54:35,2026-09-07 15:53:28
+TKT-100776,STU24635,email,Academics & Exams,Low,Exam clash,2026-09-03 14:39:07,Closed,Academics & Exams,2026-09-16 09:00:00,2026-09-16 09:00:00
+TKT-100777,STU25074,portal,Other,Low,AC not cooling,2026-09-03 22:56:06,Closed,Hostel & Maintenance,2026-09-07 14:27:51,2026-09-07 14:27:51
+TKT-100778,STU25243,email,Hostel,,Room lock broken,2026-09-03 10:09:48,Closed,Hostel & Maintenance,2026-09-05 09:05:06,2026-09-05 09:05:06
+TKT-100779,STU24781,walk_in,Hostel & Maintenance,Low,AC not cooling,2026-09-03 15:46:56,Closed,Hostel & Maintenance,2026-09-04 12:41:31,2026-09-04 12:41:31
+TKT-100780,STU25657,portal,Hostel & Maintenance,Medium,Mess food complaint,2026-09-03 09:15:18,CLOSED,Hostel & Maintenance,2026-09-04 11:29:57,2026-09-07 08:31:09
+TKT-100781,STU25717,email,IT Support,Low,Email account locked,03/09/2026 13:48,Closed,IT Support,2026-09-04 13:34:32,2026-09-05 17:59:13
+TKT-100782,STU24928,portal,Hostel,Medium,No hot water,2026-09-03 14:26:42,Closed,Hostel & Maintenance,2026-09-05 13:35:32,2026-09-07 15:05:39
+TKT-100783,STU24903,email,IT support ,Medium,VPN access request,2026-09-03 13:48:43,Closed,IT Support,2026-09-04 19:56:54,2026-09-04 19:56:54
+TKT-100784,STU24134,portal,Library,Low,Book renewal failed,2026-09-03 15:20:09,Closed,Library,2026-09-07 11:04:12,2026-09-07 11:04:12
+TKT-100785,STU24540,portal,IT Support,Medium,Email account locked,2026-09-03 16:38:33,closed,IT Support,2026-09-04 09:48:31,2026-09-04 09:48:31
+TKT-100786,STU24235,portal,Hostel & Maintenance,Medium,Water leakage in bathroom,2026-09-03 07:14:21,Closed,Hostel & Maintenance,2026-09-08 08:00:00,2026-09-08 08:00:00
+TKT-100787,STU25085,portal,Library,Medium,Water leakage in bathroom,2026-09-03 20:07:13,Closed,Hostel & Maintenance,2026-09-05 14:52:12,2026-09-05 14:52:12
+TKT-100788,STU24001,portal,Academics & Exams,Low,Attendance shortage query,2026-09-03 21:15:08,Closed,Academics & Exams,2026-09-07 11:13:41,2026-09-07 11:13:41
+TKT-100789,STU24546,email,it support,,Email account locked,03/09/2026 16:35,Closed,IT Support,2026-09-04 18:39:08,2026-09-04 18:39:08
+TKT-100790,STU24544,portal,Academics & Exams,High,Re-evaluation request,2026-09-03 11:24:47,Closed,Academics & Exams,,2026-09-04 13:13:06
+TKT-100791,STU25266,portal,Hostel & Maintenance,Medium,AC not cooling,2026-09-03 12:16:01,Closed,Hostel & Maintenance,2026-09-07 14:59:40,2026-09-07 14:59:40
+TKT-100792,STU25015,portal,Library,Medium,Library fine dispute,2026-09-03 09:41:03,Closed,Library,2026-09-05 10:24:52,2026-09-05 10:24:52
+TKT-100793,STU25529,portal,IT Support,Low,Printer quota issue,2026-09-03 22:30:53,Closed,IT Support,2026-09-04 12:36:34,2026-09-04 12:36:34
+TKT-100794,STU24889,portal,academics & exams,High,Attendance shortage query,2026-09-03 11:24:32,Closed,Academics & Exams,2026-09-08 09:00:00,2026-09-08 09:00:00
+TKT-100795,STU25751,email,Academics & Exams,,Re-evaluation request,2026-09-03 22:03:21,Closed,Academics & Exams,2026-09-10 09:00:00,2026-09-10 09:00:00
+TKT-100796,STU24171,email,IT Support,Medium,Email account locked,2026-09-04 14:33:49,Closed,IT Support,2026-09-05 08:11:14,2026-09-05 08:11:14
+TKT-100797,STU25054,email,IT Support,,Cannot log in to LMS,2026-09-04 16:52:10,Closed,IT Support,2026-09-05 15:45:07,2026-09-05 15:45:07
+TKT-100798,STU24657,walk_in,Hostel & Maintenance,Medium,AC not cooling,2026-09-04 12:02:19,Closed,Hostel & Maintenance,2026-09-07 12:42:51,2026-09-07 12:42:51
+TKT-100799,STU25313,email,IT Support,Medium,Wi-Fi not working in room,04/09/2026 20:32,Closed,IT Support,2026-09-07 10:35:58,2026-09-07 10:35:58
+TKT-100800,STU25520,portal,Academics & Exams,High,AC not cooling,2026-09-04 15:59:31,Closed,Hostel & Maintenance,2026-09-14 08:00:00,2026-09-14 08:00:00
+TKT-100801,STU25243,email,IT Support,,Printer quota issue,2026-09-04 07:05:37,Closed,IT Support,2026-09-07 11:15:11,2026-09-07 11:15:11
+TKT-100802,STU24709,email,HOSTEL ,Low,Room lock broken,2026-09-04 20:51:00,Closed,Hostel & Maintenance,2026-09-07 11:02:15,2026-09-07 11:02:15
+TKT-100803,STU24128,portal,Academics & Exams,Medium,E-resource access issue,2026-09-04 16:26:10,Closed,Library,2026-09-08 09:00:00,2026-09-08 09:00:00
+TKT-100804,STU24556,portal,Library,Low,Library fine dispute,2026-09-04 19:33:52,CLOSED,Library,2026-09-05 16:21:26,2026-09-05 16:21:26
+TKT-100805,STU25577,email,Academics & Exams,Low,Wrong marks uploaded,04/09/2026 14:15,Closed,Academics & Exams,2026-09-08 09:00:00,2026-09-08 09:00:00
+TKT-100806,STU25656,portal,IT Support,High,Wi-Fi not working in room,2026-09-04 12:41:01,Closed,IT Support,,2026-09-04 18:52:27
+TKT-100807,STU24513,email,Fees & Finance,Medium,Late fee charged wrongly,2026-09-04 10:56:06,Closed,Fees & Finance,2026-09-14 09:00:00,2026-09-14 09:00:00
+TKT-100808,STU25590,portal,Hostel,Low,Room lock broken,2026-09-04 12:21:39,Closed,Hostel & Maintenance,2026-09-08 08:00:00,2026-09-08 08:00:00
+TKT-100809,STU24911,email,Hostel & Maintenance,Medium,Water leakage in bathroom,04/09/2026 11:21,Closed,Hostel & Maintenance,2026-09-05 09:49:20,2026-09-05 09:49:20
+TKT-100810,STU24932,portal,IT Support,Low,Printer quota issue,2026-09-04 15:31:07,Closed,IT Support,2026-09-04 18:33:27,2026-09-04 18:33:27
+TKT-100811,STU25334,portal,Hostel & Maintenance,Medium,Pest issue in room,2026-09-04 11:36:20,Closed,Hostel & Maintenance,2026-09-08 08:00:00,2026-09-08 08:00:00
+TKT-100812,STU24689,email,Library,,Library fine dispute,2026-09-04 20:24:27,Closed,Library,2026-09-05 15:50:42,2026-09-05 15:50:42
+TKT-100813,STU24875,portal,IT Support,Medium,Printer quota issue,2026-09-04 20:10:59,Closed,IT Support,2026-09-05 16:20:45,2026-09-05 16:20:45
+TKT-100814,STU25388,email,Hostel & Maintenance,Medium,No hot water,2026-09-04 19:15:51,Closed,Hostel & Maintenance,2026-09-08 08:00:00,2026-09-08 08:00:00
+TKT-100815,STU24937,email,Academics & Exams,Medium,Course registration error,2026-09-04 10:13:34,Closed,Academics & Exams,2026-09-09 09:00:00,2026-09-09 09:00:00
+TKT-100816,STU24715,email,Academics & Exams,High,Course registration error,04/09/2026 21:21,Closed,Academics & Exams,2026-09-07 13:35:40,2026-09-09 11:04:50
+TKT-100817,STU24902,walk_in,IT Support,Medium,Wi-Fi not working in room,2026-09-04 13:38:21,Closed - No Response,IT Support,,2026-09-07 15:23:00
+TKT-100818,STU24112,portal,Academics & Exams,Low,Laptop not connecting to campus network,2026-09-04 19:59:53,Closed,IT Support,2026-09-08 09:18:55,2026-09-08 09:18:55
+TKT-100819,STU25759,portal,Academics & Exams,Low,Wrong marks uploaded,2026-09-04 15:32:39,closed,Academics & Exams,2026-09-10 09:00:00,2026-09-10 09:00:00
+TKT-100820,STU24990,email,Library ,Medium,Library fine dispute,2026-09-04 14:17:02,Closed,Library,2026-09-07 10:43:40,2026-09-07 10:43:40
+TKT-100821,STU25702,portal,IT Support,Low,Printer quota issue,2026-09-04 20:26:19,Closed,IT Support,2026-09-05 16:45:04,2026-09-05 16:45:04
+TKT-100822,STU24237,email,Hostel & Maintenance,Medium,Water leakage in bathroom,04/09/2026 19:06,Closed,Hostel & Maintenance,2026-09-08 17:53:00,2026-09-08 17:53:00
+TKT-100823,STU24473,email,Academics & Exams,Medium,Library fine dispute,05/09/2026 14:54,closed,Library,2026-09-08 09:14:21,2026-09-08 09:14:21
+TKT-100824,STU24243,portal,IT Support,Medium,Email account locked,2026-09-05 21:48:07,Closed,IT Support,2026-09-07 12:27:23,2026-09-07 12:27:23
+TKT-100825,STU24181,portal,Academics & Exams,Medium,Course registration error,2026-09-05 13:23:32,Closed,Academics & Exams,2026-09-08 09:06:54,2026-09-08 09:06:54
+TKT-100826,STU24256,portal,IT,Low,Laptop not connecting to campus network,2026-09-05 13:48:09,Closed,IT Support,2026-09-07 15:49:52,2026-09-07 15:49:52
+TKT-100827,STU25622,portal,IT support ,Medium,Email account locked,2026-09-05 10:59:37,Closed,IT Support,2026-09-05 15:30:23,2026-09-05 15:30:23
+TKT-100828,STU25478,email,Library,,E-resource access issue,05/09/2026 14:25,Closed - No Response,Library,,2026-09-08 17:45:39
+TKT-100829,STU25152,portal,Library,Medium,E-resource access issue,2026-09-05 17:23:01,closed,Library,2026-09-07 09:30:38,2026-09-09 12:26:01
+TKT-100830,STU24054,portal,Academics,Medium,Hall ticket not generated,2026-09-05 07:28:22,Closed,Academics & Exams,2026-09-08 15:08:38,2026-09-08 15:08:38
+TKT-100831,STU24385,portal,IT Support,High,Email account locked,2026-09-05 21:52:23,Closed,IT Support,2026-09-07 08:34:40,2026-09-07 08:34:40
+TKT-100832,STU25763,walk_in,IT Support,Low,Email account locked,2026-09-05 11:50:52,Closed,IT Support,2026-09-07 09:19:02,2026-09-07 09:19:02
+TKT-100833,STU24730,portal,academics & exams,Low,Fee receipt not generated,2026-09-05 17:20:44,closed,Fees & Finance,2026-09-10 09:00:00,2026-09-10 09:00:00
+TKT-100834,STU24220,email,Library,,Printer quota issue,06/09/2026 18:18,Closed,IT Support,2026-09-10 08:00:00,2026-09-10 08:00:00
+TKT-100835,STU24042,portal,Academics & Exams,Medium,Hall ticket not generated,2026-09-06 12:50:32,Closed,Academics & Exams,2026-09-08 16:58:10,2026-09-08 16:58:10
+TKT-100836,STU24012,portal,IT Support,Medium,VPN access request,2026-09-06 11:54:15,Closed,IT Support,2026-09-07 17:47:57,2026-09-07 17:47:57
+TKT-100837,STU25460,email,IT Support,Low,Cannot log in to LMS,06/09/2026 19:07,Closed,IT Support,2026-09-09 11:25:20,2026-09-09 11:25:20
+TKT-100838,STU24623,portal,IT Support,High,Refund of caution deposit,2026-09-06 00:34:03,Closed,Fees & Finance,2026-09-10 09:00:00,2026-09-10 09:00:00
+TKT-100839,STU25188,portal,IT Support,Medium,Printer quota issue,2026-09-06 11:09:33,Closed,IT Support,2026-09-07 17:13:01,2026-09-07 17:13:01
+TKT-100840,STU24483,email,IT Support,High,Cannot log in to LMS,06/09/2026 16:16,Closed,IT Support,2026-09-08 10:38:17,2026-09-08 10:38:17
+TKT-100841,STU25734,email,Hostel & Maintenance,,Hall ticket not generated,2026-09-06 17:31:28,closed,Academics & Exams,2026-09-10 09:00:00,2026-09-10 09:00:00
+TKT-100842,STU25017,portal,academics & exams,Low,Email account locked,2026-09-06 12:37:39,Closed,IT Support,2026-09-08 08:20:09,2026-09-08 08:20:09
+TKT-100843,STU25204,email,IT support ,,Wi-Fi not working in room,2026-09-06 20:31:57,Closed,IT Support,2026-09-09 10:38:18,2026-09-09 10:38:18
+TKT-100844,STU25794,portal,Other,Medium,Attendance shortage query,2026-09-06 20:45:16,Closed,Academics & Exams,2026-09-10 15:17:46,2026-09-10 15:17:46
+TKT-100845,STU24538,email,academics & exams,Low,Course registration error,2026-09-06 20:59:08,Closed,Academics & Exams,2026-09-09 13:42:01,2026-09-09 13:42:01
+TKT-100846,STU24434,portal,Fees & Finance,Medium,Late fee charged wrongly,2026-09-06 11:48:47,Closed,Fees & Finance,2026-09-08 16:23:39,2026-09-08 16:23:39
+TKT-100847,STU24462,portal,Hostel & Maintenance,Medium,Mess food complaint,2026-09-06 13:04:40,Closed,Hostel & Maintenance,2026-09-08 09:21:50,2026-09-11 08:52:22
+TKT-100848,STU24174,email,Exam Cell,Medium,Course registration error,2026-09-06 16:08:24,Closed,Academics & Exams,2026-09-14 09:00:00,2026-09-14 09:00:00
+TKT-100849,STU24973,portal,hostel maintenance,Low,Re-evaluation request,2026-09-07 21:16:12,Closed,Academics & Exams,2026-09-11 09:00:00,2026-09-11 09:00:00
+TKT-100850,STU24670,portal,Other,High,Wi-Fi not working in room,2026-09-07 11:41:14,Closed,IT Support,2026-09-07 13:07:28,2026-09-07 13:07:28
+TKT-100851,STU24164,email,Academics & Exams,High,Exam clash,2026-09-07 20:52:08,Closed,Academics & Exams,2026-09-10 11:47:26,2026-09-10 11:47:26
+TKT-100852,STU25260,portal,IT Support,Medium,Printer quota issue,2026-09-07 20:07:40,Closed,IT Support,2026-09-08 19:49:21,2026-09-08 19:49:21
+TKT-100853,STU24759,email,IT Support,Medium,Wi-Fi not working in room,2026-09-07 15:48:12,Closed,IT Support,2026-09-09 15:57:45,2026-09-09 15:57:45
+TKT-100854,STU25611,walk_in,IT,Medium,Cannot log in to LMS,2026-09-07 11:45:59,CLOSED,IT Support,2026-09-09 14:45:06,2026-09-09 14:45:06
+TKT-100855,STU24515,email,IT Support,Medium,VPN access request,2026-09-07 18:15:45,CLOSED,IT Support,2026-09-08 18:09:20,2026-09-08 18:09:20
+TKT-100856,STU24629,email,Fees & Finance,,Refund of caution deposit,2026-09-07 08:41:51,Closed,Fees & Finance,2026-09-10 09:00:00,2026-09-10 09:00:00
+TKT-100857,STU24464,portal,IT Support,Low,VPN access request,2026-09-07 14:55:22,Closed,IT Support,2026-09-08 09:32:25,2026-09-08 09:32:25
+TKT-100858,STU24068,portal,Hostel & Maintenance,High,No hot water,2026-09-07 20:37:58,Closed - No Response,Hostel & Maintenance,,2026-09-11 17:36:03
+TKT-100859,STU24312,portal,Fees & Finance,Medium,Refund of caution deposit,2026-09-07 15:38:14,Closed,Fees & Finance,2026-09-14 09:00:00,2026-09-15 16:44:18
+TKT-100860,STU25597,email,Hostel & Maintenance,Medium,Fan not working,07/09/2026 14:22,Closed,Hostel & Maintenance,2026-09-08 15:26:56,2026-09-08 15:26:56
+TKT-100861,STU24168,portal,Exam Cell,Medium,Wrong marks uploaded,2026-09-07 14:18:30,Closed,Academics & Exams,2026-09-11 09:00:00,2026-09-11 09:00:00
+TKT-100862,STU25123,email,Fees & Finance,Medium,Installment plan request,2026-09-07 19:40:42,Closed,Fees & Finance,2026-09-14 09:00:00,2026-09-14 09:00:00
+TKT-100863,STU24519,portal,IT support ,Low,VPN access request,2026-09-07 13:03:30,Closed,IT Support,2026-09-08 12:08:50,2026-09-08 12:08:50
+TKT-100864,STU25468,walk_in,IT,Medium,Laptop not connecting to campus network,2026-09-07 15:58:03,closed,IT Support,2026-09-08 08:22:23,2026-09-08 08:22:23
+TKT-100865,STU25565,portal,Exam Cell,Medium,Wrong marks uploaded,2026-09-07 08:23:26,Closed,Academics & Exams,2026-09-09 11:17:55,2026-09-09 11:17:55
+TKT-100866,STU25256,portal,Hostel & Maintenance,Medium,Water leakage in bathroom,2026-09-07 20:15:10,closed,Hostel & Maintenance,2026-09-09 13:17:32,2026-09-09 13:17:32
+TKT-100867,STU24818,portal,Academics & Exams,Medium,Hall ticket not generated,2026-09-07 10:15:28,Closed,Academics & Exams,2026-09-08 16:49:52,2026-09-08 16:49:52
+TKT-100868,STU25100,portal,IT Support,Medium,Laptop not connecting to campus network,2026-09-07 14:00:40,Closed,IT Support,2026-09-10 13:16:23,2026-09-11 09:24:20
+TKT-100869,STU24880,portal,IT Support,Low,Laptop not connecting to campus network,2026-09-07 09:00:06,closed,IT Support,2026-09-07 13:24:09,2026-09-07 13:24:09
+TKT-100870,STU24647,email,Library,Medium,Library fine dispute,2026-09-07 10:57:20,Closed,Library,2026-09-08 12:26:11,2026-09-08 12:26:11
+TKT-100871,STU24550,email,Hostel,Medium,Fan not working,07/09/2026 18:28,Closed,Hostel & Maintenance,2026-09-11 15:52:37,2026-09-14 09:27:59
+TKT-100872,STU25088,email,Academics & Exams,Medium,Wrong marks uploaded,2026-09-07 11:57:40,Closed,Academics & Exams,2026-09-08 16:39:52,2026-09-08 16:39:52
+TKT-100873,STU24573,portal,Hostel & Maintenance,Low,Water leakage in bathroom,2026-09-07 12:40:24,Closed,Hostel & Maintenance,,2026-09-08 11:49:18
+TKT-100874,STU25516,portal,Other,Low,Late fee charged wrongly,2026-09-07 19:13:56,Closed,Fees & Finance,2026-09-14 09:00:00,2026-09-14 09:00:00
+TKT-100875,STU24071,portal,Hostel & Maintenance,High,Mess food complaint,2026-09-07 14:20:30,Closed,Hostel & Maintenance,,2026-09-10 12:18:15
+TKT-100876,STU24437,email,Academics & Exams,High,Course registration error,2026-09-07 12:19:08,Closed,Academics & Exams,2026-09-10 10:49:19,2026-09-10 10:49:19
+TKT-100877,STU25046,portal,Fees & Finance,Medium,Refund of caution deposit,2026-09-07 19:54:49,closed_no_response,Fees & Finance,,2026-09-12 11:09:34
+TKT-100878,STU24878,email,Exam Cell,,Hall ticket not generated,07/09/2026 20:47,closed,Academics & Exams,2026-09-08 15:23:31,2026-09-08 15:23:31
+TKT-100879,STU24055,portal,Fees,Medium,Late fee charged wrongly,2026-09-07 10:33:43,Closed,Fees & Finance,2026-09-08 14:24:42,2026-09-08 14:24:42
+TKT-100880,STU24789,email,Fees & Finance,Low,Course registration error,07/09/2026 09:57,Closed,Academics & Exams,2026-09-11 09:00:00,2026-09-11 09:00:00
+TKT-100881,STU25787,email,Hostel & Maintenance,,Room lock broken,2026-09-08 22:36:48,Closed,Hostel & Maintenance,2026-09-11 15:10:47,2026-09-11 15:10:47
+TKT-100882,STU24901,portal,IT Support,Medium,Wi-Fi not working in room,2026-09-08 16:13:47,Closed,IT Support,,2026-09-10 14:39:43
+TKT-100883,STU25610,walk_in,Academics & Exams,Medium,Hall ticket not generated,2026-09-08 11:41:49,in_progress,Academics & Exams,,2026-09-21 06:00:00
+TKT-100884,STU25175,portal,Hostel & Maintenance,High,Mess food complaint,2026-09-08 10:23:50,CLOSED,Hostel & Maintenance,2026-09-14 08:00:00,2026-09-14 08:00:00
+TKT-100885,STU24973,email,Academics & Exams,High,Re-evaluation request,2026-09-08 10:16:38,CLOSED,Academics & Exams,2026-09-11 10:15:32,2026-09-11 10:15:32
+TKT-100886,STU25732,email,IT,Medium,Laptop not connecting to campus network,08/09/2026 22:30,Closed,IT Support,2026-09-10 13:56:19,2026-09-10 13:56:19
+TKT-100887,STU24825,email,IT Support,Medium,VPN access request,08/09/2026 09:14,Closed,IT Support,2026-09-08 11:39:09,2026-09-08 11:39:09
+TKT-100888,STU25092,portal,library,Low,Library fine dispute,2026-09-08 14:30:13,Closed,Library,2026-09-09 10:24:03,2026-09-09 10:24:03
+TKT-100889,STU24880,portal,Hostel & Maintenance,Low,AC not cooling,2026-09-08 00:46:45,Closed,Hostel & Maintenance,2026-09-14 08:00:00,2026-09-14 08:00:00
+TKT-100890,STU24745,portal,Hostel & Maintenance,Low,Room lock broken,2026-09-08 12:30:27,Closed,Hostel & Maintenance,2026-09-11 08:16:46,2026-09-11 08:16:46
+TKT-100891,STU24690,portal,Hostel & Maintenance,Low,No hot water,2026-09-08 21:17:59,Closed,Hostel & Maintenance,2026-09-11 08:11:01,2026-09-11 08:11:01
+TKT-100892,STU25622,email,IT Support,Medium,Email account locked,2026-09-08 13:10:46,Closed,IT Support,2026-09-09 14:33:50,2026-09-09 14:33:50
+TKT-100893,STU24159,email,hostel maintenance,Medium,Fan not working,08/09/2026 19:04,Closed,Hostel & Maintenance,2026-09-14 08:00:00,2026-09-14 08:00:00
+TKT-100894,STU25007,portal,Hostel & Maintenance,Low,AC not cooling,2026-09-08 19:57:04,Closed,Hostel & Maintenance,2026-09-10 08:48:57,2026-09-10 08:48:57
+TKT-100895,STU24958,email,Academics & Exams,Medium,Course registration error,08/09/2026 08:48,Closed,Academics & Exams,2026-09-14 09:00:00,2026-09-14 09:00:00
+TKT-100896,STU24933,portal,Other,Medium,Hall ticket not generated,2026-09-08 15:05:57,Closed,Academics & Exams,2026-09-11 11:43:47,2026-09-11 11:43:47
+TKT-100897,STU24007,portal,Hostel & Maintenance,Low,Laptop not connecting to campus network,2026-09-08 13:36:59,Closed,IT Support,2026-09-10 08:05:21,2026-09-10 08:05:21
+TKT-100898,STU25557,portal,IT Support,High,Wi-Fi not working in room,2026-09-08 05:40:53,Closed,IT Support,2026-09-08 13:01:02,2026-09-09 09:39:11
+TKT-100899,STU24074,email,IT Support,,Re-evaluation request,08/09/2026 19:14,closed,Academics & Exams,2026-09-11 10:25:39,2026-09-11 10:25:39
+TKT-100900,STU25523,email,it support,Medium,Cannot log in to LMS,2026-09-09 01:02:29,Closed,IT Support,2026-09-10 10:23:03,2026-09-11 14:20:39
+TKT-100901,STU24561,portal,Hostel & Maintenance,Medium,Pest issue in room,2026-09-09 06:40:56,Closed,Hostel & Maintenance,2026-09-11 10:25:40,2026-09-11 10:25:40
+TKT-100902,STU25411,portal,IT Support,Medium,Laptop not connecting to campus network,2026-09-09 10:23:20,Closed,IT Support,2026-09-09 19:14:02,2026-09-09 19:14:02
+TKT-100903,STU25783,email,Fees & Finance,High,Late fee charged wrongly,09/09/2026 08:31,Closed,Fees & Finance,2026-09-14 14:43:01,2026-09-14 14:43:01
+TKT-100904,STU25372,portal,Academics & Exams,Low,Wrong marks uploaded,2026-09-09 18:05:16,In Progress,Academics & Exams,,2026-09-21 06:00:00
+TKT-100905,STU25380,email,Academics & Exams,Medium,Printer quota issue,2026-09-09 14:17:33,Closed,IT Support,2026-09-10 18:14:09,2026-09-10 18:14:09
+TKT-100906,STU25583,portal,hostel maintenance,Low,Water leakage in bathroom,2026-09-09 19:18:12,Closed,Hostel & Maintenance,2026-09-11 14:12:11,2026-09-11 14:12:11
+TKT-100907,STU25256,email,Hostel & Maintenance,Medium,No hot water,2026-09-09 14:52:28,Closed - No Response,Hostel & Maintenance,,2026-09-14 14:01:56
+TKT-100908,STU25755,portal,Other,Medium,No hot water,2026-09-09 22:59:40,Closed,Hostel & Maintenance,2026-09-14 09:50:17,2026-09-14 09:50:17
+TKT-100909,STU25506,portal,Hostel,High,Pest issue in room,2026-09-09 05:17:37,Closed,Hostel & Maintenance,2026-09-10 13:11:19,2026-09-10 13:11:19
+TKT-100910,STU24887,email,Hostel & Maintenance,Medium,Water leakage in bathroom,2026-09-09 10:57:31,Closed,Hostel & Maintenance,2026-09-10 17:24:29,2026-09-10 17:24:29
+TKT-100911,STU25498,email,IT Support,,Email account locked,2026-09-09 20:56:46,Closed,IT Support,2026-09-10 18:37:01,2026-09-10 18:37:01
+TKT-100912,STU24719,walk_in,Academics & Exams,Medium,Hall ticket not generated,2026-09-09 10:09:24,Resolved,Academics & Exams,2026-09-14 13:36:17,2026-09-18 14:34:53
+TKT-100913,STU24407,portal,Academics & Exams,Medium,AC not cooling,2026-09-09 08:15:01,CLOSED,Hostel & Maintenance,2026-09-11 14:01:47,2026-09-11 14:01:47
+TKT-100914,STU24247,portal,Academics & Exams,Medium,Wrong marks uploaded,2026-09-09 15:44:59,closed,Academics & Exams,2026-09-10 15:42:59,2026-09-10 15:42:59
+TKT-100915,STU24115,portal,fees & finance,Medium,Refund of caution deposit,2026-09-09 12:32:55,Closed,Fees & Finance,2026-09-15 15:21:51,2026-09-15 15:21:51
+TKT-100916,STU24490,email,Hostel & Maintenance,Low,AC not cooling,2026-09-09 17:33:19,Closed,Hostel & Maintenance,2026-09-12 10:34:45,2026-09-12 10:34:45
+TKT-100917,STU24130,portal,HOSTEL ,Low,No hot water,2026-09-09 11:54:04,Closed,Hostel & Maintenance,2026-09-12 11:18:06,2026-09-12 11:18:06
+TKT-100918,STU25097,email,Academics & Exams,Low,No hot water,2026-09-09 12:27:06,Closed,Hostel & Maintenance,2026-09-11 15:09:36,2026-09-11 15:09:36
+TKT-100919,STU24558,portal,Academics & Exams,Medium,Attendance shortage query,2026-09-09 11:27:01,Closed,Academics & Exams,2026-09-10 14:46:57,2026-09-10 14:46:57
+TKT-100920,STU24025,email,Hostel & Maintenance,,Library fine dispute,09/09/2026 07:21,Closed,Library,2026-09-11 10:23:32,2026-09-11 10:23:32
+TKT-100921,STU24252,portal,IT Support,High,Wrong marks uploaded,2026-09-09 12:08:22,Closed,Academics & Exams,2026-09-11 11:15:49,2026-09-11 11:15:49
+TKT-100922,STU25019,portal,hostel maintenance,High,Mess food complaint,2026-09-09 16:07:09,Closed,Hostel & Maintenance,2026-09-12 17:53:08,2026-09-12 17:53:08
+TKT-100923,STU24528,portal,IT Support,Medium,Cannot log in to LMS,2026-09-09 09:25:35,Closed,IT Support,2026-09-10 17:10:48,2026-09-10 17:10:48
+TKT-100924,STU24204,portal,Academics & Exams,Medium,Attendance shortage query,2026-09-09 23:17:41,Closed,Academics & Exams,2026-09-11 11:30:22,2026-09-11 11:30:22
+TKT-100925,STU25507,email,Hostel & Maintenance,Medium,Room lock broken,09/09/2026 14:03,closed,Hostel & Maintenance,2026-09-14 10:36:32,2026-09-14 10:36:32
+TKT-100926,STU25232,portal,Hostel & Maintenance,Low,Course registration error,2026-09-09 11:31:45,Closed,Academics & Exams,2026-09-16 09:00:00,2026-09-16 09:00:00
+TKT-100927,STU24033,portal,Exam Cell,Medium,Exam clash,2026-09-09 09:12:12,Closed,Academics & Exams,2026-09-11 12:11:12,2026-09-11 12:11:12
+TKT-100928,STU25359,portal,Academics & Exams,Medium,Hall ticket not generated,2026-09-09 20:02:33,Closed,Academics & Exams,2026-09-14 11:11:59,2026-09-14 11:11:59
+TKT-100929,STU24878,portal,Academics & Exams,Low,Re-evaluation request,2026-09-09 14:25:56,Closed,Academics & Exams,2026-09-11 10:35:08,2026-09-11 10:35:08
+TKT-100930,STU24021,portal,Academics & Exams,Medium,Exam clash,2026-09-09 12:13:33,Closed,Academics & Exams,2026-09-11 10:47:25,2026-09-11 10:47:25
+TKT-100931,STU24642,portal,IT Support,Medium,Printer quota issue,2026-09-09 23:56:48,Closed,IT Support,2026-09-14 10:08:54,2026-09-14 10:08:54
+TKT-100932,STU25684,walk_in,IT Support,High,Printer quota issue,2026-09-10 12:56:20,Closed,IT Support,2026-09-10 18:46:26,2026-09-10 18:46:26
+TKT-100933,STU24426,portal,Hostel & Maintenance,High,Water leakage in bathroom,2026-09-10 08:08:01,Closed,Hostel & Maintenance,2026-09-12 14:49:53,2026-09-12 14:49:53
+TKT-100934,STU25421,email,IT Support,High,Wi-Fi not working in room,10/09/2026 16:43,Closed,IT Support,2026-09-11 11:41:10,2026-09-11 11:41:10
+TKT-100935,STU24823,portal,Academics & Exams,High,Course registration error,2026-09-10 16:13:19,Closed,Academics & Exams,2026-09-14 13:46:03,2026-09-14 13:46:03
+TKT-100936,STU24868,portal,academics & exams,High,Exam clash,2026-09-10 12:13:53,Closed - No Response,Academics & Exams,,2026-09-13 15:52:48
+TKT-100937,STU24685,email,IT Support,High,Printer quota issue,10/09/2026 10:52,Closed,IT Support,2026-09-10 19:06:52,2026-09-10 19:06:52
+TKT-100938,STU24109,email,Hostel & Maintenance,,Pest issue in room,10/09/2026 20:49,Closed,Hostel & Maintenance,2026-09-12 10:06:48,2026-09-12 10:06:48
+TKT-100939,STU25378,portal,Academics & Exams,Medium,Attendance shortage query,2026-09-10 10:54:36,Closed,Academics & Exams,2026-09-15 09:00:00,2026-09-15 09:00:00
+TKT-100940,STU25591,portal,Fees & Finance,Low,Fee receipt not generated,2026-09-10 17:03:50,Closed,Fees & Finance,2026-09-15 09:00:00,2026-09-15 09:00:00
+TKT-100941,STU25285,walk_in,IT Support,Medium,Wi-Fi not working in room,2026-09-10 14:04:03,Closed,IT Support,2026-09-11 17:25:23,2026-09-11 17:25:23
+TKT-100942,STU25357,email,IT,Low,Laptop not connecting to campus network,10/09/2026 00:47,CLOSED,IT Support,2026-09-10 15:17:04,2026-09-10 15:17:04
+TKT-100943,STU25143,email,Hostel & Maintenance,Low,Mess food complaint,10/09/2026 17:36,Closed,Hostel & Maintenance,2026-09-14 09:39:45,2026-09-14 09:39:45
+TKT-100944,STU25560,portal,Academics & Exams,High,Exam clash,2026-09-10 15:34:18,In Progress,Academics & Exams,,2026-09-21 06:00:00
+TKT-100945,STU24869,portal,Hostel,Medium,Mess food complaint,2026-09-10 09:44:29,Closed,Hostel & Maintenance,2026-09-11 09:46:43,2026-09-15 09:58:17
+TKT-100946,STU25548,portal,Academics & Exams,Medium,Hall ticket not generated,2026-09-10 21:24:34,Closed,Academics & Exams,2026-09-14 09:49:15,2026-09-14 09:49:15
+TKT-100947,STU24596,walk_in,IT Support,Low,Laptop not connecting to campus network,2026-09-10 14:25:35,Closed,IT Support,2026-09-11 10:21:25,2026-09-11 10:21:25
+TKT-100948,STU24059,email,Fees & Finance,,Scholarship amount not credited,2026-09-10 10:11:38,In Progress,Fees & Finance,,2026-09-21 06:00:00
+TKT-100949,STU24908,portal,Academics & Exams,High,Course registration error,2026-09-10 13:36:07,Closed,Academics & Exams,2026-09-15 09:00:00,2026-09-15 09:00:00
+TKT-100950,STU25551,portal,Academics & Exams,Low,Laptop not connecting to campus network,2026-09-10 14:43:18,Closed,IT Support,2026-09-12 10:06:26,2026-09-12 10:06:26
+TKT-100951,STU24173,email,IT Support,Low,Laptop not connecting to campus network,2026-09-10 15:04:57,closed,IT Support,2026-09-11 17:29:19,2026-09-11 17:29:19
+TKT-100952,STU24276,portal,IT Support,High,Cannot log in to LMS,2026-09-10 19:53:38,Closed,IT Support,2026-09-11 11:20:24,2026-09-11 11:20:24
+TKT-100953,STU24217,portal,Library ,Low,Exam clash,2026-09-10 18:49:29,Closed,Academics & Exams,2026-09-14 11:52:29,2026-09-14 11:52:29
+TKT-100954,STU24744,portal,Exam Cell,Medium,Course registration error,2026-09-11 17:11:08,Closed,Academics & Exams,2026-09-15 16:17:21,2026-09-15 16:17:21
+TKT-100955,STU24669,email,IT Support,High,Wi-Fi not working in room,11/09/2026 15:38,closed,IT Support,2026-09-15 08:00:00,2026-09-15 08:00:00
+TKT-100956,STU24896,email,Library,Low,Library fine dispute,11/09/2026 20:29,Closed,Library,2026-09-14 10:08:47,2026-09-14 10:08:47
+TKT-100957,STU24847,walk_in,Hostel & Maintenance,Medium,Room lock broken,2026-09-11 15:51:04,Closed,Hostel & Maintenance,2026-09-14 11:35:35,2026-09-14 11:35:35
+TKT-100958,STU25164,portal,IT Support,High,Laptop not connecting to campus network,2026-09-11 21:34:02,Closed,IT Support,2026-09-14 08:35:57,2026-09-14 08:35:57
+TKT-100959,STU25656,portal,Library,Medium,E-resource access issue,2026-09-11 16:58:07,Closed,Library,2026-09-12 10:59:12,2026-09-12 10:59:12
+TKT-100960,STU24201,portal,IT Support,High,Cannot log in to LMS,2026-09-11 15:05:22,closed,IT Support,2026-09-12 15:06:00,2026-09-12 15:06:00
+TKT-100961,STU24906,portal,IT Support,Medium,Laptop not connecting to campus network,2026-09-11 13:00:18,Closed,IT Support,2026-09-12 13:05:28,2026-09-12 13:05:28
+TKT-100962,STU24422,portal,Fees & Finance,Medium,Installment plan request,2026-09-11 14:07:26,Closed,Fees & Finance,2026-09-15 15:15:36,2026-09-15 15:15:36
+TKT-100963,STU25402,portal,Other,Medium,Fan not working,2026-09-11 15:48:50,CLOSED,Hostel & Maintenance,2026-09-15 08:00:00,2026-09-15 08:00:00
+TKT-100964,STU25054,portal,Academics & Exams,Medium,Re-evaluation request,2026-09-11 16:26:11,Closed,Academics & Exams,2026-09-14 14:04:46,2026-09-16 14:37:18
+TKT-100965,STU24505,portal,IT,Low,Room lock broken,2026-09-11 14:55:44,Resolved,Hostel & Maintenance,2026-09-14 15:03:51,2026-09-19 19:40:33
+TKT-100966,STU24581,portal,Hostel & Maintenance,Medium,Pest issue in room,2026-09-11 16:46:49,Closed,Hostel & Maintenance,2026-09-15 08:00:00,2026-09-15 08:00:00
+TKT-100967,STU25056,portal,Other,High,Email account locked,2026-09-11 02:42:12,Closed,IT Support,2026-09-12 08:42:10,2026-09-12 08:42:10
+TKT-100968,STU24844,email,IT Support,Medium,Cannot log in to LMS,2026-09-11 18:21:05,Closed,IT Support,2026-09-12 19:12:33,2026-09-12 19:12:33
+TKT-100969,STU24408,portal,IT,High,Wi-Fi not working in room,2026-09-11 22:18:04,Closed,IT Support,2026-09-14 10:02:23,2026-09-14 10:02:23
+TKT-100970,STU24347,email,Hostel & Maintenance,,No hot water,11/09/2026 12:10,Closed,Hostel & Maintenance,2026-09-15 09:38:37,2026-09-17 16:52:59
+TKT-100971,STU24025,portal,Library,Low,E-resource access issue,2026-09-11 21:47:54,Closed,Library,2026-09-12 15:21:54,2026-09-12 15:21:54
+TKT-100972,STU24576,portal,Library ,Medium,AC not cooling,2026-09-11 09:58:55,Closed,Hostel & Maintenance,2026-09-15 19:26:26,2026-09-15 19:26:26
+TKT-100973,STU25267,portal,IT Support,Low,VPN access request,2026-09-11 20:18:39,Closed,IT Support,2026-09-15 18:04:50,2026-09-15 18:04:50
+TKT-100974,STU24510,email,Library,,Library fine dispute,2026-09-11 18:30:27,Closed,Library,2026-09-12 13:19:06,2026-09-12 13:19:06
+TKT-100975,STU24141,email,IT Support,,Printer quota issue,11/09/2026 11:27,Closed,IT Support,2026-09-12 17:56:14,2026-09-12 17:56:14
+TKT-100976,STU24957,portal,Fees & Finance,High,Scholarship amount not credited,2026-09-11 20:04:15,Closed,Fees & Finance,2026-09-15 13:44:23,2026-09-15 13:44:23
+TKT-100977,STU24981,portal,IT support ,High,VPN access request,2026-09-11 20:22:23,Closed,IT Support,2026-09-12 16:40:28,2026-09-12 16:40:28
+TKT-100978,STU24871,email,Hostel & Maintenance,,Mess food complaint,11/09/2026 19:01,closed,Hostel & Maintenance,2026-09-12 18:18:51,2026-09-12 18:18:51
+TKT-100979,STU24510,portal,Finance,Medium,Installment plan request,2026-09-11 18:15:04,closed,Fees & Finance,2026-09-15 09:00:00,2026-09-15 09:00:00
+TKT-100980,STU24166,portal,Hostel & Maintenance,Medium,Pest issue in room,2026-09-11 21:57:22,Closed,Hostel & Maintenance,,2026-09-14 15:39:08
+TKT-100981,STU24555,portal,IT Support,Medium,VPN access request,2026-09-11 13:47:52,Closed,IT Support,2026-09-11 16:56:16,2026-09-11 16:56:16
+TKT-100982,STU24483,email,IT Support,Medium,Email account locked,2026-09-11 15:13:30,Closed,IT Support,2026-09-14 09:37:25,2026-09-14 09:37:25
+TKT-100983,STU25390,email,Academics & Exams,Medium,Hall ticket not generated,11/09/2026 18:52,In Progress,Academics & Exams,,2026-09-21 06:00:00
+TKT-100984,STU24214,portal,Hostel & Maintenance,Low,No hot water,2026-09-11 11:08:20,Closed,Hostel & Maintenance,2026-09-14 14:45:43,2026-09-14 14:45:43
+TKT-100985,STU25632,portal,IT Support,Low,Wi-Fi not working in room,2026-09-11 11:21:48,Closed,IT Support,2026-09-12 08:58:11,2026-09-12 08:58:11
+TKT-100986,STU25323,email,Fees & Finance,,No hot water,2026-09-11 09:59:33,Resolved,Hostel & Maintenance,2026-09-16 17:24:15,2026-09-19 12:04:30
+TKT-100987,STU25757,portal,Hostel & Maintenance,Low,Fan not working,2026-09-11 18:30:44,Closed,Hostel & Maintenance,2026-09-12 13:14:33,2026-09-12 13:14:33
+TKT-100988,STU24842,portal,Hostel & Maintenance,Medium,Room lock broken,2026-09-12 11:54:16,Resolved,Hostel & Maintenance,2026-09-16 08:00:00,2026-09-18 18:22:10
+TKT-100989,STU25609,portal,IT Support,Medium,Wi-Fi not working in room,2026-09-12 22:51:17,Closed,IT Support,2026-09-15 09:17:42,2026-09-15 09:17:42
+TKT-100990,STU25482,portal,Hostel & Maintenance,High,Room lock broken,2026-09-12 19:17:01,Closed,Hostel & Maintenance,2026-09-17 08:00:00,2026-09-17 08:00:00
+TKT-100991,STU24420,email,Hostel & Maintenance,Low,Wi-Fi not working in room,12/09/2026 11:14,Closed,IT Support,2026-09-14 13:12:15,2026-09-14 13:12:15
+TKT-100992,STU25087,portal,Library,Medium,Re-evaluation request,2026-09-12 18:34:37,In Progress,Academics & Exams,,2026-09-21 06:00:00
+TKT-100993,STU25105,portal,Academics & Exams,Medium,Hall ticket not generated,2026-09-12 11:37:46,Closed,Academics & Exams,2026-09-15 10:42:08,2026-09-15 10:42:08
+TKT-100994,STU24104,portal,Hostel & Maintenance,Medium,No hot water,2026-09-12 17:57:30,Closed,Hostel & Maintenance,2026-09-17 08:00:00,2026-09-17 08:00:00
+TKT-100995,STU24751,portal,IT Support,Medium,Wi-Fi not working in room,2026-09-12 15:17:56,Closed,IT Support,2026-09-12 19:19:35,2026-09-12 19:19:35
+TKT-100996,STU25675,portal,Hostel & Maintenance,High,Pest issue in room,2026-09-12 16:34:47,Closed,Hostel & Maintenance,2026-09-15 13:52:24,2026-09-17 12:28:01
+TKT-100997,STU24240,email,Academics & Exams,Medium,Wrong marks uploaded,12/09/2026 17:20,Closed,Academics & Exams,2026-09-16 14:45:07,2026-09-16 14:45:07
+TKT-100998,STU24817,portal,Library,Medium,Pest issue in room,2026-09-12 07:37:46,Closed,Hostel & Maintenance,2026-09-14 13:13:40,2026-09-14 13:13:40
+TKT-100999,STU25607,portal,Academics & Exams,Low,Hall ticket not generated,2026-09-12 16:29:21,Closed,Academics & Exams,2026-09-14 16:10:33,2026-09-14 16:10:33
+TKT-101000,STU24874,email,Academics & Exams,Low,Exam clash,12/09/2026 14:12,Closed,Academics & Exams,2026-09-14 15:23:19,2026-09-14 15:23:19
+TKT-101001,STU25044,email,library,,Attendance shortage query,2026-09-12 21:44:25,In Progress,Academics & Exams,,2026-09-21 06:00:00
+TKT-101002,STU24864,portal,IT Support,High,Printer quota issue,2026-09-12 18:43:06,Closed,IT Support,2026-09-14 08:52:55,2026-09-14 08:52:55
+TKT-101003,STU24965,email,Academics & Exams,,Wrong marks uploaded,12/09/2026 10:31,Closed,Academics & Exams,2026-09-17 09:00:00,2026-09-17 09:00:00
+TKT-101004,STU24707,portal,IT Support,High,VPN access request,2026-09-12 13:33:16,Closed,IT Support,2026-09-12 16:35:46,2026-09-12 16:35:46
+TKT-101005,STU25060,portal,IT Support,High,Printer quota issue,2026-09-12 23:59:16,Closed,IT Support,2026-09-14 18:39:52,2026-09-14 18:39:52
+TKT-101006,STU25646,portal,academics & exams,Medium,Exam clash,2026-09-12 19:58:25,Closed,Academics & Exams,2026-09-15 11:49:09,2026-09-15 11:49:09
+TKT-101007,STU25636,walk_in,IT Support,Medium,VPN access request,2026-09-12 15:20:02,Closed,IT Support,2026-09-12 18:52:33,2026-09-12 18:52:33
+TKT-101008,STU25645,email,IT Support,Medium,Wi-Fi not working in room,13/09/2026 14:13,Closed,IT Support,2026-09-14 16:18:03,2026-09-14 16:18:03
+TKT-101009,STU24843,email,Fees & Finance,Medium,Late fee charged wrongly,2026-09-13 08:45:22,Closed,Fees & Finance,2026-09-17 09:00:00,2026-09-17 09:00:00
+TKT-101010,STU24081,portal,Academics & Exams,Medium,Re-evaluation request,2026-09-13 11:08:11,Resolved,Academics & Exams,2026-09-18 11:21:02,2026-09-18 11:21:02
+TKT-101011,STU24515,portal,Finance,Medium,Fee receipt not generated,2026-09-13 10:45:16,Closed,Fees & Finance,2026-09-16 10:55:31,2026-09-16 10:55:31
+TKT-101012,STU25500,portal,Hostel,Low,Course registration error,2026-09-13 12:16:24,In Progress,Academics & Exams,,2026-09-21 06:00:00
+TKT-101013,STU25398,portal,Academics & Exams,Medium,Exam clash,2026-09-13 19:19:08,Closed,Academics & Exams,2026-09-17 13:47:12,2026-09-17 13:47:12
+TKT-101014,STU24786,email,Hostel & Maintenance,High,Fan not working,2026-09-13 04:33:25,Closed,Hostel & Maintenance,2026-09-16 12:12:46,2026-09-16 12:12:46
+TKT-101015,STU25699,email,Library,,Book renewal failed,13/09/2026 11:46,Closed,Library,2026-09-14 10:38:12,2026-09-14 10:38:12
+TKT-101016,STU25378,portal,Library,Medium,Book renewal failed,2026-09-13 20:23:25,Closed,Library,2026-09-14 16:05:59,2026-09-14 16:05:59
+TKT-101017,STU24227,portal,Other,Medium,Printer quota issue,2026-09-13 09:23:43,CLOSED,IT Support,2026-09-14 16:34:05,2026-09-14 16:34:05
+TKT-101018,STU24204,email,IT Support,Medium,Cannot log in to LMS,2026-09-13 07:37:45,Closed,IT Support,2026-09-14 18:32:20,2026-09-14 18:32:20
+TKT-101019,STU25772,portal,IT Support,Medium,VPN access request,2026-09-13 10:38:28,Closed,IT Support,2026-09-15 15:31:56,2026-09-15 15:31:56
+TKT-101020,STU24097,portal,Hostel & Maintenance,High,VPN access request,2026-09-13 17:28:23,Closed,IT Support,2026-09-14 19:16:38,2026-09-14 19:16:38
+TKT-101021,STU24740,portal,Other,Medium,Email account locked,2026-09-13 19:38:57,Closed,IT Support,2026-09-16 17:56:26,2026-09-16 17:56:26
+TKT-101022,STU24177,portal,Other,Medium,Water leakage in bathroom,2026-09-13 23:54:17,Closed,Hostel & Maintenance,2026-09-15 18:24:13,2026-09-15 18:24:13
+TKT-101023,STU25191,portal,Academics & Exams,Medium,Hall ticket not generated,2026-09-14 10:01:24,Closed,Academics & Exams,2026-09-16 10:19:27,2026-09-16 10:19:27
+TKT-101024,STU24250,portal,Hostel & Maintenance,Medium,Pest issue in room,2026-09-14 15:42:59,Closed,Hostel & Maintenance,2026-09-15 16:01:57,2026-09-15 16:01:57
+TKT-101025,STU24518,portal,IT Support,Medium,Email account locked,2026-09-14 06:58:30,Closed,IT Support,2026-09-14 15:04:23,2026-09-14 15:04:23
+TKT-101026,STU24789,portal,IT support ,Medium,E-resource access issue,2026-09-14 13:08:34,Closed,Library,2026-09-17 13:17:11,2026-09-17 13:17:11
+TKT-101027,STU24879,portal,Fees & Finance,Medium,Attendance shortage query,2026-09-14 21:25:09,Closed,Academics & Exams,2026-09-16 12:29:33,2026-09-16 12:29:33
+TKT-101028,STU24613,portal,Academics & Exams,High,Course registration error,2026-09-14 15:05:25,In Progress,Academics & Exams,,2026-09-21 06:00:00
+TKT-101029,STU24978,portal,Academics & Exams,Medium,Wrong marks uploaded,2026-09-14 14:30:27,In Progress,Academics & Exams,,2026-09-21 06:00:00
+TKT-101030,STU24892,email,IT Support,,Printer quota issue,2026-09-14 08:42:21,CLOSED,IT Support,2026-09-15 10:09:13,2026-09-15 10:09:13
+TKT-101031,STU24358,walk_in,HOSTEL ,Low,Pest issue in room,2026-09-14 15:55:56,Resolved,Hostel & Maintenance,2026-09-18 08:00:00,2026-09-18 08:00:00
+TKT-101032,STU24383,portal,IT Support,Low,VPN access request,2026-09-14 08:47:40,closed,IT Support,2026-09-15 11:25:33,2026-09-15 11:25:33
+TKT-101033,STU24073,portal,Exam Cell,Medium,Course registration error,2026-09-14 19:41:19,Closed,Academics & Exams,2026-09-16 14:54:47,2026-09-16 14:54:47
+TKT-101034,STU24246,portal,Hostel & Maintenance,Medium,Fan not working,2026-09-14 08:39:31,Closed,Hostel & Maintenance,2026-09-17 08:00:00,2026-09-17 08:00:00
+TKT-101035,STU25342,portal,Academics & Exams,Medium,E-resource access issue,2026-09-14 12:42:19,resolved,Library,2026-09-18 13:03:36,2026-09-19 11:33:40
+TKT-101036,STU24215,portal,IT Support,Low,Wi-Fi not working in room,2026-09-14 20:35:37,Closed,IT Support,2026-09-16 15:50:49,2026-09-16 15:50:49
+TKT-101037,STU24916,portal,Academics & Exams,Low,Wrong marks uploaded,2026-09-14 08:21:15,Closed - No Response,Academics & Exams,,2026-09-18 15:51:55
+TKT-101038,STU24595,email,it support,,Email account locked,2026-09-14 16:03:12,Closed,IT Support,2026-09-15 19:46:22,2026-09-15 19:46:22
+TKT-101039,STU24946,portal,Finance,High,Fee receipt not generated,2026-09-14 18:45:28,Resolved,Fees & Finance,2026-09-18 10:10:06,2026-09-18 10:10:06
+TKT-101040,STU25016,portal,Other,Medium,Library fine dispute,2026-09-14 09:12:42,Closed,Library,2026-09-15 12:26:02,2026-09-15 12:26:02
+TKT-101041,STU24437,portal,Library ,Low,Book renewal failed,2026-09-14 17:17:55,Closed,Library,2026-09-16 11:00:10,2026-09-16 11:00:10
+TKT-101042,STU24960,portal,Academics & Exams,Medium,Re-evaluation request,2026-09-14 13:21:37,Closed,Academics & Exams,2026-09-15 11:07:23,2026-09-15 11:07:23
+TKT-101043,STU24431,email,IT Support,Medium,Laptop not connecting to campus network,14/09/2026 12:41,Closed,IT Support,2026-09-16 13:21:35,2026-09-16 13:21:35
+TKT-101044,STU24324,portal,Academics & Exams,Medium,Course registration error,2026-09-14 17:14:07,CLOSED,Academics & Exams,2026-09-16 15:12:05,2026-09-16 15:12:05
+TKT-101045,STU24839,portal,Hostel & Maintenance,Medium,VPN access request,2026-09-14 08:12:00,CLOSED,IT Support,2026-09-14 19:37:16,2026-09-14 19:37:16
+TKT-101046,STU24830,portal,Hostel,Medium,Fan not working,2026-09-14 14:16:16,Resolved,Hostel & Maintenance,2026-09-18 08:00:00,2026-09-18 08:00:00
+TKT-101047,STU25692,portal,Hostel & Maintenance,Low,Room lock broken,2026-09-14 17:28:28,Closed,Hostel & Maintenance,2026-09-16 11:20:07,2026-09-16 11:20:07
+TKT-101048,STU25157,portal,IT support ,Medium,Printer quota issue,2026-09-14 18:53:05,Closed,IT Support,,2026-09-15 12:51:48
+TKT-101049,STU24225,portal,IT Support,Medium,Cannot log in to LMS,2026-09-14 00:11:13,Closed,IT Support,2026-09-16 13:09:23,2026-09-16 13:09:23
+TKT-101050,STU24003,email,IT Support,Medium,VPN access request,2026-09-14 12:20:25,Closed,IT Support,2026-09-15 16:09:33,2026-09-15 16:09:33
+TKT-101051,STU25716,portal,Academics & Exams,Medium,Re-evaluation request,2026-09-14 15:05:30,Closed - No Response,Academics & Exams,,2026-09-19 12:26:50
+TKT-101052,STU25773,email,Hostel & Maintenance,,Room lock broken,14/09/2026 13:36,Resolved,Hostel & Maintenance,2026-09-19 08:00:00,2026-09-19 08:00:00
+TKT-101053,STU24043,email,Academics & Exams,,Course registration error,14/09/2026 00:21,Closed,Academics & Exams,2026-09-15 10:25:07,2026-09-15 10:25:07
+TKT-101054,STU25399,portal,Library,Low,Room lock broken,2026-09-15 18:54:57,In Progress,Hostel & Maintenance,,2026-09-21 06:00:00
+TKT-101055,STU24439,portal,Hostel & Maintenance,Medium,Mess food complaint,2026-09-15 09:34:56,Closed,Hostel & Maintenance,2026-09-16 12:44:08,2026-09-16 12:44:08
+TKT-101056,STU25711,email,IT Support,,Laptop not connecting to campus network,15/09/2026 23:34,Resolved,IT Support,2026-09-18 17:05:19,2026-09-18 17:05:19
+TKT-101057,STU24918,portal,Fees & Finance,Low,Fee receipt not generated,2026-09-15 10:31:50,In Progress,Fees & Finance,,2026-09-21 06:00:00
+TKT-101058,STU24119,email,Academics & Exams,Medium,Exam clash,15/09/2026 11:31,Closed,Academics & Exams,2026-09-17 15:03:00,2026-09-17 15:03:00
+TKT-101059,STU24721,email,Hostel & Maintenance,Medium,Wrong marks uploaded,2026-09-15 13:21:37,In Progress,Academics & Exams,,2026-09-21 06:00:00
+TKT-101060,STU24592,portal,academics & exams,Medium,Attendance shortage query,2026-09-15 11:22:47,Closed,Academics & Exams,2026-09-16 11:58:37,2026-09-16 11:58:37
+TKT-101061,STU25351,portal,Other,Low,Refund of caution deposit,2026-09-15 14:22:44,In Progress,Fees & Finance,,2026-09-21 06:00:00
+TKT-101062,STU24714,email,IT Support,Medium,Water leakage in bathroom,2026-09-15 12:16:28,Resolved,Hostel & Maintenance,2026-09-19 08:00:00,2026-09-19 08:00:00
+TKT-101063,STU24565,portal,Academics & Exams,High,Wrong marks uploaded,2026-09-15 19:29:31,Closed,Academics & Exams,2026-09-17 09:57:57,2026-09-17 09:57:57
+TKT-101064,STU24001,portal,Hostel & Maintenance,Medium,Fan not working,2026-09-15 10:33:09,Closed,Hostel & Maintenance,2026-09-15 18:46:59,2026-09-15 18:46:59
+TKT-101065,STU25123,portal,Library,Medium,Course registration error,2026-09-15 11:59:32,in_progress,Academics & Exams,,2026-09-21 06:00:00
+TKT-101066,STU24214,portal,Academics & Exams,Low,Exam clash,2026-09-15 20:35:31,Closed,Academics & Exams,2026-09-17 15:52:21,2026-09-17 15:52:21
+TKT-101067,STU24286,portal,Fees & Finance,Low,Fee receipt not generated,2026-09-15 09:51:11,Closed,Fees & Finance,2026-09-17 10:29:26,2026-09-17 10:29:26
+TKT-101068,STU24047,portal,Academics,Medium,Wrong marks uploaded,2026-09-15 23:30:18,closed,Academics & Exams,2026-09-17 13:38:43,2026-09-17 13:38:43
+TKT-101069,STU24440,portal,fees & finance,Medium,E-resource access issue,2026-09-15 12:37:55,Resolved,Library,2026-09-18 13:34:32,2026-09-19 14:26:30
+TKT-101070,STU25030,portal,Library,Medium,E-resource access issue,2026-09-15 16:44:34,Closed,Library,2026-09-17 17:44:25,2026-09-17 17:44:25
+TKT-101071,STU24567,portal,Academics & Exams,High,Exam clash,2026-09-15 10:18:24,Resolved,Academics & Exams,2026-09-18 12:56:13,2026-09-18 12:56:13
+TKT-101072,STU25696,portal,IT Support,Medium,VPN access request,2026-09-15 14:49:54,Closed,IT Support,2026-09-16 12:48:58,2026-09-16 12:48:58
+TKT-101073,STU25765,portal,Hostel,Medium,Exam clash,2026-09-15 14:26:36,Resolved,Academics & Exams,,2026-09-18 11:54:21
+TKT-101074,STU24926,email,IT Support,,VPN access request,15/09/2026 11:54,Closed,IT Support,2026-09-16 11:22:36,2026-09-16 11:22:36
+TKT-101075,STU25193,portal,IT Support,High,Email account locked,2026-09-15 17:29:01,Closed,IT Support,2026-09-16 14:04:09,2026-09-16 14:04:09
+TKT-101076,STU25207,portal,Hostel & Maintenance,Medium,Mess food complaint,2026-09-15 10:21:08,Closed,Hostel & Maintenance,2026-09-16 13:40:31,2026-09-16 13:40:31
+TKT-101077,STU25616,portal,fees & finance,Medium,Installment plan request,2026-09-15 17:51:42,In Progress,Fees & Finance,,2026-09-21 06:00:00
+TKT-101078,STU25672,email,IT Support,Medium,Cannot log in to LMS,15/09/2026 19:09,Closed,IT Support,2026-09-17 08:59:48,2026-09-17 08:59:48
+TKT-101079,STU24347,portal,IT Support,Medium,Cannot log in to LMS,2026-09-15 14:59:03,Closed,IT Support,2026-09-17 11:26:11,2026-09-17 11:26:11
+TKT-101080,STU24961,email,IT,Low,VPN access request,15/09/2026 14:47,Resolved,IT Support,2026-09-17 15:20:06,2026-09-18 16:21:09
+TKT-101081,STU24509,portal,IT,Medium,Email account locked,2026-09-15 15:47:43,Closed,IT Support,2026-09-16 14:31:18,2026-09-16 14:31:18
+TKT-101082,STU25204,portal,Fees & Finance,Medium,Installment plan request,2026-09-16 20:24:11,In Progress,Fees & Finance,,2026-09-21 06:00:00
+TKT-101083,STU24733,portal,academics & exams,High,Attendance shortage query,2026-09-16 10:59:24,Resolved,Academics & Exams,2026-09-18 10:20:00,2026-09-18 10:20:00
+TKT-101084,STU24616,email,Hostel & Maintenance,,No hot water,2026-09-16 07:46:44,Resolved,Hostel & Maintenance,2026-09-18 15:12:06,2026-09-18 15:12:06
+TKT-101085,STU24023,email,Hostel & Maintenance,Low,Refund of caution deposit,16/09/2026 18:35,in_progress,Fees & Finance,,2026-09-21 06:00:00
+TKT-101086,STU24898,portal,Hostel & Maintenance,High,Fan not working,2026-09-16 10:24:49,Resolved,Hostel & Maintenance,2026-09-18 15:07:32,2026-09-18 15:07:32
+TKT-101087,STU24052,portal,IT Support,Medium,Email account locked,2026-09-16 19:01:31,Closed,IT Support,2026-09-17 17:28:20,2026-09-17 17:28:20
+TKT-101088,STU24559,email,IT Support,Medium,Cannot log in to LMS,2026-09-16 21:47:02,Closed,IT Support,2026-09-17 19:40:33,2026-09-17 19:40:33
+TKT-101089,STU25454,portal,Fees & Finance,Low,Refund of caution deposit,2026-09-16 11:36:12,Resolved,Fees & Finance,2026-09-18 15:02:55,2026-09-18 15:02:55
+TKT-101090,STU24209,email,Exam Cell,Medium,Hall ticket not generated,16/09/2026 18:19,In Progress,Academics & Exams,,2026-09-21 06:00:00
+TKT-101091,STU25302,email,IT Support,Medium,Laptop not connecting to campus network,2026-09-16 15:16:53,Resolved,IT Support,2026-09-18 15:15:57,2026-09-18 15:15:57
+TKT-101092,STU25164,portal,Academics & Exams,Low,Attendance shortage query,2026-09-16 14:41:52,Closed,Academics & Exams,2026-09-17 12:13:50,2026-09-17 12:13:50
+TKT-101093,STU25743,portal,Academics & Exams,High,Exam clash,2026-09-16 08:25:10,In Progress,Academics & Exams,,2026-09-21 06:00:00
+TKT-101094,STU24131,portal,Hostel & Maintenance,Low,Water leakage in bathroom,2026-09-16 11:38:54,Resolved,Hostel & Maintenance,2026-09-17 10:32:25,2026-09-19 13:29:48
+TKT-101095,STU24841,email,Academics & Exams,Low,Course registration error,2026-09-16 20:12:52,Resolved,Academics & Exams,2026-09-18 16:13:35,2026-09-18 16:13:35
+TKT-101096,STU25748,walk_in,IT Support,Medium,Email account locked,2026-09-16 11:19:04,Closed,IT Support,2026-09-16 14:00:18,2026-09-16 14:00:18
+TKT-101097,STU24528,portal,IT Support,High,Printer quota issue,2026-09-16 12:20:27,Closed,IT Support,2026-09-17 18:08:21,2026-09-17 18:08:21
+TKT-101098,STU24422,portal,Hostel & Maintenance,Medium,No hot water,2026-09-16 22:42:45,Resolved,Hostel & Maintenance,2026-09-19 13:45:40,2026-09-19 13:45:40
+TKT-101099,STU25734,portal,academics & exams,Medium,Re-evaluation request,2026-09-16 17:37:02,In Progress,Academics & Exams,,2026-09-21 06:00:00
+TKT-101100,STU24069,email,Academics & Exams,Medium,Attendance shortage query,16/09/2026 18:13,In Progress,Academics & Exams,,2026-09-21 06:00:00
+TKT-101101,STU24917,portal,Fees & Finance,Medium,Installment plan request,2026-09-16 10:04:40,Closed,Fees & Finance,2026-09-17 14:54:36,2026-09-17 14:54:36
+TKT-101102,STU24332,portal,Other,Low,Wrong marks uploaded,2026-09-16 08:21:42,Assigned,Academics & Exams,,2026-09-21 06:00:00
+TKT-101103,STU24434,walk_in,Hostel,Low,No hot water,2026-09-16 09:59:51,In Progress,Hostel & Maintenance,,2026-09-21 06:00:00
+TKT-101104,STU24924,portal,it support,Medium,Laptop not connecting to campus network,2026-09-16 19:49:59,Closed,IT Support,2026-09-17 12:13:30,2026-09-17 12:13:30
+TKT-101105,STU24402,email,Fees & Finance,Medium,Printer quota issue,2026-09-16 14:52:15,In Progress,IT Support,,2026-09-21 06:00:00
+TKT-101106,STU24435,walk_in,Hostel & Maintenance,Low,Fan not working,2026-09-16 11:18:20,Closed,Hostel & Maintenance,2026-09-17 10:36:49,2026-09-17 10:36:49
+TKT-101107,STU24516,portal,Fees & Finance,Low,Installment plan request,2026-09-16 18:00:24,In Progress,Fees & Finance,,2026-09-21 06:00:00
+TKT-101108,STU25530,portal,Other,Low,Fan not working,2026-09-16 18:23:39,In Progress,Hostel & Maintenance,,2026-09-21 06:00:00
+TKT-101109,STU24204,email,IT Support,High,Cannot log in to LMS,2026-09-16 17:19:09,Closed,IT Support,2026-09-17 14:56:13,2026-09-17 14:56:13
+TKT-101110,STU24394,portal,Other,Low,Installment plan request,2026-09-16 21:26:14,in_progress,Fees & Finance,,2026-09-21 06:00:00
+TKT-101111,STU24359,portal,Academics & Exams,Low,No hot water,2026-09-16 18:35:46,Resolved,Hostel & Maintenance,2026-09-19 11:26:55,2026-09-19 11:26:55
+TKT-101112,STU24737,email,Library,,Book renewal failed,2026-09-17 20:02:01,resolved,Library,,2026-09-18 15:06:09
+TKT-101113,STU24679,portal,Fees & Finance,Low,Late fee charged wrongly,2026-09-17 11:42:19,In Progress,Fees & Finance,,2026-09-21 06:00:00
+TKT-101114,STU25099,email,Hostel & Maintenance,,Pest issue in room,17/09/2026 12:57,Resolved,Hostel & Maintenance,2026-09-18 14:22:06,2026-09-18 14:22:06
+TKT-101115,STU24745,email,IT Support,Medium,Laptop not connecting to campus network,2026-09-17 19:24:25,Resolved,IT Support,2026-09-18 13:37:49,2026-09-18 13:37:49
+TKT-101116,STU24610,portal,Academics & Exams,Low,Course registration error,2026-09-17 10:37:43,in_progress,Academics & Exams,,2026-09-21 06:00:00
+TKT-101117,STU25214,portal,IT Support,Low,Wi-Fi not working in room,2026-09-17 12:56:11,Resolved,IT Support,2026-09-18 09:33:50,2026-09-18 09:33:50
+TKT-101118,STU24772,portal,Academics,Low,Attendance shortage query,2026-09-17 12:28:11,In Progress,Academics & Exams,,2026-09-21 06:00:00
+TKT-101119,STU24067,email,Hostel & Maintenance,Low,AC not cooling,17/09/2026 14:35,In Progress,Hostel & Maintenance,,2026-09-21 06:00:00
+TKT-101120,STU24305,portal,Library,Medium,E-resource access issue,2026-09-17 20:51:19,In Progress,Library,,2026-09-21 06:00:00
+TKT-101121,STU25666,portal,IT Support,High,Printer quota issue,2026-09-17 22:57:04,Resolved,IT Support,2026-09-19 09:49:25,2026-09-19 09:49:25
+TKT-101122,STU25221,portal,academics & exams,Medium,Wrong marks uploaded,2026-09-17 23:51:36,In Progress,Academics & Exams,,2026-09-21 06:00:00
+TKT-101123,STU25461,portal,Library,Medium,Attendance shortage query,2026-09-17 12:52:27,In Progress,Academics & Exams,,2026-09-21 06:00:00
+TKT-101124,STU25330,email,Academics & Exams,Medium,Exam clash,2026-09-17 12:44:46,In Progress,Academics & Exams,,2026-09-21 06:00:00
+TKT-101125,STU25259,email,IT Support,,Laptop not connecting to campus network,2026-09-17 14:39:06,Resolved,IT Support,2026-09-18 12:27:24,2026-09-18 12:27:24
+TKT-101126,STU24592,portal,IT Support,Medium,VPN access request,2026-09-17 10:20:53,Resolved,IT Support,2026-09-18 14:26:38,2026-09-18 14:26:38
+TKT-101127,STU25522,portal,Academics & Exams,Medium,Water leakage in bathroom,2026-09-17 11:02:44,In Progress,Hostel & Maintenance,,2026-09-21 06:00:00
+TKT-101128,STU25364,portal,Fees & Finance,Medium,Fee receipt not generated,2026-09-17 17:29:15,In Progress,Fees & Finance,,2026-09-21 06:00:00
+TKT-101129,STU24248,email,Fees & Finance,,Fee receipt not generated,2026-09-17 20:03:01,Assigned,Fees & Finance,,2026-09-21 06:00:00
+TKT-101130,STU24374,portal,Hostel & Maintenance,Medium,Fan not working,2026-09-17 08:32:40,Resolved,Hostel & Maintenance,2026-09-18 17:37:01,2026-09-18 17:37:01
+TKT-101131,STU25335,portal,hostel maintenance,Medium,No hot water,2026-09-17 21:03:10,In Progress,Hostel & Maintenance,,2026-09-21 06:00:00
+TKT-101132,STU24421,portal,IT Support,Medium,Wi-Fi not working in room,2026-09-17 15:44:32,Resolved,IT Support,2026-09-18 12:56:19,2026-09-18 12:56:19
+TKT-101133,STU24290,email,Hostel & Maintenance,Low,Mess food complaint,2026-09-17 10:26:48,Resolved,Hostel & Maintenance,2026-09-19 13:13:59,2026-09-19 13:13:59
+TKT-101134,STU25422,portal,Academics & Exams,Medium,Attendance shortage query,2026-09-17 15:34:45,In Progress,Academics & Exams,,2026-09-21 06:00:00
+TKT-101135,STU24186,portal,IT Support,Medium,Cannot log in to LMS,2026-09-17 15:02:57,Resolved,IT Support,2026-09-18 12:52:14,2026-09-18 12:52:14
+TKT-101136,STU24671,portal,Fees & Finance,Medium,Fee receipt not generated,2026-09-17 17:08:27,Assigned,Fees & Finance,,2026-09-21 06:00:00
+TKT-101137,STU25205,email,IT,,Wi-Fi not working in room,17/09/2026 12:19,Closed,IT Support,2026-09-17 15:27:35,2026-09-17 15:27:35
+TKT-101138,STU24405,walk_in,academics & exams,Medium,Exam clash,2026-09-17 10:53:28,In Progress,Academics & Exams,,2026-09-21 06:00:00
+TKT-101139,STU25470,portal,Fees & Finance,Medium,Fee receipt not generated,2026-09-17 21:58:47,In Progress,Fees & Finance,,2026-09-21 06:00:00
+TKT-101140,STU25459,portal,IT,Medium,Laptop not connecting to campus network,2026-09-17 20:53:34,Resolved,IT Support,2026-09-18 10:23:36,2026-09-18 10:23:36
+TKT-101141,STU25098,portal,IT Support,Low,Printer quota issue,2026-09-17 20:48:18,Resolved,IT Support,2026-09-19 10:32:42,2026-09-19 10:32:42
+TKT-101142,STU25255,portal,Academics & Exams,Medium,Exam clash,2026-09-18 11:51:38,In Progress,Academics & Exams,,2026-09-21 06:00:00
+TKT-101143,STU24058,portal,Library,Medium,Late fee charged wrongly,2026-09-18 10:56:40,in_progress,Fees & Finance,,2026-09-21 06:00:00
+TKT-101144,STU24372,email,IT Support,Low,Cannot log in to LMS,2026-09-18 20:59:58,In Progress,IT Support,,2026-09-21 06:00:00
+TKT-101145,STU25527,email,Hostel & Maintenance,Low,Fan not working,2026-09-18 14:33:22,In Progress,Hostel & Maintenance,,2026-09-21 06:00:00
+TKT-101146,STU25271,portal,Hostel & Maintenance,Medium,Room lock broken,2026-09-18 14:56:11,Resolved,Hostel & Maintenance,2026-09-19 15:57:51,2026-09-19 15:57:51
+TKT-101147,STU25490,portal,HOSTEL ,Medium,Water leakage in bathroom,2026-09-18 20:16:24,In Progress,Hostel & Maintenance,,2026-09-21 06:00:00
+TKT-101148,STU24983,email,hostel maintenance,,Fan not working,18/09/2026 19:21,In Progress,Hostel & Maintenance,,2026-09-21 06:00:00
+TKT-101149,STU25683,portal,Fees & Finance,High,Room lock broken,2026-09-18 10:03:19,In Progress,Hostel & Maintenance,,2026-09-21 06:00:00
+TKT-101150,STU25461,email,Hostel & Maintenance,Medium,Laptop not connecting to campus network,18/09/2026 17:27,Resolved,IT Support,2026-09-19 18:42:44,2026-09-19 18:42:44
+TKT-101151,STU25773,portal,IT Support,Low,Email account locked,2026-09-18 12:29:52,resolved,IT Support,2026-09-19 10:25:52,2026-09-19 10:25:52
+TKT-101152,STU25348,portal,Hostel,Low,Fan not working,2026-09-18 13:57:37,In Progress,Hostel & Maintenance,,2026-09-21 06:00:00
+TKT-101153,STU25482,email,Academics & Exams,Medium,Wrong marks uploaded,2026-09-18 22:09:18,In Progress,Academics & Exams,,2026-09-21 06:00:00
+TKT-101154,STU25009,portal,Academics & Exams,Low,Printer quota issue,2026-09-18 11:46:30,In Progress,IT Support,,2026-09-21 06:00:00
+TKT-101155,STU24347,email,Fees & Finance,,Scholarship amount not credited,18/09/2026 11:48,Assigned,Fees & Finance,,2026-09-21 06:00:00
+TKT-101156,STU24631,portal,Academics & Exams,Medium,Course registration error,2026-09-18 12:51:21,In Progress,Academics & Exams,,2026-09-21 06:00:00
+TKT-101157,STU25651,portal,Hostel & Maintenance,High,No hot water,2026-09-18 15:58:10,In Progress,Hostel & Maintenance,,2026-09-21 06:00:00
+TKT-101158,STU24598,portal,academics & exams,Low,Course registration error,2026-09-18 20:05:19,Assigned,Academics & Exams,,2026-09-21 06:00:00
+TKT-101159,STU25626,email,Library,Low,E-resource access issue,2026-09-18 16:55:29,Resolved,Library,2026-09-19 15:24:24,2026-09-19 15:24:24
+TKT-101160,STU24300,email,Hostel & Maintenance,Low,Room lock broken,18/09/2026 18:37,In Progress,Hostel & Maintenance,,2026-09-21 06:00:00
+TKT-101161,STU24137,portal,IT Support,High,Printer quota issue,2026-09-18 14:27:07,Resolved,IT Support,2026-09-19 11:16:28,2026-09-19 11:16:28
+TKT-101162,STU25367,email,Academics & Exams,,Course registration error,2026-09-18 15:58:42,Assigned,Academics & Exams,,2026-09-21 06:00:00
+TKT-101163,STU24219,email,Fees & Finance,Medium,Scholarship amount not credited,2026-09-18 16:42:08,Assigned,Fees & Finance,,2026-09-21 06:00:00
+TKT-101164,STU24586,portal,Hostel,Low,Re-evaluation request,2026-09-18 17:58:15,In Progress,Academics & Exams,,2026-09-21 06:00:00
+TKT-101165,STU24408,email,Academics & Exams,,Wrong marks uploaded,18/09/2026 10:25,Assigned,Academics & Exams,,2026-09-21 06:00:00
+TKT-101166,STU25417,portal,IT Support,Low,Wrong marks uploaded,2026-09-18 22:14:14,In Progress,Academics & Exams,,2026-09-21 06:00:00
+TKT-101167,STU24827,portal,Hostel & Maintenance,High,Water leakage in bathroom,2026-09-18 21:09:16,In Progress,Hostel & Maintenance,,2026-09-21 06:00:00
+TKT-101168,STU24605,portal,Hostel & Maintenance,Medium,Library fine dispute,2026-09-18 11:28:34,In Progress,Library,,2026-09-21 06:00:00
+TKT-101169,STU25609,email,IT Support,,Printer quota issue,18/09/2026 17:10,resolved,IT Support,2026-09-19 15:39:01,2026-09-19 15:39:01
+TKT-101170,STU25292,portal,Library,Low,Book renewal failed,2026-09-19 22:45:36,Assigned,Library,,2026-09-21 06:00:00
+TKT-101171,STU24224,email,Academics & Exams,,Mess food complaint,19/09/2026 20:53,Assigned,Hostel & Maintenance,,2026-09-21 06:00:00
+TKT-101172,STU25713,email,IT Support,Medium,VPN access request,2026-09-19 22:21:29,Assigned,IT Support,,2026-09-21 06:00:00
+TKT-101173,STU24542,portal,Library,Medium,Printer quota issue,2026-09-19 17:01:38,In Progress,IT Support,,2026-09-21 06:00:00
+TKT-101174,STU24386,portal,Hostel & Maintenance,Medium,Fan not working,2026-09-19 14:58:54,In Progress,Hostel & Maintenance,,2026-09-21 06:00:00
+TKT-101175,STU25754,portal,Hostel & Maintenance,High,Mess food complaint,2026-09-19 13:43:49,in_progress,Hostel & Maintenance,,2026-09-21 06:00:00
+TKT-101176,STU24194,portal,Hostel,Low,Water leakage in bathroom,2026-09-19 08:15:36,In Progress,Hostel & Maintenance,,2026-09-21 06:00:00
+TKT-101177,STU25409,portal,Academics & Exams,Medium,Re-evaluation request,2026-09-19 10:51:11,Assigned,Academics & Exams,,2026-09-21 06:00:00
+TKT-101178,STU25609,email,IT Support,,VPN access request,19/09/2026 08:06,Resolved,IT Support,2026-09-19 18:45:27,2026-09-19 18:45:27
+TKT-101179,STU25049,email,Library,Low,Library fine dispute,19/09/2026 21:08,Assigned,Library,,2026-09-21 06:00:00
+TKT-101180,STU24764,email,HOSTEL ,Medium,Water leakage in bathroom,2026-09-19 09:51:24,Assigned,Hostel & Maintenance,,2026-09-21 06:00:00
+TKT-101181,STU25553,portal,IT,Low,Laptop not connecting to campus network,2026-09-19 10:54:33,Resolved,IT Support,2026-09-19 16:12:42,2026-09-19 16:12:42
+TKT-101182,STU24416,portal,IT Support,Low,Email account locked,2026-09-19 20:33:06,In Progress,IT Support,,2026-09-21 06:00:00
+TKT-101183,STU25144,portal,Academics & Exams,Medium,Exam clash,2026-09-19 16:24:07,Assigned,Academics & Exams,,2026-09-21 06:00:00
+TKT-101184,STU24452,portal,IT Support,High,Laptop not connecting to campus network,2026-09-19 19:50:34,Assigned,IT Support,,2026-09-21 06:00:00
+TKT-101185,STU25240,walk_in,it support,Medium,Cannot log in to LMS,2026-09-19 10:22:23,In Progress,IT Support,,2026-09-21 06:00:00
+TKT-101186,STU25341,portal,Academics & Exams,High,Attendance shortage query,2026-09-19 16:20:43,Assigned,Academics & Exams,,2026-09-21 06:00:00
+TKT-101187,STU24559,email,IT Support,,Wi-Fi not working in room,2026-09-19 14:04:04,In Progress,IT Support,,2026-09-21 06:00:00
+TKT-101188,STU25644,email,Hostel & Maintenance,Medium,Pest issue in room,19/09/2026 19:53,Assigned,Hostel & Maintenance,,2026-09-21 06:00:00
+TKT-101189,STU25047,portal,Academics & Exams,Medium,Course registration error,2026-09-20 21:10:46,Assigned,Academics & Exams,,2026-09-21 06:00:00
+TKT-101190,STU24929,portal,Hostel & Maintenance,Medium,Library fine dispute,2026-09-20 17:10:40,Assigned,Library,,2026-09-21 06:00:00
+TKT-101191,STU25182,portal,Library,Low,Book renewal failed,2026-09-20 11:52:12,Assigned,Library,,2026-09-21 06:00:00
+TKT-101192,STU24706,portal,Academics & Exams,Medium,Wrong marks uploaded,2026-09-20 13:51:55,Assigned,Academics & Exams,,2026-09-21 06:00:00
+TKT-101193,STU24482,portal,Academics & Exams,Low,Wrong marks uploaded,2026-09-20 09:39:02,Assigned,Academics & Exams,,2026-09-21 06:00:00
+TKT-101194,STU24824,portal,Academics & Exams,Medium,Wrong marks uploaded,2026-09-20 18:27:56,Assigned,Academics & Exams,,2026-09-21 06:00:00
+TKT-101195,STU24743,portal,Exam Cell,Medium,Hall ticket not generated,2026-09-20 07:20:12,Assigned,Academics & Exams,,2026-09-21 06:00:00
+TKT-101196,STU25072,portal,Academics & Exams,High,Attendance shortage query,2026-09-20 19:00:03,Assigned,Academics & Exams,,2026-09-21 06:00:00
+TKT-101197,STU24845,portal,IT Support,Medium,Laptop not connecting to campus network,2026-09-20 20:15:33,Assigned,IT Support,,2026-09-21 06:00:00
+TKT-101198,STU24314,email,Academics & Exams,Low,Attendance shortage query,2026-09-20 08:10:36,Assigned,Academics & Exams,,2026-09-21 06:00:00
+TKT-101199,STU24580,portal,Other,High,Installment plan request,2026-09-20 08:33:23,Assigned,Fees & Finance,,2026-09-21 06:00:00
+TKT-101200,STU25661,portal,Fees,Medium,Laptop not connecting to campus network,2026-09-20 00:22:40,Assigned,IT Support,,2026-09-21 06:00:00
+TKT-101201,STU24551,email,Hostel & Maintenance,,Room lock broken,2026-09-20 12:14:38,Assigned,Hostel & Maintenance,,2026-09-21 06:00:00
+TKT-101202,STU24127,portal,IT Support,High,VPN access request,2026-09-20 14:38:39,Assigned,IT Support,,2026-09-21 06:00:00
+TKT-101203,STU25015,email,Library ,,E-resource access issue,2026-09-20 21:51:51,Assigned,Library,,2026-09-21 06:00:00
+TKT-101204,STU24151,portal,IT,Medium,Printer quota issue,2026-09-20 17:36:54,Assigned,IT Support,,2026-09-21 06:00:00
+TKT-101205,STU24445,email,Hostel & Maintenance,Medium,Mess food complaint,2026-09-20 12:49:09,Assigned,Hostel & Maintenance,,2026-09-21 06:00:00
+TKT-101206,STU25754,portal,Library,Medium,Book renewal failed,2026-09-20 13:08:17,Assigned,Library,,2026-09-21 06:00:00
+TKT-101207,STU25277,portal,IT Support,Low,Wi-Fi not working in room,2026-09-20 21:48:46,Assigned,IT Support,,2026-09-21 06:00:00
+TKT-101208,STU25142,portal,IT Support,Low,Printer quota issue,2026-09-20 19:07:57,Assigned,IT Support,,2026-09-21 06:00:00
+TKT-100102,STU24826,email,Academics & Exams,Medium,Attendance shortage query,2026-07-31 10:13:44,Closed,Academics & Exams,2026-08-04 09:00:00,2026-08-06 10:57:06
+TKT-100755,STU24758,portal,IT Support,High,Wi-Fi not working in room,2026-09-01 18:57:43,CLOSED,IT Support,2026-09-05 08:00:00,2026-09-05 08:00:00
+TKT-100309,STU24731,email,Academics & Exams,High,Hall ticket not generated,2026-08-09 23:42:19,Closed,Academics & Exams,2026-08-11 16:06:14,2026-08-11 16:06:14
+TKT-100110,STU25525,portal,Library,Medium,E-resource access issue,2026-07-31 22:06:06,closed,Library,2026-08-03 10:05:39,2026-08-03 10:05:39
+TKT-100651,STU25175,email,Hostel & Maintenance,High,Water leakage in bathroom,2026-08-27 07:18:41,Closed,Hostel & Maintenance,2026-08-29 19:51:02,2026-08-29 19:51:02
+TKT-100459,STU25136,email,Library ,,Book renewal failed,16/08/2026 12:38,Closed,Library,2026-08-19 10:10:40,2026-08-19 10:10:40
+TKT-100232,STU24399,portal,Academics & Exams,Medium,Exam clash,2026-08-06 00:54:34,Closed,Academics & Exams,2026-08-12 09:00:00,2026-08-12 09:00:00
+TKT-100050,STU24540,portal,Academics & Exams,Medium,Wrong marks uploaded,2026-07-28 11:14:22,Closed,Academics & Exams,2026-07-31 09:43:41,2026-07-31 09:43:41
+TKT-100760,STU25017,email,Academics & Exams,Medium,Fan not working,2026-09-01 16:06:29,closed,Hostel & Maintenance,2026-09-03 15:55:19,2026-09-03 15:55:19
+TKT-101093,STU25743,portal,Academics & Exams,High,Exam clash,2026-09-16 08:25:10,In Progress,Academics & Exams,,2026-09-21 06:00:00
+TKT-100711,STU24326,email,it support,,Wi-Fi not working in room,31/08/2026 11:09,Closed,IT Support,2026-08-31 15:51:55,2026-08-31 15:51:55
+TKT-100359,STU25464,email,IT Support,,Email account locked,11/08/2026 15:30,Closed,IT Support,2026-08-11 18:52:56,2026-08-11 18:52:56
+TKT-100156,STU24936,walk_in,Hostel & Maintenance,Medium,Mess food complaint,2026-08-03 09:40:28,closed,Hostel & Maintenance,2026-08-04 17:03:59,2026-08-04 17:03:59
+TKT-100372,STU24373,portal,fees & finance,High,Refund of caution deposit,2026-08-12 15:18:48,Closed,Fees & Finance,2026-08-18 09:00:00,2026-08-18 09:00:00
+TKT-100885,STU24973,email,Academics & Exams,High,Re-evaluation request,2026-09-08 10:16:38,CLOSED,Academics & Exams,2026-09-11 10:15:32,2026-09-11 10:15:32
+TKT-100079,STU25229,portal,Hostel & Maintenance,Low,Mess food complaint,2026-07-30 14:30:32,Closed,Hostel & Maintenance,2026-07-31 14:27:01,2026-08-01 15:28:42
+TKT-100271,STU25746,portal,Hostel & Maintenance,Low,Room lock broken,2026-08-07 16:01:17,Closed,Hostel & Maintenance,2026-08-10 12:33:01,2026-08-10 12:33:01
+TKT-100209,STU25417,email,Fees & Finance,Medium,Late fee charged wrongly,05/08/2026 10:57,Closed,Fees & Finance,2026-08-10 09:45:47,2026-08-10 09:45:47
+TKT-100245,STU24613,email,IT Support,Medium,Cannot log in to LMS,07/08/2026 11:53,Closed,IT Support,2026-08-08 16:48:57,2026-08-08 16:48:57
+TKT-100559,STU25241,email,Hostel & Maintenance,Medium,Room lock broken,2026-08-21 09:16:43,Closed,Hostel & Maintenance,2026-08-22 16:39:45,2026-08-22 16:39:45
+TKT-100129,STU25596,email,Academics,Low,Course registration error,2026-08-01 06:14:46,Closed,Academics & Exams,2026-08-05 09:00:00,2026-08-05 09:00:00
+TKT-101042,STU24960,portal,Academics & Exams,Medium,Re-evaluation request,2026-09-14 13:21:37,Closed,Academics & Exams,2026-09-15 11:07:23,2026-09-15 11:07:23
+TKT-101012,STU25500,portal,Hostel,Low,Course registration error,2026-09-13 12:16:24,In Progress,Academics & Exams,,2026-09-21 06:00:00
+TKT-100661,STU24095,portal,Fees & Finance,Low,Scholarship amount not credited,2026-08-27 08:54:47,Closed,Fees & Finance,2026-09-07 13:45:04,2026-09-09 11:10:56
+TKT-101209,STU25334,email,Fees & Finance,,Fee receipt not generated,2026-08-13 15:37:00,Cancelled,Fees & Finance,,2026-08-17 10:56:12
+TKT-101210,STU25550,portal,Academics,Low,Wrong marks uploaded,2026-08-30 09:41:34,Cancelled,Academics & Exams,,2026-09-01 11:11:05
+TKT-101211,STU25460,email,IT Support,Low,Cannot log in to LMS,2026-09-06 19:11:00,Cancelled,IT Support,,2026-09-09 11:25:20
+TKT-101212,STU24837,portal,it support,Low,VPN access request,2026-08-10 21:24:40,Cancelled,IT Support,,2026-08-11 13:01:21
+TKT-101213,STU24220,email,Library,,Printer quota issue,2026-09-06 18:25:00,Cancelled,IT Support,,2026-09-10 08:00:00
+TKT-101214,STU25464,email,IT Support,,Email account locked,2026-08-11 15:38:00,Cancelled,IT Support,,2026-08-11 18:52:56
+TKT-101215,STU24359,portal,Academics & Exams,Low,No hot water,2026-09-16 18:37:46,Cancelled,Hostel & Maintenance,,2026-09-19 11:26:55
+TKT-101216,STU25553,portal,IT,Low,Laptop not connecting to campus network,2026-09-19 10:56:33,Cancelled,IT Support,,2026-09-19 16:12:42
+TKT-101217,STU24201,portal,IT Support,High,Cannot log in to LMS,2026-09-11 15:12:22,Cancelled,IT Support,,2026-09-12 15:06:00
+TKT-101218,STU24271,email,Hostel & Maintenance,Medium,Water leakage in bathroom,2026-07-28 22:36:00,Cancelled,Hostel & Maintenance,,2026-08-07 18:01:35
+TKT-101219,STU24483,email,IT Support,Medium,Email account locked,2026-09-11 15:21:30,Cancelled,IT Support,,2026-09-14 09:37:25
+TKT-101220,STU25748,walk_in,IT Support,Medium,Email account locked,2026-09-16 11:26:04,Cancelled,IT Support,,2026-09-16 14:00:18
+TKT-101221,STU25582,portal,hostel maintenance,High,Mess food complaint,2026-07-28 23:50:31,Cancelled,Hostel & Maintenance,,2026-08-03 09:49:02
+TKT-101222,STU24232,portal,Library,Low,Wrong marks uploaded,2026-08-24 14:09:52,Cancelled,Academics & Exams,,2026-09-08 15:15:51
+TKT-101223,STU25015,portal,Library,Medium,Library fine dispute,2026-09-03 09:42:03,Cancelled,Library,,2026-09-05 10:24:52
+TKT-101224,STU24976,email,Library,Low,Library fine dispute,2026-09-01 10:42:57,Cancelled,Library,,2026-09-03 17:57:27
+TKT-101225,STU25759,portal,Academics & Exams,Low,Wrong marks uploaded,2026-09-04 15:40:39,Cancelled,Academics & Exams,,2026-09-10 09:00:00
+TKT-101226,STU25482,portal,IT Support,Low,Cannot log in to LMS,2026-08-03 22:28:30,Cancelled,IT Support,,2026-08-05 08:48:07
+TKT-101227,STU25142,portal,IT Support,Low,Printer quota issue,2026-09-20 19:12:57,Cancelled,IT Support,,2026-09-21 06:00:00
+TKT-101228,STU25612,email,IT Support,Low,Wi-Fi not working in room,2026-08-24 15:04:39,Cancelled,IT Support,,2026-08-25 14:24:35
+TKT-101229,STU25436,email,Library,High,Wi-Fi not working in room,2026-08-31 17:04:00,Cancelled,IT Support,,2026-09-01 18:51:31
+TKT-101230,STU24399,portal,Academics & Exams,Medium,Exam clash,2026-08-06 00:58:34,Cancelled,Academics & Exams,,2026-08-12 09:00:00

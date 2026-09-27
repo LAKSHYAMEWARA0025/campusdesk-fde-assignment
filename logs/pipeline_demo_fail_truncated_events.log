@@ -1,0 +1,44 @@
+2026-09-27 18:42:02 | INFO    | run       | === CampusDesk pipeline run demo_fail_truncated_events ===
+2026-09-27 18:42:02 | INFO    | run       | started mock Portal API (normal mode)
+2026-09-27 18:42:02 | INFO    | retrieve  | SQL  tickets     1254 rows  <- SELECT * FROM tickets
+2026-09-27 18:42:02 | INFO    | retrieve  | SQL  students    1800 rows  <- SELECT student_id, program, year, hostel_block FROM students
+2026-09-27 18:42:02 | INFO    | retrieve  | SQL  agents        15 rows  <- SELECT agent_id, department, role, active FROM agents
+2026-09-27 18:42:02 | WARNING | retrieve  | SIMULATION: ticket_events.csv export truncated to 50%
+2026-09-27 18:42:02 | INFO    | retrieve  | CSV  events      3924 rows  <- ticket_events.csv
+2026-09-27 18:42:02 | INFO    | retrieve  | JSON csat_surv    424 rows  <- csat_survey_export.json
+2026-09-27 18:42:02 | INFO    | retrieve  | JSON sla_polic      1 rows  <- sla_policy.json
+2026-09-27 18:42:02 | WARNING | retrieve  | API  HTTP 429 on attempt 1/6 -> retry in 1.0s  (http://127.0.0.1:8765/api/v1/interactions?page=2&page_size=200)
+2026-09-27 18:42:03 | WARNING | retrieve  | API  HTTP 500 on attempt 1/6 -> retry in 0.2s  (http://127.0.0.1:8765/api/v1/interactions?page=3&page_size=200)
+2026-09-27 18:42:03 | WARNING | retrieve  | API  HTTP 500 on attempt 1/6 -> retry in 0.2s  (http://127.0.0.1:8765/api/v1/interactions?page=5&page_size=200)
+2026-09-27 18:42:03 | WARNING | retrieve  | API  HTTP 500 on attempt 1/6 -> retry in 0.2s  (http://127.0.0.1:8765/api/v1/interactions?page=6&page_size=200)
+2026-09-27 18:42:03 | WARNING | retrieve  | API  HTTP 500 on attempt 1/6 -> retry in 0.2s  (http://127.0.0.1:8765/api/v1/interactions?page=7&page_size=200)
+2026-09-27 18:42:04 | WARNING | retrieve  | API  HTTP 500 on attempt 2/6 -> retry in 0.4s  (http://127.0.0.1:8765/api/v1/interactions?page=7&page_size=200)
+2026-09-27 18:42:04 | WARNING | retrieve  | API  HTTP 500 on attempt 1/6 -> retry in 0.2s  (http://127.0.0.1:8765/api/v1/interactions?page=9&page_size=200)
+2026-09-27 18:42:04 | WARNING | retrieve  | API  HTTP 500 on attempt 1/6 -> retry in 0.2s  (http://127.0.0.1:8765/api/v1/interactions?page=15&page_size=200)
+2026-09-27 18:42:04 | WARNING | retrieve  | API  HTTP 500 on attempt 1/6 -> retry in 0.2s  (http://127.0.0.1:8765/api/v1/interactions?page=17&page_size=200)
+2026-09-27 18:42:05 | WARNING | retrieve  | API  HTTP 500 on attempt 2/6 -> retry in 0.4s  (http://127.0.0.1:8765/api/v1/interactions?page=17&page_size=200)
+2026-09-27 18:42:05 | WARNING | retrieve  | API  HTTP 429 on attempt 1/6 -> retry in 1.0s  (http://127.0.0.1:8765/api/v1/interactions?page=19&page_size=200)
+2026-09-27 18:42:06 | WARNING | retrieve  | API  HTTP 500 on attempt 1/6 -> retry in 0.2s  (http://127.0.0.1:8765/api/v1/interactions?page=23&page_size=200)
+2026-09-27 18:42:06 | WARNING | retrieve  | API  HTTP 500 on attempt 2/6 -> retry in 0.4s  (http://127.0.0.1:8765/api/v1/interactions?page=23&page_size=200)
+2026-09-27 18:42:07 | WARNING | retrieve  | API  HTTP 429 on attempt 3/6 -> retry in 1.0s  (http://127.0.0.1:8765/api/v1/interactions?page=23&page_size=200)
+2026-09-27 18:42:08 | INFO    | retrieve  | API  23 pages, 4550 records fetched, API reports total_records=4550
+2026-09-27 18:42:08 | INFO    | retrieve  | raw snapshot written to data/raw/demo_fail_truncated_events (29 files, manifest + checksums)
+2026-09-27 18:42:08 | INFO    | validate  | profiled tickets=1254 events=3924 interactions=4550 csat=424
+2026-09-27 18:42:08 | INFO    | validate  | R01 PASS    Every source returned data; API returned all records :: empty sources: none; API completeness proven in retrieve stage
+2026-09-27 18:42:08 | WARNING | validate  | R02 WARN    One row = one ticket (ticket_id unique) :: 24 exact duplicate rows (1.9%); 0 conflicting ids
+2026-09-27 18:42:08 | INFO    | validate  | R03 PASS    A student's repeat submission of the same issue is not counted twice :: 22 same student+subject within 15 min; 22 already marked Cancelled
+2026-09-27 18:42:08 | WARNING | validate  | R04 WARN    created_at is a valid timestamp :: 200 rows in DD/MM/YYYY format (email importer); unparseable after fix: 0.0%
+2026-09-27 18:42:08 | WARNING | validate  | R05 WARN    Every audit-log event belongs to a known ticket :: 25 orphan events (0.6%); 15 duplicate events dropped
+2026-09-27 18:42:08 | ERROR   | validate  | R06 FAIL    Every ticket has a 'created' event and both systems agree on created_at :: tickets with audit-log lifecycle: 50.0%; created_at agreement within 1 min: 99.5% (DD/MM rows agree only when parsed day-first)
+2026-09-27 18:42:08 | WARNING | validate  | R07 WARN    'created' is the first event of every ticket (nothing happens before creation) :: 3 tickets (0.3%) have events before 'created' (0 even resolved before creation); channels: {'walk_in': 3} -> walk-in desk clock skew
+2026-09-27 18:42:08 | WARNING | validate  | R08 WARN    Each ticket maps to one canonical category :: 20 raw values -> 5 canonical + Unknown; representation fixes=1088, semantic mappings=142 (Academics, Exam Cell, Fees, Finance, HOSTEL, Hostel, IT), Unknown/Other=41
+2026-09-27 18:42:08 | INFO    | validate  | R09 PASS    Every status maps to a known lifecycle state :: 11 raw values -> 6 canonical; unmapped=0
+2026-09-27 18:42:08 | WARNING | validate  | R10 WARN    Every ticket has a priority (it sets the SLA target) :: 145 tickets (11.8%) missing priority, all email channel
+2026-09-27 18:42:08 | INFO    | validate  | R11 PASS    Tickets map to students; interactions map to tickets :: tickets->students 100.0%; interactions->tickets 100.0%
+2026-09-27 18:42:08 | WARNING | validate  | R12 WARN    resolved_at in ticket table = final resolution in audit log :: of 565 resolved tickets: 20 missing resolved_at, 48 hold the FIRST resolution (reopened)
+2026-09-27 18:42:08 | WARNING | validate  | R13 WARN    One valid 1-5 rating per ticket :: 424 responses: 6 no ticket ref, 9 out of 1-5, 15 resubmissions (kept latest) -> 394 valid; ref formats normalised (tkt100234 / 100234 -> TKT-100234); maps to tickets 100.0%
+2026-09-27 18:42:08 | INFO    | validate  | R14 PASS    Data is fresh enough for the decision :: latest event 2026-09-21 04:21; API last_synced 2026-09-21T06:00 (6h after period end)
+2026-09-27 18:42:08 | WARNING | validate  | R15 UNKNOWN SLA definition is agreed by the KPI owner :: policy file says: 'Student Helpdesk SLA v1 (draft, not formally signed off)'; pause rule & calendar-vs-business hours not signed off
+2026-09-27 18:42:08 | INFO    | validate  | VALIDATION GATE: FAIL
+2026-09-27 18:42:08 | ERROR   | validate  | gate FAILED on ['R06'] -> metrics NOT published; output/latest left unchanged
+2026-09-27 18:42:08 | INFO    | run       | === run finished, exit code 1 ===

@@ -1,0 +1,16 @@
+agent_id,department,role,active
+AGT001,IT Support,Agent,1
+AGT002,IT Support,Agent,1
+AGT003,IT Support,Agent,1
+AGT004,IT Support,Agent,1
+AGT005,Hostel & Maintenance,Agent,1
+AGT006,Hostel & Maintenance,Agent,1
+AGT007,Hostel & Maintenance,Agent,1
+AGT008,Fees & Finance,Agent,1
+AGT009,Fees & Finance,Agent,1
+AGT010,Academics & Exams,Agent,1
+AGT011,Academics & Exams,Agent,1
+AGT012,Library,Agent,1
+AGT013,Helpdesk Triage,Coordinator,1
+AGT014,Helpdesk Triage,Coordinator,1
+AGT015,Helpdesk Triage,Manager,1

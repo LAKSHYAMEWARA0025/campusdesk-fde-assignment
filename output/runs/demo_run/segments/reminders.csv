@@ -1,0 +1,3 @@
+segment,tickets,sla_pct
+auto-reminder fired (no reply in 24h),291,32.3
+no reminder,778,74.7

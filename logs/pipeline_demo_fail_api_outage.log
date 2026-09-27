@@ -1,0 +1,16 @@
+2026-09-27 18:41:55 | INFO    | run       | === CampusDesk pipeline run demo_fail_api_outage ===
+2026-09-27 18:41:55 | INFO    | run       | started mock Portal API (outage mode)
+2026-09-27 18:41:55 | INFO    | retrieve  | SQL  tickets     1254 rows  <- SELECT * FROM tickets
+2026-09-27 18:41:55 | INFO    | retrieve  | SQL  students    1800 rows  <- SELECT student_id, program, year, hostel_block FROM students
+2026-09-27 18:41:55 | INFO    | retrieve  | SQL  agents        15 rows  <- SELECT agent_id, department, role, active FROM agents
+2026-09-27 18:41:55 | INFO    | retrieve  | CSV  events      7849 rows  <- ticket_events.csv
+2026-09-27 18:41:55 | INFO    | retrieve  | JSON csat_surv    424 rows  <- csat_survey_export.json
+2026-09-27 18:41:55 | INFO    | retrieve  | JSON sla_polic      1 rows  <- sla_policy.json
+2026-09-27 18:41:55 | WARNING | retrieve  | API  HTTP 503 on attempt 1/6 -> retry in 0.2s  (http://127.0.0.1:8765/api/v1/interactions?page=1&page_size=200)
+2026-09-27 18:41:55 | WARNING | retrieve  | API  HTTP 503 on attempt 2/6 -> retry in 0.4s  (http://127.0.0.1:8765/api/v1/interactions?page=1&page_size=200)
+2026-09-27 18:41:56 | WARNING | retrieve  | API  HTTP 503 on attempt 3/6 -> retry in 0.8s  (http://127.0.0.1:8765/api/v1/interactions?page=1&page_size=200)
+2026-09-27 18:41:56 | WARNING | retrieve  | API  HTTP 503 on attempt 4/6 -> retry in 1.6s  (http://127.0.0.1:8765/api/v1/interactions?page=1&page_size=200)
+2026-09-27 18:41:58 | WARNING | retrieve  | API  HTTP 503 on attempt 5/6 -> retry in 3.2s  (http://127.0.0.1:8765/api/v1/interactions?page=1&page_size=200)
+2026-09-27 18:42:01 | ERROR   | retrieve  | API  HTTP 503 on attempt 6/6 -> giving up  (http://127.0.0.1:8765/api/v1/interactions?page=1&page_size=200)
+2026-09-27 18:42:01 | ERROR   | run       | STAGE FAILURE: API retries exhausted for http://127.0.0.1:8765/api/v1/interactions?page=1&page_size=200 -> run aborted, metrics NOT published, output/latest left unchanged
+2026-09-27 18:42:01 | INFO    | run       | === run finished, exit code 2 ===

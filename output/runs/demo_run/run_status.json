@@ -1,0 +1,29 @@
+{
+  "run_id": "demo_run",
+  "started_at": "2026-09-27T18:41:48",
+  "simulate": null,
+  "stages": {
+    "retrieve": {
+      "ok": true,
+      "files": 29,
+      "secs": 5.9
+    },
+    "validate": {
+      "ok": true,
+      "gate": "PASS WITH CAVEATS",
+      "secs": 0.1
+    },
+    "model": {
+      "ok": true,
+      "tickets": 1230,
+      "secs": 0.1
+    },
+    "metrics": {
+      "ok": true,
+      "charts": 3,
+      "secs": 0.2
+    }
+  },
+  "finished_at": "2026-09-27T18:41:55",
+  "exit_code": 0
+}

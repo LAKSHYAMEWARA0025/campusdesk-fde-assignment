@@ -1,0 +1,242 @@
+{
+  "gate": "FAIL",
+  "checks": [
+    {
+      "rule_id": "R01",
+      "rule": "Every source returned data; API returned all records",
+      "business_reason": "A missing source silently changes the denominator",
+      "status": "PASS",
+      "evidence": "empty sources: none; API completeness proven in retrieve stage",
+      "action": "stop run if any source empty",
+      "owner": "FDE / data"
+    },
+    {
+      "rule_id": "R02",
+      "rule": "One row = one ticket (ticket_id unique)",
+      "business_reason": "Duplicates inflate volume and distort the SLA rate",
+      "status": "WARN",
+      "evidence": "24 exact duplicate rows (1.9%); 0 conflicting ids",
+      "action": "exact duplicates dropped (safe); conflicting ids would stop the run",
+      "owner": "FDE / data"
+    },
+    {
+      "rule_id": "R03",
+      "rule": "A student's repeat submission of the same issue is not counted twice",
+      "business_reason": "Double-submits look like extra demand",
+      "status": "PASS",
+      "evidence": "22 same student+subject within 15 min; 22 already marked Cancelled",
+      "action": "Cancelled tickets excluded from KPI; the rest are NOT auto-merged (could be genuine repeats)",
+      "owner": "Helpdesk Manager"
+    },
+    {
+      "rule_id": "R04",
+      "rule": "created_at is a valid timestamp",
+      "business_reason": "Every SLA clock starts here",
+      "status": "WARN",
+      "evidence": "200 rows in DD/MM/YYYY format (email importer); unparseable after fix: 0.0%",
+      "action": "parsed both formats; day-first confirmed against the audit log (R06)",
+      "owner": "FDE / data"
+    },
+    {
+      "rule_id": "R05",
+      "rule": "Every audit-log event belongs to a known ticket",
+      "business_reason": "Orphan events cannot be attributed",
+      "status": "WARN",
+      "evidence": "25 orphan events (0.6%); 15 duplicate events dropped",
+      "action": "orphans quarantined, not joined",
+      "owner": "IT admin (ticketing tool)"
+    },
+    {
+      "rule_id": "R06",
+      "rule": "Every ticket has a 'created' event and both systems agree on created_at",
+      "business_reason": "Two systems must tell the same story before we trust either; a ticket with no lifecycle cannot be timed",
+      "status": "FAIL",
+      "evidence": "tickets with audit-log lifecycle: 50.0%; created_at agreement within 1 min: 99.5% (DD/MM rows agree only when parsed day-first)",
+      "action": "source of truth for lifecycle times = audit log; stop run if lifecycle coverage < 98%",
+      "owner": "FDE / data"
+    },
+    {
+      "rule_id": "R07",
+      "rule": "'created' is the first event of every ticket (nothing happens before creation)",
+      "business_reason": "Out-of-order events corrupt every stage duration",
+      "status": "WARN",
+      "evidence": "3 tickets (0.3%) have events before 'created' (0 even resolved before creation); channels: {'walk_in': 3} -> walk-in desk clock skew",
+      "action": "excluded from KPI (not guessed); walk-in desk clock to be fixed",
+      "owner": "IT admin (walk-in desk PC)"
+    },
+    {
+      "rule_id": "R08",
+      "rule": "Each ticket maps to one canonical category",
+      "business_reason": "Department-level SLA needs a clean category",
+      "status": "WARN",
+      "evidence": "20 raw values -> 5 canonical + Unknown; representation fixes=1088, semantic mappings=142 (Academics, Exam Cell, Fees, Finance, HOSTEL, Hostel, IT), Unknown/Other=41",
+      "action": "semantic mappings applied provisionally; analysis uses RESOLVING department from audit log instead",
+      "owner": "Helpdesk Manager"
+    },
+    {
+      "rule_id": "R09",
+      "rule": "Every status maps to a known lifecycle state",
+      "business_reason": "Unknown states break the KPI population",
+      "status": "PASS",
+      "evidence": "11 raw values -> 6 canonical; unmapped=0",
+      "action": "casing/underscore variants normalised",
+      "owner": "FDE / data"
+    },
+    {
+      "rule_id": "R10",
+      "rule": "Every ticket has a priority (it sets the SLA target)",
+      "business_reason": "Wrong target = wrong SLA verdict",
+      "status": "WARN",
+      "evidence": "145 tickets (11.8%) missing priority, all email channel",
+      "action": "defaulted to 'Medium' per draft policy; KPI sensitivity reported",
+      "owner": "Helpdesk Manager"
+    },
+    {
+      "rule_id": "R11",
+      "rule": "Tickets map to students; interactions map to tickets",
+      "business_reason": "Joins must not silently drop rows",
+      "status": "PASS",
+      "evidence": "tickets->students 100.0%; interactions->tickets 100.0%",
+      "action": "none needed",
+      "owner": "FDE / data"
+    },
+    {
+      "rule_id": "R12",
+      "rule": "resolved_at in ticket table = final resolution in audit log",
+      "business_reason": "Reopened tickets must be timed to their FINAL fix",
+      "status": "WARN",
+      "evidence": "of 565 resolved tickets: 20 missing resolved_at, 48 hold the FIRST resolution (reopened)",
+      "action": "use audit log as source of truth; ticket-table resolved_at ignored",
+      "owner": "IT admin (ticketing tool)"
+    },
+    {
+      "rule_id": "R13",
+      "rule": "One valid 1-5 rating per ticket",
+      "business_reason": "Invalid/duplicate ratings bias satisfaction",
+      "status": "WARN",
+      "evidence": "424 responses: 6 no ticket ref, 9 out of 1-5, 15 resubmissions (kept latest) -> 394 valid; ref formats normalised (tkt100234 / 100234 -> TKT-100234); maps to tickets 100.0%",
+      "action": "directional only: ~36% response rate, unhappy students respond more",
+      "owner": "FDE / data"
+    },
+    {
+      "rule_id": "R14",
+      "rule": "Data is fresh enough for the decision",
+      "business_reason": "Freshness depends on use case",
+      "status": "PASS",
+      "evidence": "latest event 2026-09-21 04:21; API last_synced 2026-09-21T06:00 (6h after period end)",
+      "action": "fit for weekly/term reporting; NOT fit for a live queue dashboard (daily batch export)",
+      "owner": "FDE / data"
+    },
+    {
+      "rule_id": "R15",
+      "rule": "SLA definition is agreed by the KPI owner",
+      "business_reason": "Different definitions give different 'truths'",
+      "status": "UNKNOWN",
+      "evidence": "policy file says: 'Student Helpdesk SLA v1 (draft, not formally signed off)'; pause rule & calendar-vs-business hours not signed off",
+      "action": "publish as PROVISIONAL; show sensitivity to definition",
+      "owner": "Dean of Student Affairs"
+    }
+  ],
+  "fixes": [
+    "Dropped 24 exact duplicate ticket rows (email importer double-sync).",
+    "Parsed 200 DD/MM/YYYY HH:MM timestamps (email importer) alongside ISO format.",
+    "Dropped 15 duplicate audit-log events (same event_id).",
+    "Normalised category casing/whitespace (e.g. 'it support', 'HOSTEL ' -> canonical).",
+    "Normalised status variants (e.g. 'closed', 'in_progress', 'closed_no_response').",
+    "CSAT: normalised ticket refs, cast string ratings to int, dropped out-of-range, kept latest per ticket."
+  ],
+  "assumptions": [
+    "Semantic category mappings pending owner confirmation: Academics, Exam Cell, Fees, Finance, HOSTEL, Hostel, IT.",
+    "Missing priority (email tickets) = Medium, per draft SLA policy default."
+  ],
+  "profile": {
+    "tickets": {
+      "rows": 1254,
+      "columns": 11,
+      "null_pct": {
+        "priority": 11.8,
+        "resolved_at": 15.4
+      },
+      "distinct": {
+        "ticket_id": 1230,
+        "category": 20,
+        "status": 11,
+        "priority": 3,
+        "channel": 3
+      },
+      "category_values": {
+        "IT Support": 293,
+        "Hostel & Maintenance": 234,
+        "Academics & Exams": 199,
+        "Fees & Finance": 114,
+        "Library": 90,
+        "Other": 41,
+        "IT support ": 34,
+        "Hostel": 33,
+        "IT": 31,
+        "academics & exams": 23,
+        "hostel maintenance": 22,
+        "HOSTEL ": 21,
+        "it support": 21,
+        "Exam Cell": 19,
+        "Finance": 15,
+        "library": 14,
+        "fees & finance": 13,
+        "Academics": 13,
+        "Library ": 12,
+        "Fees": 12
+      },
+      "status_values": {
+        "Closed": 923,
+        "closed": 69,
+        "CLOSED": 61,
+        "In Progress": 60,
+        "Resolved": 42,
+        "Assigned": 38,
+        "Closed - No Response": 25,
+        "Cancelled": 22,
+        "in_progress": 7,
+        "resolved": 4,
+        "closed_no_response": 3
+      }
+    },
+    "events": {
+      "rows": 3924,
+      "columns": 9,
+      "null_pct": {
+        "from_status": 27.3,
+        "to_status": 11.5,
+        "department": 16.0,
+        "note": 17.4
+      },
+      "event_types": {
+        "status_change": 1467,
+        "created": 621,
+        "assigned": 615,
+        "first_response": 601,
+        "escalated": 272,
+        "reminder_sent": 178,
+        "reassigned": 87,
+        "agent_response": 83
+      }
+    },
+    "interactions": {
+      "rows": 4550,
+      "columns": 7,
+      "null_pct": {}
+    },
+    "students": {
+      "rows": 1800,
+      "columns": 4,
+      "null_pct": {}
+    },
+    "agents": {
+      "rows": 15,
+      "columns": 4,
+      "null_pct": {}
+    },
+    "csat": {
+      "responses": 424
+    }
+  }
+}

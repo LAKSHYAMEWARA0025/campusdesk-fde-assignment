@@ -1,0 +1,29 @@
+{
+  "run_id": "demo_run",
+  "status": "PROVISIONAL",
+  "caveats": [
+    "R02: 24 exact duplicate rows (1.9%); 0 conflicting ids",
+    "R04: 200 rows in DD/MM/YYYY format (email importer); unparseable after fix: 0.0%",
+    "R05: 40 orphan events (0.5%); 77 duplicate events dropped",
+    "R07: 8 tickets (0.7%) have events before 'created' (6 even resolved before creation); channels: {'walk_in': 8} -> walk-in desk clock skew",
+    "R08: 20 raw values -> 5 canonical + Unknown; representation fixes=1088, semantic mappings=142 (Academics, Exam Cell, Fees, Finance, HOSTEL, Hostel, IT), Unknown/Other=41",
+    "R10: 145 tickets (11.8%) missing priority, all email channel",
+    "R12: of 1081 resolved tickets: 42 missing resolved_at, 99 hold the FIRST resolution (reopened)",
+    "R13: 424 responses: 6 no ticket ref, 9 out of 1-5, 15 resubmissions (kept latest) -> 394 valid; ref formats normalised (tkt100234 / 100234 -> TKT-100234); maps to tickets 100.0%",
+    "R15: policy file says: 'Student Helpdesk SLA v1 (draft, not formally signed off)'; pause rule & calendar-vs-business hours not signed off"
+  ],
+  "kpi": {
+    "name": "SLA compliance rate",
+    "resolved_tickets": 1069,
+    "met_sla": 675,
+    "sla_compliance_pct": 63.1
+  },
+  "supporting_metrics": {
+    "M1_median_first_response_h": 17.9,
+    "M2_median_manual_triage_wait_h": 13.2,
+    "M3_reassignment_rate_pct": 12.4,
+    "M4_reopen_rate_pct": 9.4,
+    "M5_avg_csat": 3.69,
+    "M5_csat_response_rate_pct": 36.5
+  }
+}

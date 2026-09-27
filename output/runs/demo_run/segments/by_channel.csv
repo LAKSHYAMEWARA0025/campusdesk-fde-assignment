@@ -1,0 +1,4 @@
+segment,tickets,sla_pct,manual_triage_pct,median_triage_h
+portal,672,62.1,10.4,0.1
+email,355,63.1,89.3,11.4
+walk_in,42,81.0,4.8,0.2

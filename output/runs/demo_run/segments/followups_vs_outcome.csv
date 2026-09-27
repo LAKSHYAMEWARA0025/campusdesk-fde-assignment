@@ -1,0 +1,3 @@
+segment,tickets,avg_followups,avg_csat,csat_n
+breached SLA,394,3.79,2.86,174
+met SLA,675,1.05,4.37,216
