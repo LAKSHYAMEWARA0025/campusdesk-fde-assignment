@@ -1,0 +1,41 @@
+name: pipeline
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install
+        run: pip install pandas numpy matplotlib pytest
+      - name: Regenerate source systems (deterministic, seed 42)
+        run: python generator/generate_data.py
+      - name: Normal run (must publish, exit 0)
+        run: python pipeline/run_pipeline.py --run-id ci_run
+      - name: API outage must fail safely (exit 2)
+        run: |
+          set +e
+          python pipeline/run_pipeline.py --run-id ci_fail_api --simulate api_outage
+          test $? -eq 2
+      - name: Truncated export must be stopped by the gate (exit 1)
+        run: |
+          set +e
+          python pipeline/run_pipeline.py --run-id ci_fail_trunc --simulate truncated_events
+          test $? -eq 1
+      - name: Reliability check vs ground truth
+        run: python tests/reconcile_with_truth.py
+      - name: Tests
+        run: python -m pytest -q tests
+      - uses: actions/upload-artifact@v4
+        with:
+          name: pipeline-output
+          path: |
+            output/latest
+            logs

@@ -5,3 +5,8 @@ __pycache__/
 .DS_Store
 output/.latest_tmp_*
 .pytest_cache/
+.env
+*.env
+data/raw/live_*/
+output/runs/live_*/
+logs/pipeline_live_*.log

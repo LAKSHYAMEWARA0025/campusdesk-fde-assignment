@@ -298,7 +298,8 @@ pre.code { background: #f6f7f9; border: 1px solid var(--line); padding: 7px 9px;
 .flow span { background: var(--bg2); border: 1px solid #c9d2df; border-radius: 4px; padding: 2px 5px; }
 .flow span.pain { background: #fdf0f0; border-color: #e7a3a3; }
 .flow i { color: var(--muted); font-style: normal; }
-.toc td { border: none; padding: 2px 4px; font-size: 9pt; }
+.toc td { border: none; padding: 1.5px 4px; font-size: 8.8pt; }
+.toc td:first-child { white-space: nowrap; }
 .num { text-align: right; }
 code { font-family: Menlo, Consolas, monospace; font-size: .86em; }
 .rules td, .rules th { font-size: 7.3pt; padding: 2.5px 4px; }
@@ -311,12 +312,13 @@ def cover():
     return f"""
 <section class="page">
 <div class="muted" style="font-size:8.5pt;letter-spacing:.08em;margin-top:6px">FDE ASSIGNMENT · CLASSES 1–8 · FROM AMBIGUOUS PROBLEM TO DEPENDABLE DATA WORKFLOW</div>
-<h1 style="margin-top:8px">CampusDesk: why student support tickets take so long, and what to fix first</h1>
+<h1 style="margin-top:6px;font-size:19pt">CampusDesk: why student support tickets take so long, and what to fix first</h1>
 <div class="cover-meta"><b>Lakshya Mewara</b> · Roll No. 24bcs10290 · Batch 2024-28</div>
 
 <table class="toc" style="width:auto;margin-bottom:10px">
 <tr><td><b>GitHub repository</b></td><td>{gh}</td></tr>
 <tr><td><b>5-min demo video</b></td><td>{vid}</td></tr>
+<tr><td><b>Repo contents</b></td><td>README · SQLite database + all source files · generator · mock API · pipeline · tests · CI · executed notebook</td></tr>
 <tr><td><b>Data</b></td><td>Synthetic, realistic, reproducible (seeded generator in the repo). No real student data used.</td></tr>
 </table>
 
