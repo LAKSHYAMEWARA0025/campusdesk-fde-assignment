@@ -29,8 +29,8 @@ LOG_TRUNC = (ROOT / "logs" / "pipeline_demo_fail_truncated_events.log").read_tex
 J = pd.read_csv(L / "ticket_journey.csv")
 K = J[J.in_kpi_population]
 
-OUT_HTML = ROOT / "report" / "report.html"
-OUT_PDF = ROOT / "report" / "CampusDesk_FDE_Assignment_Lakshya_Mewara.pdf"
+OUT_HTML = ROOT / "docs" / "full_report.html"
+OUT_PDF = ROOT / "docs" / "CampusDesk_Full_Report.pdf"
 CHROME = "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome"
 
 

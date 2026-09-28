@@ -10,3 +10,5 @@ output/.latest_tmp_*
 data/raw/live_*/
 output/runs/live_*/
 logs/pipeline_live_*.log
+docs/full_report.html
+report/submission.html
