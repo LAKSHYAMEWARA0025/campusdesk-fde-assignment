@@ -48,7 +48,7 @@ The request was a **solution** ("buy an AI chatbot"), not a problem. Following t
 ### Current-state workflow (red = where the problem appears)
 
 ```mermaid
-flowchart LR
+flowchart TD
     S([Student raises ticket<br/>portal 58% · email 32% · walk-in 10%]) --> R{Category<br/>at intake?}
     R -- "portal category" --> A[Auto-route<br/>to department]
     R -- "email / 'Other'" --> M["① Manual triage queue<br/>median wait 13.2h"]:::pain
@@ -313,7 +313,7 @@ FROM ticket_journey WHERE in_kpi_population = 1 GROUP BY 1;
 ## §8 Dependable pipeline
 
 ```mermaid
-flowchart LR
+flowchart TD
     RUN([python pipeline/run_pipeline.py]) --> R1["1 RETRIEVE<br/>SQL · CSV · JSON · API<br/>retries + completeness<br/>raw snapshot + sha256"]
     R1 -- "retries exhausted /<br/>incomplete" --> E2["exit 2<br/>nothing published"]:::bad
     R1 --> V["2 VALIDATE<br/>15 business rules<br/>safe fixes only"]
