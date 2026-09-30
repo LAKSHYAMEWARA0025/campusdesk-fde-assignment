@@ -86,7 +86,7 @@ python pipeline/run_pipeline.py --run-id live_fail --simulate truncated_events
 ### 4:15 – 4:40 · Wrap-up
 **Show:** PDF **page 2** (Reliability + unknowns), then the **GitHub repo** with the green badge.
 
-> "One last thing: since the data is synthetic, I could check my pipeline against the true answer, and it's within half a percent.
+> "One last thing: since the data is synthetic, I could check my pipeline against the true answer, and it's less than half a point off.
 > What I still don't know is *why* tickets get misrouted, and whether earlier escalation really helps. That's what the pilot is for.
 > Everything is on GitHub, with the full README. Thanks for watching!"
 

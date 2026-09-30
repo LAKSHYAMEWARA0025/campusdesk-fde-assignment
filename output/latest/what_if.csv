@@ -1,7 +1,0 @@
-scenario,est_sla_compliance_pct,change,key_assumption,uplift_pp,est_high_priority_sla_pct
-Baseline (today),63.1,-,measured,0.0,20.9
-S1  Fix intake routing,68.6,Email/'Other' tickets get a category at intake (portal form link + keyword suggestion); removes manual-triage wait and re-routing time,removed time is not replaced by other waiting,5.5,26.6
-S2  Priority-first queue,64.6,High-priority tickets jump the department queue,High first-response wait falls 80% (to ~3h),1.5,32.4
-S3  Escalate at 50% of SLA,72.9,Replace 'open > 48h at 10:00 daily review' with an automatic alert at 50% of the ticket's SLA,"escalation cuts remaining time by 40% - NOT measured, must be piloted",9.8,29.5
-S1 + S2,70.2,,as above,7.1,38.8
-S1 + S2 + S3,78.8,,as above,15.7,48.9

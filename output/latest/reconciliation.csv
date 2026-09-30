@@ -1,4 +1,0 @@
-method,tickets,sla_compliance,error_vs_truth_pp
-Ground truth (simulated),1077,63.5,0.0
-Pipeline (cleaned + modelled),1069,63.1,-0.4
-Naive query on ticket table,714,64.6,1.1
