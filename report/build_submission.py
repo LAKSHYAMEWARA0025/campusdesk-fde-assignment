@@ -106,7 +106,7 @@ A naive query silently drops {100 - round(100 * br.NAIVE_N / br.N_TICKETS)}% of 
 
 <table class="links">
 <tr><td>GitHub repo</td><td>{a(REPO)} (README explains every stage, with flowcharts)</td></tr>
-<tr><td>Notebook · pipeline</td><td>{a(BLOB + '/notebooks/CampusDesk_FDE_Walkthrough.ipynb', 'walkthrough notebook')} · {a(BLOB + '/logs', 'logs/')} · {a(BLOB + '/output/latest/validation_report.md', 'validation_report.md')} · {a(REPO + '/actions', 'CI runs')} · {a(BLOB + '/docs/CampusDesk_Full_Report.pdf', 'detailed report (optional)')}</td></tr>
+<tr><td>Notebook · pipeline</td><td>{a(BLOB + '/notebooks/CampusDesk_FDE_Walkthrough.ipynb', 'walkthrough notebook')} · {a(REPO + '/tree/main/logs', 'logs/')} · {a(BLOB + '/output/latest/validation_report.md', 'validation_report.md')} · {a(REPO + '/actions', 'CI runs')} · {a(BLOB + '/docs/CampusDesk_Full_Report.pdf', 'detailed report (optional)')}</td></tr>
 </table>
 <div class="video"><b>5-min demo video:</b> {video}</div>
 </section>"""

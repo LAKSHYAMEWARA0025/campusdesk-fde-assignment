@@ -358,7 +358,7 @@ Fixing intake routing and moving escalation to 50% of the SLA is estimated to li
 <tr><td>8</td><td>Workflow model with data: entities, events, interventions, outcomes, SQL metrics</td><td class="muted">p.10–11</td></tr>
 <tr><td>9</td><td>Findings &amp; recommendation</td><td class="muted">p.12–14</td></tr>
 <tr><td>10</td><td>Dependable pipeline: run log, checks, failure handling, reliability evidence</td><td class="muted">p.15–16</td></tr>
-<tr><td>11</td><td>What remains unknown · 5-min demo script</td><td class="muted">p.17</td></tr>
+<tr><td>11</td><td>What remains unknown</td><td class="muted">p.17</td></tr>
 </table>
 </section>"""
 
@@ -838,16 +838,6 @@ def unknowns_demo():
 <div class="callout warn"><b>Would I build the AI chatbot now?</b> No. First fix routing and escalation, and sign off the KPI definition. Once the process is sound, a chatbot is worth testing for
 FAQ-type tickets (e.g. Wi-Fi, LMS login) and for the "any update?" follow-ups, measured with this same pipeline.</div>
 
-<h2 style="margin-top:14px"><span class="n">12</span>5-minute demo script</h2>
-<table class="small"><tr><th style="width:12%">Time</th><th style="width:28%">Show</th><th>Say</th></tr>
-<tr><td>0:00–0:40</td><td>This PDF, cover page</td><td>"The Dean wanted to buy an AI chatbot because tickets take forever. As an FDE I didn't build the request. I first found where the time goes."</td></tr>
-<tr><td>0:40–1:30</td><td>Problem brief + workflow map (p.2, p.4)</td><td>Stakeholders; the workflow; 5 pain points; SMART statement: {KPI_PCT:.0f}% → 75% in 8 weeks with the same team and tool.</td></tr>
-<tr><td>1:30–2:30</td><td>Terminal: <code>python pipeline/run_pipeline.py</code></td><td>4 source types; the API fails with 500s and 429s and the pipeline retries and proves all {raw_inter:,} records arrived; 15 rules, PASS/WARN/UNKNOWN; gate passes with caveats; KPI {KPI_PCT:.1f}%.</td></tr>
-<tr><td>2:30–3:00</td><td>Terminal: <code>--simulate truncated_events</code></td><td>"Half the audit log is missing, so R06 fails and nothing is published. output/latest still has the last good run."</td></tr>
-<tr><td>3:00–4:10</td><td>Findings charts (p.12–13)</td><td>Priority ignored (High {HIGH:.0f}%); misrouting {R0:.0f}→{R2:.0f}%; Finance and Academics; escalation at {ESC_MED_H:.0f}h. Association vs causation.</td></tr>
-<tr><td>4:10–4:40</td><td>Recommendation + what-if (p.13–14)</td><td>Fix routing and escalation first (about {S123.est_sla_compliance_pct:.0f}% estimated), pilot 2 weeks, leading indicators; no chatbot yet.</td></tr>
-<tr><td>4:40–5:00</td><td>Reconciliation + unknowns (p.16–17)</td><td>Pipeline within {abs(PIPE_ERR):.1f} pp of truth, while the naive query is off; what remains unknown and who owns it.</td></tr></table>
-<p class="tiny">Repo: {gh}. Full executed walkthrough: <code>notebooks/CampusDesk_FDE_Walkthrough.ipynb</code> (also exported as HTML).</p>
 </section>"""
 
 

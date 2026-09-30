@@ -10,7 +10,7 @@
 | 📓 Executed notebook | [`notebooks/CampusDesk_FDE_Walkthrough.ipynb`](notebooks/CampusDesk_FDE_Walkthrough.ipynb) |
 | ⚙️ Pipeline artifact | [`logs/`](logs) · [`output/latest/`](output/latest) · [validation report](output/latest/validation_report.md) · [CI runs](https://github.com/LAKSHYAMEWARA0025/campusdesk-fde-assignment/actions) |
 | 📚 Detailed report (optional) | [`docs/CampusDesk_Full_Report.pdf`](docs/CampusDesk_Full_Report.pdf) |
-| 🎬 5-min demo | link in the submission PDF · script in [`docs/DEMO_SCRIPT.md`](docs/DEMO_SCRIPT.md) |
+| 🎬 5-min demo video | [Watch on Google Drive](https://drive.google.com/file/d/1Y3bQK0By8r2pZZA1hZiyy4_bPPbE2W2M/view?usp=sharing) |
 
 > **TL;DR.** The Dean wanted to buy an AI chatbot because "helpdesk tickets take forever". The data shows the delay isn't in answering students. It's in **routing, queueing and escalation**.
 > SLA compliance is **63.1%**, and only **21%** for High priority. Misrouted tickets drop from **66% → 18%** on time, and escalation happens at a median of **65h**.
@@ -411,7 +411,7 @@ output/latest/                    last published run: warehouse.db, metrics.json
 output/runs/<run_id>/             every run, including failed ones (run_status.json)
 logs/                             one log per run
 report/                           2-page submission PDF + its build script
-docs/                             detailed report (PDF), demo script
+docs/                             detailed report (PDF)
 synthetic_truth/                  hidden ground truth (used only by the reliability check)
 .github/workflows/pipeline.yml    CI
 ```
